@@ -1,0 +1,44 @@
+.
+├── Agriculture AI
+│   └── Plant diseases detection
+├── Bidirectional LSTM
+│   ├── Dataset
+│   ├── Models
+│   └── README.md
+├── Contributing.md
+├── Data Analysis
+│   └── README.md
+├── federatedlearning
+│   ├── __pycache__
+│   ├── chest_xray
+│   ├── client.py
+│   ├── data_split.py
+│   ├── federated
+│   ├── federatedlearning
+│   ├── model.py
+│   ├── requirements.txt
+│   ├── server.py
+│   └── utils.py
+├── Financial AI
+│   ├── README.md
+│   └── Stock Price Analysis
+├── Health AI
+│   ├── diabetes
+│   ├── Food Classifier AI
+│   ├── heart disease
+│   ├── README.md
+│   └── Symptom-Disease-Predictor
+├── License.md
+├── Optical Detections
+│   └── Optical character recognition (OCR)
+├── project_structure.txt
+├── README.md
+├── Road Safety AI
+│   └── CCTV accident prediction
+├── Security.md
+└── Stock Price Analysis
+    ├── README.md
+    ├── RELIANCE.csv
+    └── stock-market-prediction.ipynb
+
+24 directories, 18 files
