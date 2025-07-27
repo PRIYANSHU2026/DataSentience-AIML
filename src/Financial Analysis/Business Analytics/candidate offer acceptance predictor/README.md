@@ -1,5 +1,7 @@
 Candidate Offer Acceptance Predictor
 This project leverages machine learning to predict whether a job candidate will accept an offer based on various interview and background features. It’s part of the SSoC open-source initiative and is built using a Random Forest Classifier with structured + categorical data.
+[!ui screenshot](assets/Screenshot_27-7-2025_221024_cuddly-train-7v9vrrvvwv5w3w66w.github.dev.jpeg)
+[!ui screenshot](assets/Screenshot_27-7-2025_221035_cuddly-train-7v9vrrvvwv5w3w66w.github.dev.jpeg)
 
 📌 Problem Statement
 Organizations often face uncertainty when extending job offers to candidates. This project solves that by predicting candidate offer acceptance using:
