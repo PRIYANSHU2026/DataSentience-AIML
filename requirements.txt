@@ -6,3 +6,5 @@ scikit-learn
 statsmodels
 tensorflow
 keras
+Pmdarima
+statsmodel
