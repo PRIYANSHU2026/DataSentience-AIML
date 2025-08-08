@@ -1,0 +1,1194 @@
+Cars Names,HorsePower_clean,TopSpeed_clean,Accel_clean,Cluster
+SF90 STRADALE,963.0,340.0,2.5,2
+PHANTOM,563.0,250.0,5.3,2
+KA+,77.5,165.0,10.5,1
+ GT 63 S,630.0,250.0,3.2,2
+AUDI R8 Gt,602.0,320.0,3.6,2
+Mclaren 720s,710.0,341.0,2.9,2
+VANTAGE F1,656.0,314.0,3.6,2
+Continental GT Azure,550.0,318.0,4.0,2
+VENENO ROADSTER,750.0,356.0,2.9,2
+F8 TRIBUTO,710.0,340.0,2.9,2
+812 GTS,789.0,340.0,2.9,2
+PORTOFINO,592.0,320.0,3.2,2
+ROMA,612.0,320.0,3.4,2
+MONZA SP2,789.0,340.0,2.9,2
+F8 SPIDER,710.0,340.0,2.9,2
+PORTOFINO M,612.0,320.0,3.2,2
+ROMA SPIDER,612.0,320.0,3.4,2
+GR SUPRA,382.0,250.0,4.1,0
+TOYOTA 86,205.0,226.0,6.4,0
+TOYOTA  GR86,228.0,226.0,5.6,0
+TOYOTA LAND CRUISER,381.0,220.0,6.7,0
+TOYOTA SEQUOIA,381.0,200.0,6.9,0
+GT-R,600.0,315.0,2.9,2
+370Z,332.0,250.0,4.7,0
+Z PROTO,400.0,290.0,4.1,2
+ALTIMA,188.0,225.0,7.3,0
+MAXIMA,300.0,240.0,5.8,0
+SENTRA,149.0,200.0,8.2,0
+ROGUE,201.0,200.0,7.5,0
+PATHFINDER,284.0,225.0,6.5,0
+FRONTIER,310.0,180.0,6.8,0
+TITAN,400.0,200.0,5.9,0
+VALKYRIE,1160.0,402.0,2.5,2
+VALHALLA,1000.0,362.0,2.5,2
+DBS SUPERLEGGERA,715.0,340.0,3.4,2
+DB11,600.0,322.0,3.9,2
+VANTAGE ,503.0,313.0,3.6,2
+DBX,542.0,291.0,4.5,2
+RAPIDE AMR,580.0,328.0,4.2,2
+VANQUISH,580.0,324.0,3.6,2
+LAGONDA TARAF,540.0,314.0,4.2,2
+VICTOR,836.0,320.0,2.8,2
+SIAN,819.0,350.0,2.8,2
+AVENTADOR SVJ,759.0,350.0,2.8,2
+HURACAN PERFORMANTE,640.0,325.0,2.9,2
+HURACAN EVO,640.0,325.0,2.9,2
+AVENTADOR SV,740.0,350.0,2.8,2
+URUS ,641.0,305.0,3.6,2
+HURACAN SPYDER,610.0,325.0,3.4,2
+AVENTADOR ROADSTER,700.0,350.0,3.0,2
+HURACAN  PERFORMANTE SPYDER,640.0,325.0,3.1,2
+AVENTADOR S,740.0,350.0,2.9,2
+HURACAN EVO SPYDER,640.0,325.0,3.1,2
+URUS PERFORMANTE,641.0,305.0,3.3,2
+AVENTADOR ULTIMAE,769.0,355.0,2.8,2
+HURACAN EVO RWD,610.0,325.0,3.3,2
+AVENTADOR SVJ ROADSTER,759.0,350.0,2.9,2
+URUS S,671.0,305.0,3.3,2
+HURACAN STO,640.0,325.0,3.0,2
+AVENTADOR LP 780-4 ULTIMATE,769.0,355.0,2.8,2
+HURACAN EVO RWD SPYDER,610.0,325.0,3.3,2
+AVENTADOR SVJ XAGO,759.0,350.0,2.9,2
+URUS GRAPHITE CAPSULE,641.0,305.0,3.3,2
+HURACAN STO EVO,640.0,325.0,3.0,2
+AVENTADOR LP 780-4 ULTIMATE ROADSTER,769.0,355.0,2.8,2
+GHOST,591.0,250.0,4.8,2
+WRAITH,624.0,250.0,4.4,2
+DAWN,624.0,250.0,4.9,2
+CULLINAN,563.0,250.0,5.2,2
+PHANTOM EXTENDED,563.0,250.0,5.3,2
+GHOST EXTENDED,591.0,250.0,4.8,2
+WRAITH BLACK BADGE,624.0,250.0,4.3,2
+DAWN BLACK BADGE,624.0,250.0,4.8,2
+CULLINAN BLACK BADGE,563.0,250.0,5.1,2
+PHANTOM COUPE,563.0,250.0,5.3,2
+GHOST COUPE,591.0,250.0,4.8,2
+WRAITH COUPE,624.0,250.0,4.4,2
+DAWN CONVERTIBLE,624.0,250.0,4.9,2
+CULLINAN SUV,563.0,250.0,5.2,2
+BENZ S-CLASS S 580,496.0,250.0,4.4,2
+BENZ E-CLASS E 63 S,603.0,250.0,3.4,2
+BENZ CLA 45 AMG,382.0,250.0,4.1,0
+BENZ GLE 63 S,603.0,250.0,4.2,2
+BENZ S-CLASS S 500,429.0,250.0,4.9,0
+BENZ E-CLASS E 450 ,362.0,250.0,5.2,0
+BENZ CLS 450,362.0,250.0,5.2,0
+BENZ GT 53,429.0,250.0,4.5,0
+BENZ GLE 450,362.0,250.0,5.5,0
+BENZ A-CLASS A 45 S,416.0,250.0,3.9,0
+BENZ C-CLASS C 43,402.0,250.0,4.7,0
+BENZ E-CLASS E 350,255.0,250.0,5.7,0
+BENZ GLE 350 ,255.0,250.0,6.1,0
+BENZ GLC 43,402.0,250.0,4.7,0
+BENZ GLA 45,382.0,250.0,4.3,0
+BENZ GLC 350 ,255.0,250.0,6.1,0
+BENZ GLE 53,429.0,250.0,5.2,0
+BENZ S-CLASS S 350,255.0,250.0,6.5,0
+BENZ EQS 53,751.0,250.0,3.4,2
+BENZ MAYBACH S 680,630.0,250.0,4.7,2
+M5 CS,627.0,305.0,3.0,2
+M4 GTS,493.0,305.0,3.7,2
+M3 COMPETITION,503.0,285.0,3.5,2
+M2 CS,444.0,280.0,4.0,2
+X5 M COMPETITION,523.0,285.0,4.1,2
+X3 M COMPETITION,503.0,285.0,4.1,2
+M8 GRAN COUPE,523.0,305.0,3.3,2
+M850i DRIVE COUPE,523.0,285.0,3.7,2
+DAWN BLACK BADGE VOLANTE,563.0,250.0,4.8,2
+CULLINAN BLACK BADGE SUV,563.0,250.0,5.1,2
+PHATOM TRANQUILITY,563.0,250.0,5.3,2
+GHOST ZENITH,563.0,250.0,4.9,2
+WRAITH EAGLE VIII,623.0,250.0,4.5,2
+PHATOM ORCHID,563.0,250.0,5.3,2
+GHOST AZURE,563.0,250.0,4.9,2
+WRAITH KRYPTOS,623.0,250.0,4.5,2
+DAWN SILVER BULLET,563.0,250.0,4.8,2
+CULLINAN FUX ORANGE,563.0,250.0,5.1,2
+PHANTOM CELESTIAL,563.0,250.0,5.3,2
+GHOST MYSORE,563.0,250.0,4.9,2
+WRAITH LUMINARY,623.0,250.0,4.5,2
+DAWN BLACK BADGE ADAMAS,563.0,250.0,4.8,2
+CULLINAN RED DIAMOND,563.0,250.0,5.1,2
+R8 V10 PLUS,610.0,330.0,3.2,2
+RS7 SPORTBACK,591.0,305.0,3.6,2
+S8,563.0,305.0,4.3,2
+RS6 AVANT,591.0,305.0,3.6,2
+S7 SPORTBACK,563.0,305.0,4.3,2
+A8,335.0,250.0,5.7,0
+S5 COUPE,349.0,250.0,4.8,0
+SQ5,349.0,250.0,5.4,0
+S4 SEDAN,349.0,250.0,4.7,0
+S3 SEDAN,306.0,250.0,4.8,0
+Q7,335.0,250.0,6.3,0
+Q5,248.0,240.0,6.3,0
+A7,335.0,250.0,5.7,0
+A6,335.0,250.0,5.7,0
+A5 COUPE,248.0,240.0,6.3,0
+A4,248.0,240.0,6.5,0
+Q3,248.0,230.0,7.3,0
+E-TRON,402.0,200.0,5.5,0
+E-TRON SPORTBACK,402.0,200.0,5.5,0
+TT COUPE,248.0,250.0,5.3,0
+I8 ROADSTER,369.0,250.0,4.4,0
+330i,255.0,250.0,5.6,0
+M340i XDRIVE,382.0,250.0,4.1,0
+430i COUPE,255.0,250.0,5.8,0
+M4 COMPETITION,503.0,290.0,3.8,2
+530i,248.0,250.0,5.9,0
+M550i XDRIVE,523.0,250.0,3.6,2
+118i,136.0,213.0,8.5,0
+128ti,261.0,250.0,6.1,0
+M135i XDRIVE,302.0,250.0,4.8,0
+116D,116.0,200.0,10.3,1
+120D XDRIVE,190.0,230.0,6.9,0
+116i,109.0,200.0,10.9,1
+118D,150.0,216.0,8.4,0
+120i,178.0,230.0,7.1,0
+125i,224.0,240.0,6.1,0
+114D,95.0,185.0,12.2,1
+114i,102.0,195.0,11.2,1
+125D,224.0,240.0,6.3,0
+118i XDRIVE,136.0,211.0,8.9,0
+116D EFFICIENTDYNAMICS,116.0,200.0,10.9,1
+118i SPORTLINE,136.0,213.0,8.5,0
+118i M SPORT,136.0,213.0,8.5,0
+120i M SPORT,178.0,230.0,7.1,0
+116i EFFICIENTDYNAMICS,109.0,195.0,10.9,1
+116D ADVANTAGE,116.0,200.0,10.5,1
+120D EFFICIENTDYNAMICS,163.0,225.0,7.7,0
+118i SHADOW LINE,136.0,213.0,8.5,0
+118D SPORT LINE,150.0,216.0,8.4,0
+120i XDRIVE,178.0,230.0,7.2,0
+114D SPORT LINE,95.0,185.0,12.2,1
+118i URBAN LINE,136.0,213.0,8.5,0
+XC90,247.0,200.0,6.5,0
+XC60,247.0,220.0,6.4,0
+S90,295.0,250.0,5.9,0
+SPORTAGE LX,187.0,200.0,8.0,0
+SPORTAGE EX,187.0,200.0,8.0,0
+SPORTAGE GT-LINE,187.0,200.0,8.0,0
+SPORTAGE SX TURBO,240.0,210.0,6.7,0
+SPORTAGE NIGHTFALL EDITION,187.0,200.0,8.0,0
+CIVIC TYPE R,315.0,272.0,5.7,0
+SPORTAGE PHEV,261.0,180.0,8.0,0
+SPORTAGE 2024(BASE MODEL),187.0,200.0,8.0,0
+SPORTAGE 2024(TOP TRIM),240.0,210.0,6.7,0
+SPORTAGE 2024(BASE AWD),187.0,200.0,8.3,0
+SPORTAGE X-LINE,187.0,200.0,8.0,0
+SPORTAGE 2024(S TRIM),187.0,200.0,8.2,0
+ACCORD,192.0,201.0,7.1,0
+SPORTAGE 2024(HYBRID AWD),227.0,180.0,8.0,0
+SPORTAGE 2024(PLUG-IN HYBRID AWD),261.0,180.0,7.9,0
+SPORTAGE 2024(X-PRO),187.0,200.0,8.1,0
+SPORTAGE 2024(X-PRO PRESTIGE),187.0,200.0,8.1,0
+SPORTAGE 2024(SX TURBO AWD),240.0,210.0,6.5,0
+SPORTAGE 2024(BASE FWD),187.0,200.0,8.5,0
+CR-V,190.0,186.0,8.2,0
+PILOT,285.0,209.0,6.3,0
+CIVIC HATCHBACK,180.0,220.0,6.8,0
+CAMRY,301.0,220.0,6.0,0
+COROLLA,139.0,180.0,9.4,1
+PRIUS,121.0,180.0,10.5,1
+RAV4,203.0,200.0,8.1,0
+HIGHLANDER,295.0,220.0,7.2,0
+4RUNNER ,270.0,200.0,7.5,0
+TACOMA,159.0,180.0,9.5,1
+TUNDRA,381.0,220.0,6.7,0
+AVALON,301.0,220.0,6.9,0
+MIRAI,151.0,180.0,9.2,1
+SIENNA,245.0,190.0,8.0,0
+VENZA,219.0,200.0,7.5,0
+HIGHLANDER HYBRID,240.0,220.0,8.2,0
+LAND CRUISER PRADO,282.0,200.0,7.2,0
+TUNDRA HYBRID,344.0,220.0,6.2,0
+YARIS,106.0,180.0,11.2,1
+C-HR,144.0,200.0,10.2,1
+BZ4X,218.0,200.0,7.5,0
+CROWN,236.0,200.0,7.6,0
+MR2,168.0,200.0,6.9,0
+CELICA,140.0,200.0,8.5,0
+CITY,119.0,180.0,10.2,1
+CIVIC,158.0,200.0,8.5,0
+I10,87.0,160.0,12.2,1
+I20,99.0,180.0,10.5,1
+ELANTRA,147.0,200.0,9.5,1
+XUV500,155.0,180.0,10.5,1
+SCORPIO,140.0,160.0,11.2,1
+THAR,150.0,180.0,10.5,1
+SWIFT,83.0,160.0,12.2,1
+DZIRE,83.0,160.0,12.2,1
+BREZZA,103.0,180.0,11.5,1
+PRIUS PRIME,220.0,180.0,6.7,0
+LAND CRUISER 300,305.0,210.0,6.8,0
+TUNDRA I-FORCE MAX,437.0,180.0,6.2,0
+COROLLA HATCHBACK XSE,169.0,190.0,8.2,0
+MIRAI,152.0,180.0,9.0,1
+HILUX GR SPORT,224.0,170.0,10.0,1
+ALPHARD EXECUTIVE LOUNGE,296.0,180.0,8.5,0
+FORTUNER GR SPORT,204.0,175.0,10.5,1
+INNOVA HYCROSS,184.0,165.0,9.5,1
+URBAN CRUISER TAISOR,114.0,170.0,11.0,1
+AYGO X,71.0,160.0,14.8,1
+HILUX REVO ROCCO,204.0,175.0,10.0,1
+PROACE VERSO ELECTRIC,136.0,130.0,13.5,1
+CENTURY SUV,406.0,200.0,6.0,0
+COROLLA SEDAN HYBRID,134.0,180.0,10.0,1
+BZ3,241.0,160.0,7.5,0
+GR YARIS,268.0,230.0,5.5,0
+SANTA FE,253.0,180.0,9.3,1
+IONIQ 5,225.0,185.0,7.4,0
+Santa Cruz,281.0,215.0,6.5,0
+Elantra,147.0,210.0,8.3,0
+Urvan,2488.0,140.0,14.0,2
+IONIQ 6,320.0,185.0,5.2,0
+Tucson,187.0,180.0,6.1,0
+Palisade,291.0,240.0,6.3,0
+Sonata,191.0,240.0,8.0,0
+Accent,120.0,180.0,9.8,1
+Venue,121.0,180.0,9.5,1
+KONA Electric,200.0,200.0,6.1,0
+Veloster,275.0,220.0,6.0,0
+NEXO,161.0,180.0,7.8,0
+Ioniq,139.0,160.0,8.5,1
+Genesis,291.0,240.0,6.3,0
+Azera,278.0,240.0,6.5,0
+Equus,278.0,240.0,6.5,0
+Tiburon,160.0,200.0,8.2,0
+Elantra GT,160.0,200.0,8.3,0
+Golf,215.0,210.0,8.5,0
+Passat,215.0,210.0,7.8,0
+Tiguan,190.0,209.0,8.5,0
+Jetta,189.0,210.0,7.7,0
+Polo,140.0,190.0,9.5,1
+Arteon,215.0,250.0,5.6,0
+ID.4,251.5,160.0,7.8,0
+Up!,82.0,160.0,13.0,1
+Touareg,365.5,235.0,5.9,0
+Scirocco,202.5,233.0,6.0,0
+Beetle,157.5,205.0,7.0,0
+Amarok,210.5,180.0,7.9,0
+T-Roc,207.5,205.0,7.2,0
+Sharan,185.0,200.0,9.3,1
+Caddy,126.0,185.0,10.5,1
+NV1500,261.0,160.0,9.5,1
+Taigo,122.5,183.0,10.0,1
+California,177.0,180.0,13.0,1
+ID.3,204.0,160.0,7.3,0
+ID. Buzz,204.0,145.0,10.2,1
+Golf GTI,245.0,250.0,5.9,0
+Golf R,315.0,250.0,4.6,0
+Passat Alltrack,215.0,220.0,7.8,0
+Polo GTI,204.0,238.0,6.7,0
+Up! GTI,115.0,196.0,8.8,1
+T-Cross,122.5,200.0,10.2,1
+ID.5,236.5,180.0,8.4,0
+ID. Buzz Cargo,204.0,145.0,10.2,1
+Touareg R,462.0,250.0,5.1,0
+Multivan,184.0,190.0,9.4,1
+Polo BlueMotion,85.0,190.0,10.5,1
+Golf Sportsvan,140.0,210.0,8.9,0
+Golf Alltrack,173.5,210.0,7.1,0
+Scirocco R,280.0,250.0,5.5,0
+Tiguan Allspace,207.0,215.0,7.6,0
+Arteon 4MOTION,255.0,250.0,5.6,0
+ID.4 GTX,299.0,180.0,6.2,0
+ID.3 Pro,204.0,160.0,7.3,0
+Golf Variant,140.0,220.0,7.5,0
+Crafter,139.5,160.0,13.0,1
+Lupo,67.5,170.0,14.3,1
+Corrado,190.0,235.0,6.4,0
+Phaeton,345.0,250.0,6.1,0
+Golf Cabriolet,157.5,217.0,8.4,0
+Santana,110.0,190.0,12.9,1
+Polo Vivo,95.0,170.0,10.8,1
+Karmann Ghia,47.0,138.0,23.0,1
+Fox,65.0,148.0,17.5,1
+Vento,107.5,186.0,11.7,1
+Golf Electric,136.0,140.0,10.4,1
+Bora,125.0,200.0,9.4,1
+Teramont,255.5,190.0,8.6,0
+Taos,158.0,193.0,8.4,0
+Up! Cabriolet,98.5,160.0,12.4,1
+T-Roc Cabriolet,132.5,205.0,9.6,1
+Passat CC,240.0,240.0,7.3,0
+Transporter,153.0,180.0,12.2,1
+Amarok V6,231.0,191.0,7.9,0
+Polo TDI,90.0,190.0,9.9,1
+Golf GTE,204.0,222.0,7.6,0
+Touareg V8,421.0,250.0,4.9,0
+Beetle Dune,150.0,200.0,7.5,0
+Passat B8,215.0,210.0,8.7,0
+ID.4 Pro S,201.0,180.0,7.8,0
+Golf Cabriolet,157.5,217.0,8.4,0
+Golf Country,98.0,165.0,12.0,1
+Jetta GLI,228.0,250.0,6.5,0
+Arteon Shooting Brake,235.0,250.0,5.6,0
+T-Cross R-Line,132.5,200.0,8.5,0
+Golf R32,240.0,250.0,6.2,0
+Passat B7,180.0,220.0,8.5,0
+Scirocco 16V,137.0,220.0,7.1,0
+Polo BlueMotion,85.0,190.0,10.5,1
+Golf Variant GTD,184.0,230.0,7.5,0
+Polo GTI R5,272.0,200.0,4.1,0
+ID. Buzz Pro,204.0,145.0,10.2,1
+Jetta Hybrid,170.0,210.0,8.6,0
+Golf Variant Alltrack,175.0,220.0,7.8,0
+Volkswagen XL1,68.0,160.0,11.9,1
+Golf TDI,167.0,220.0,8.0,0
+Passat Variant,195.0,220.0,8.5,0
+Polo GTI Clubsport,300.0,240.0,6.7,0
+Jetta Hybrid,170.0,210.0,8.6,0
+ID.3 GTX,299.0,180.0,6.2,0
+Arteon R-Line,235.0,250.0,5.6,0
+Golf TGI,130.0,220.0,8.8,0
+Scirocco GTS,220.0,246.0,6.5,0
+Caddy Maxi,136.0,180.0,12.0,1
+Volkswagen Lupo 3L,61.0,165.0,14.5,1
+Polo Beats,95.0,187.0,9.5,1
+Passat Hybrid,215.0,210.0,7.4,0
+Golf TCR,290.0,250.0,5.6,0
+Tiguan R-Line,210.0,250.0,4.9,0
+Sharan Business,167.0,200.0,8.3,0
+ID. Buzz Cargo Pro,204.0,145.0,10.2,1
+Arteon 280 TSI,280.0,250.0,5.6,0
+Jetta GLI 35th,228.0,250.0,6.5,0
+Beetle Final Edition,174.0,205.0,7.0,0
+Golf Variant TDI,167.0,220.0,7.8,0
+Golf 4MOTION,167.0,250.0,4.9,0
+Jetta SportWagen,148.5,200.0,8.5,0
+Polo GTI Plus,207.0,237.0,6.7,0
+Touareg V6,285.5,235.0,7.5,0
+Tiguan eHybrid,245.0,200.0,7.5,0
+Up! e-up!,83.0,130.0,11.9,1
+Amarok V8,325.0,210.0,7.4,0
+Golf R Cabriolet,265.0,250.0,5.9,0
+Passat Alltrack TDI,190.0,220.0,8.0,0
+ID. Buzz Cargo EV,204.0,145.0,10.2,1
+Versa,122.0,180.0,10.4,1
+Micra,100.0,175.0,10.8,1
+Patrol Platinum,400.0,210.0,7.3,0
+Qashqai,156.0,195.0,8.9,1
+Murano,260.0,210.0,7.5,0
+Maxima Platinum,300.0,220.0,6.2,0
+Armada,400.0,210.0,6.5,0
+Kicks,122.0,180.0,10.7,1
+X-Trail,201.0,200.0,8.0,0
+Z (Fairlady Z),400.0,250.0,4.5,0
+Almera,100.0,185.0,10.7,1
+Sylphy,137.0,190.0,9.6,1
+Note,109.0,170.0,11.5,1
+Sunny,118.0,180.0,11.0,1
+Cube,122.0,175.0,10.6,1
+Juke,117.0,180.0,10.4,1
+Terrano,110.0,168.0,13.5,1
+Magnite,100.0,160.0,13.0,1
+Xterra,261.0,200.0,7.8,0
+Patrol,400.0,210.0,7.3,0
+GT-R NISMO,600.0,330.0,2.9,2
+370Z Roadster,332.0,250.0,5.5,0
+Ariya ,389.0,200.0,5.1,0
+Patrol Royale,400.0,210.0,6.6,0
+Infiniti QX80*,400.0,210.0,6.5,0
+Tiida,126.0,190.0,10.1,1
+Pulsar,115.0,190.0,10.7,1
+Latio,102.0,175.0,11.5,1
+Bluebird Sylphy,133.0,185.0,10.5,1
+March,79.0,170.0,13.7,1
+Rogue Sport,141.0,190.0,9.8,1
+X-Trail Hybrid,179.0,180.0,9.4,1
+Pathfinder Rock Creek,284.0,190.0,7.4,0
+Armada Platinum,400.0,210.0,6.5,0
+Terrano XL,104.0,165.0,12.5,1
+GT-R50 by Italdesign,720.0,315.0,2.5,2
+370Z NISMO,350.0,250.0,5.2,0
+Ariya E-4ORCE,389.0,200.0,5.1,0
+Patrol NISMO,428.0,210.0,6.5,0
+Infiniti Q60*,300.0,250.0,5.0,0
+Primera,140.0,200.0,9.6,1
+Skyline,400.0,250.0,5.0,0
+Cedric,150.0,190.0,10.5,1
+Gloria,210.0,210.0,8.6,0
+Stanza,120.0,175.0,11.0,1
+Patrol Super Safari,280.0,190.0,8.2,0
+Pathfinder Hybrid,250.0,190.0,7.7,0
+X-Terra Pro-4X,190.0,175.0,10.8,1
+Rogue Platinum,201.0,180.0,8.2,0
+Qashqai Tekna,158.0,190.0,9.2,1
+GT-R V-Spec,600.0,330.0,2.8,2
+Skyline NISMO,420.0,270.0,4.7,2
+Ariya Lounge Edition,389.0,200.0,5.1,0
+Patrol Titanium,428.0,210.0,6.5,0
+Infiniti FX50*,390.0,250.0,5.6,0
+Avenir,140.0,180.0,9.8,1
+Wingroad,125.0,175.0,10.8,1
+Presea,115.0,170.0,11.5,1
+Leopard,210.0,200.0,8.4,0
+Sunny NISMO Edition,190.0,200.0,7.5,0
+Paladin,150.0,180.0,10.6,1
+Hardbody SUV,158.0,175.0,11.0,1
+Patrol Desert Edition,428.0,210.0,6.5,0
+Pathfinder Armada,400.0,200.0,6.5,0
+Rogue Midnight Edition,201.0,180.0,8.2,0
+GT-R Black Edition,600.0,330.0,2.8,2
+Fairlady Z Heritage,400.0,250.0,4.2,0
+Skyline GT-R R34,276.0,250.0,5.6,0
+Ariya Premiere,389.0,200.0,5.1,0
+Infiniti QX55*,268.0,230.0,6.5,0
+NV350 Caravan,129.0,155.0,12.5,1
+Navara,190.0,180.0,10.2,1
+Titan XD,400.0,195.0,6.9,0
+Evalia,85.0,140.0,15.0,1
+Cabstar,130.0,145.0,14.8,1
+Cherry,67.0,145.0,14.0,1
+Laurel,94.0,160.0,12.5,1
+Silvia,247.0,235.0,5.9,0
+NX Coupe,140.0,200.0,9.0,1
+AD Wagon,105.0,165.0,12.3,1
+Patrol Super Safari Y61,280.0,190.0,8.2,0
+Pathfinder Rock Creek Edition,284.0,195.0,7.2,0
+Terrano II,125.0,160.0,12.9,1
+Murano CrossCabriolet,260.0,195.0,7.6,0
+X-Trail Tekna,204.0,190.0,8.0,0
+GT-R LM NISMO,500.0,320.0,3.0,2
+Skyline 400R,400.0,250.0,4.5,0
+Infiniti G37*,328.0,250.0,5.5,0
+Patrol Black Edition,400.0,200.0,6.5,0
+Ariya Empower+,389.0,200.0,5.1,0
+Datsun 510 (Classic),96.0,175.0,10.2,1
+200SX,200.0,240.0,7.2,0
+300ZX,300.0,250.0,5.9,0
+R390 GT1 Road Car,550.0,354.0,3.3,2
+Figaro,76.0,170.0,12.8,1
+Hardbody Truck,134.0,160.0,10.6,1
+Atlas,130.0,130.0,18.0,1
+Clipper,48.0,110.0,18.5,1
+NV200,131.0,140.0,14.0,1
+Violet,85.0,155.0,13.8,1
+Bluebird Z,140.0,190.0,11.0,1
+Stanza Wagon,138.0,160.0,12.0,1
+180SX,205.0,240.0,6.8,0
+Sunny California,110.0,170.0,11.0,1
+Patrol Warrior,428.0,205.0,6.3,0
+Pathfinder Armada Platinum,400.0,190.0,6.8,0
+Rogue Sport SL,141.0,190.0,9.0,1
+X-Trail Platinum Edition,204.0,190.0,8.0,0
+Qashqai e-Power,187.0,200.0,7.5,0
+GT-R Egoist,565.0,315.0,2.8,2
+Infiniti M45*,325.0,250.0,5.8,0
+Skyline 50th Anniversary,400.0,250.0,4.5,0
+Ariya Dual Motor AWD,389.0,200.0,5.1,0
+Patrol Legend Edition,428.0,205.0,6.3,0
+Datsun 240Z (Classic),151.0,210.0,8.0,0
+100NX,110.0,185.0,9.6,1
+Cedric Special Edition,250.0,225.0,8.5,0
+300ZX Turbo,300.0,250.0,5.9,0
+Silvia S15 Spec-R,250.0,240.0,5.6,0
+NV400,135.0,150.0,15.0,1
+Titan Warrior,400.0,180.0,7.0,0
+Caravan Coach,127.0,140.0,14.0,1
+Serena e-Power,134.0,160.0,12.0,1
+Elgrand,280.0,200.0,8.5,0
+Datsun 510,96.0,175.0,10.2,1
+Prairie,120.0,175.0,11.0,1
+Pulsar GTI-R,230.0,225.0,6.0,0
+Almera Tino,114.0,180.0,12.5,1
+Lucino,115.0,185.0,10.5,1
+Rasheen,105.0,165.0,13.0,1
+Mistral,125.0,160.0,12.5,1
+Patrol Y60,155.0,160.0,12.0,1
+X-Trail GT,280.0,215.0,6.4,0
+Terrano Regulus,170.0,175.0,10.0,1
+President,280.0,210.0,7.5,0
+Cima,270.0,210.0,8.0,0
+Leopard J. Ferie,255.0,215.0,6.5,0
+Gloria Gran Turismo,255.0,220.0,6.5,0
+Infiniti Q45*,340.0,240.0,6.2,0
+Datsun 240Z,151.0,210.0,8.0,0
+280ZX,145.0,205.0,9.5,1
+Silvia S13,175.0,215.0,6.8,0
+200SX,200.0,225.0,7.0,0
+NX Coupe,140.0,200.0,9.0,1
+NV2500,261.0,160.0,10.0,1
+NV3500,375.0,170.0,9.0,0
+NT400 Cabstar,150.0,140.0,15.0,1
+Panamera,330.0,270.0,5.6,0
+Panamera 4,330.0,270.0,5.4,0
+Panamera 4S,440.0,289.0,4.4,2
+Panamera Turbo S,620.0,315.0,3.1,2
+Panamera GTS,473.0,300.0,3.9,2
+Panamera Platinum Edition,330.0,270.0,5.4,0
+Panamera E-Hybrid,455.0,280.0,4.4,2
+Panamera 4 E-Hybrid Sport Turismo,455.0,280.0,4.4,2
+Panamera Turbo S E-Hybrid,690.0,315.0,3.2,2
+Panamera 4 Executive,330.0,270.0,5.6,0
+Cayenne,335.0,245.0,5.9,0
+Cayenne Coupe,335.0,245.0,6.0,0
+Cayenne S,434.0,265.0,5.0,2
+Cayenne Turbo,541.0,286.0,4.0,2
+Cayenne GTS,453.0,270.0,4.5,2
+Cayenne Turbo S E-Hybrid,670.0,295.0,3.6,2
+Macan,261.0,232.0,6.2,0
+Macan S,375.0,259.0,4.8,0
+Macan GTS,434.0,272.0,4.5,2
+Macan T,261.0,232.0,6.2,0
+911 Carrera,379.0,293.0,4.2,2
+911 Carrera S,443.0,308.0,3.5,2
+911 Carrera 4,379.0,293.0,4.2,2
+911 Carrera 4S,443.0,306.0,3.4,2
+911 Targa 4,379.0,289.0,4.4,2
+911 Turbo,572.0,320.0,2.7,2
+911 Turbo S,640.0,330.0,2.6,2
+911 GT3,502.0,318.0,3.4,2
+911 GT3 RS,518.0,296.0,3.2,2
+911 Dakar,473.0,240.0,3.4,2
+Taycan,402.0,230.0,5.4,0
+Taycan 4S,522.0,250.0,4.0,2
+Taycan Turbo,670.0,260.0,3.2,2
+Taycan Turbo S,750.0,260.0,2.8,2
+Taycan GTS,590.0,250.0,3.5,2
+Taycan Cross Turismo,469.0,220.0,4.8,0
+Taycan Sport Turismo,509.0,240.0,4.1,2
+718 Cayman,300.0,275.0,4.9,0
+718 Cayman S,350.0,285.0,4.4,2
+718 Cayman GT4,414.0,302.0,4.2,2
+718 Cayman GT4 RS,493.0,315.0,3.2,2
+718 Boxster,300.0,275.0,4.9,0
+718 Boxster T,300.0,275.0,4.7,0
+718 Boxster GTS,394.0,293.0,4.3,2
+718 Spyder,414.0,301.0,4.1,2
+Panamera Base,325.0,265.0,5.6,0
+Panamera 4 E-Hybrid,462.0,280.0,4.4,2
+Panamera 4 Sport Turismo,325.0,265.0,5.5,0
+Panamera Turbo S E-Hybrid Sport Turismo,690.0,315.0,3.2,2
+Panamera 4S E-Hybrid Executive,560.0,295.0,3.7,2
+Panamera Platinum Edition,325.0,265.0,5.6,0
+Panamera GTS Sport Turismo,473.0,300.0,3.9,2
+Panamera Turbo Executive,550.0,306.0,3.8,2
+Panamera Turbo S Exclusive Series,570.0,310.0,3.8,2
+Panamera 4S ,443.0,289.0,4.1,2
+Macan Base,265.0,232.0,6.4,0
+Macan T,265.0,233.0,6.2,0
+Macan S,375.0,259.0,4.6,0
+Macan GTS,434.0,272.0,4.3,2
+Macan EV ,603.0,240.0,4.0,2
+Cayenne Base,335.0,245.0,5.9,0
+Cayenne E-Hybrid,455.0,253.0,4.8,0
+Cayenne S Coupe,434.0,263.0,4.7,2
+Cayenne Turbo GT,631.0,300.0,3.3,2
+Cayenne Platinum Edition,335.0,245.0,5.8,0
+Cayenne Turbo S E-Hybrid Coupe,670.0,295.0,3.6,2
+Cayenne GTS Coupe,453.0,270.0,4.5,2
+Cayenne Diesel (Regional Markets),262.0,221.0,7.3,0
+Cayenne S Hybrid,380.0,242.0,6.5,0
+Cayenne Coupe Turbo E-Hybrid,728.0,295.0,3.6,2
+Taycan Base,321.0,230.0,5.4,0
+CT4,237.0,250.0,6.0,0
+CT4-V,325.0,260.0,4.9,0
+CT5,237.0,240.0,6.6,0
+CT5-V,360.0,250.0,4.6,0
+Taycan Cross Turismo 4,375.0,240.0,5.1,0
+Taycan Cross Turismo GTS,590.0,250.0,3.8,2
+Taycan Sport Turismo Base,375.0,230.0,5.4,0
+Taycan Sport Turismo GTS,590.0,250.0,3.7,2
+Taycan Turbo S Cross Turismo,750.0,260.0,2.9,2
+911 Carrera Base,379.0,293.0,4.2,2
+911 Carrera S Cabriolet,443.0,304.0,3.9,2
+911 Carrera 4,379.0,293.0,4.4,2
+911 Carrera 4 GTS,473.0,311.0,3.3,2
+911 Targa 4 GTS,473.0,307.0,3.5,2
+911 Turbo Cabriolet,572.0,320.0,2.9,2
+911 Turbo S Coupe,640.0,330.0,2.7,2
+911 GT3 Touring,502.0,318.0,3.9,2
+911 GT3 RS Clubsport,525.0,296.0,3.2,2
+911 Dakar Limited Edition,473.0,240.0,3.4,2
+911 Carrera GTS Lightweight,473.0,311.0,3.2,2
+911 Targa 4 Lightweight,379.0,289.0,4.3,2
+911 Turbo Exclusive Series,607.0,330.0,2.9,2
+911 GT2 RS,700.0,340.0,2.8,2
+911 GT3 Cup,510.0,290.0,3.4,2
+911 GT4 RS,500.0,315.0,3.4,2
+911 RSR (Motorsport Edition),515.0,296.0,3.1,2
+911 Sport Turismo,379.0,293.0,4.4,2
+911 Turbo Cabriolet Lightweight,572.0,318.0,3.0,2
+911 Dakar Sport,473.0,240.0,3.5,2
+Tiago,86.0,170.0,13.0,1
+Tiago EV,74.0,120.0,5.7,1
+Altroz DCA,86.0,170.0,12.5,1
+Altroz iTurbo,110.0,180.0,10.0,1
+Altroz CNG,86.0,165.0,12.0,1
+Tiago NRG,86.0,170.0,13.5,1
+Nano GenX,37.0,105.0,29.0,1
+Indica eV2,70.0,155.0,16.0,1
+Indica V2 Xeta,65.0,140.0,16.0,1
+Tigor,86.0,170.0,13.0,1
+Tigor EV,74.0,120.0,5.7,1
+Indigo eCS,70.0,155.0,16.5,1
+Escalade,420.0,210.0,6.8,0
+Indigo LX,70.0,150.0,17.0,1
+Indigo GLX,85.0,160.0,15.0,1
+Escalade ESV,420.0,205.0,6.9,0
+Nexon EV Max,143.0,140.0,9.0,1
+Harrier,168.0,180.0,11.0,1
+Safari,168.0,180.0,11.0,1
+Punch,86.0,160.0,16.0,1
+Hexa,154.0,180.0,12.0,1
+Aria,138.0,162.0,13.0,1
+Sumo Gold,85.0,125.0,17.6,1
+Sumo Grande,118.0,140.0,15.0,1
+Nexon EV Prime,129.0,120.0,9.4,1
+Tiago EV,74.0,120.0,5.7,1
+Model S,670.0,250.0,3.1,2
+Model S Plaid,1020.0,322.0,2.1,2
+Model 3,283.0,225.0,5.8,0
+Model 3 Performance,450.0,261.0,3.1,2
+Model X,670.0,250.0,3.8,2
+Model X Plaid,1020.0,262.0,2.6,2
+Model Y,346.0,217.0,5.0,0
+Model Y Long Range,384.0,217.0,4.8,0
+Cybertruck,800.0,209.0,2.9,2
+Roadster 2,1288.0,402.0,1.9,2
+Wrangler,285.0,180.0,6.8,0
+Wrangler Rubicon,270.0,180.0,7.1,0
+Grand Cherokee,293.0,209.0,7.0,0
+Grand Cherokee L,293.0,209.0,7.2,0
+Cherokee,180.0,195.0,8.5,0
+Compass,200.0,200.0,7.8,0
+Renegade,177.0,200.0,8.7,0
+Gladiator,285.0,177.0,8.1,0
+Wagoneer,392.0,190.0,7.4,0
+Grand Wagoneer,471.0,190.0,6.0,0
+Grand Cherokee 4xe,375.0,210.0,6.0,0
+Wrangler 4xe,375.0,180.0,6.4,0
+Compass 4xe,240.0,200.0,7.3,0
+Renegade 4xe,240.0,200.0,7.5,0
+Mazda2,108.0,180.0,10.2,1
+Wagoneer S (Electric),600.0,177.0,4.5,0
+Gladiator Mojave Edition,285.0,177.0,8.6,0
+Grand Cherokee Summit Reserve,357.0,190.0,7.3,0
+Jeep Cherokee X Edition,271.0,195.0,7.6,0
+Wrangler 392,470.0,160.0,4.5,0
+XT4,235.0,220.0,7.6,0
+XT5,310.0,210.0,6.5,0
+XT6,310.0,210.0,6.9,0
+Lyriq EV,340.0,190.0,5.7,0
+Escalade V,682.0,200.0,4.4,2
+Escalade Platinum,420.0,210.0,6.8,0
+CT5-V Blackwing,668.0,320.0,3.4,2
+CT4-V Blackwing,472.0,290.0,3.9,2
+XT4 Sport,235.0,220.0,7.4,0
+XT5 Sport,310.0,210.0,6.5,0
+XT6 Sport,310.0,210.0,6.9,0
+Lyriq Launch Edition,340.0,190.0,5.7,0
+Lyriq EV Premium,500.0,210.0,4.5,0
+CT5 Premium Luxury,237.0,240.0,6.8,0
+Spark,98.0,180.0,10.7,1
+Sonic,138.0,190.0,8.5,1
+Malibu,160.0,210.0,8.0,0
+Camaro,275.0,240.0,5.4,0
+Corvette,495.0,312.0,3.0,2
+Traverse,310.0,210.0,7.0,0
+Equinox,170.0,200.0,8.9,0
+Blazer,308.0,220.0,6.6,0
+Tahoe,355.0,200.0,7.5,0
+Suburban,355.0,190.0,7.6,0
+Colorado,310.0,190.0,6.8,0
+Silverado 1500,355.0,180.0,7.0,0
+Silverado 2500HD,401.0,170.0,8.0,0
+Silverado 3500HD,445.0,160.0,8.5,0
+Bolt EV,200.0,150.0,6.5,0
+Bolt EUV,200.0,150.0,7.0,0
+Trailblazer,155.0,200.0,9.4,1
+Malibu Premier,250.0,240.0,5.8,0
+Camaro ZL1,650.0,318.0,3.5,2
+Corvette Stingray,495.0,312.0,3.0,2
+Silverado 1500 High Country,355.0,180.0,7.0,0
+Silverado 1500 Trail Boss,355.0,180.0,7.0,0
+Silverado 1500 RST,355.0,180.0,7.1,0
+Colorado ZR2,181.0,160.0,9.1,1
+Traverse Premier,310.0,210.0,7.0,0
+Equinox Premier,170.0,200.0,8.8,0
+Blazer RS,308.0,220.0,6.6,0
+Bolt EV 2LT,200.0,150.0,6.7,0
+Camaro SS,455.0,290.0,4.3,2
+Corvette Grand Sport,460.0,290.0,3.9,2
+Traverse RS,310.0,210.0,7.0,0
+Blazer Premier,308.0,220.0,6.6,0
+Malibu LT,160.0,210.0,8.5,0
+Spark Activ,98.0,180.0,11.0,1
+Trax LT,137.0,200.0,9.2,1
+Equinox LT,170.0,200.0,8.9,0
+Silverado 3500HD High Country,445.0,160.0,8.5,0
+Colorado WT,310.0,190.0,6.9,0
+Suburban High Country,420.0,200.0,7.0,0
+Silverado Custom,285.0,180.0,8.5,0
+Spark LS,98.0,180.0,10.9,1
+Traverse LT,310.0,210.0,7.1,0
+Blazer LT,193.0,200.0,9.0,0
+Malibu Premier,250.0,240.0,5.8,0
+Equinox RS,170.0,200.0,8.8,0
+Silverado 1500 Custom,285.0,180.0,8.6,0
+Silverado 2500HD LTZ,445.0,160.0,8.4,0
+Tahoe RST,355.0,180.0,7.4,0
+Suburban LT,355.0,180.0,5.1,0
+Bolt EV Premier,200.0,150.0,6.5,0
+Tahoe LS,355.0,180.0,7.5,0
+Tahoe LT,355.0,180.0,7.4,0
+Tahoe RST,355.0,180.0,7.4,0
+Tahoe Z71,355.0,180.0,7.6,0
+Tahoe Premier,420.0,200.0,6.8,0
+Tahoe High Country,420.0,200.0,6.7,0
+Tahoe Midnight Edition,355.0,180.0,7.5,0
+Tahoe Sport Edition,420.0,200.0,6.8,0
+Terrain,175.0,190.0,9.5,1
+Acadia,228.0,200.0,7.8,0
+Yukon,355.0,180.0,7.4,0
+Yukon XL,420.0,200.0,6.9,0
+Canyon,310.0,190.0,7.6,0
+Sierra 1500,355.0,180.0,7.3,0
+Sierra 2500HD,401.0,175.0,7.5,0
+Sierra 3500HD,445.0,175.0,7.4,0
+Hummer EV Pickup,625.0,170.0,3.0,0
+Hummer EV SUV,625.0,170.0,3.5,0
+Yukon Denali,420.0,200.0,6.8,0
+Sierra Denali,420.0,190.0,6.7,0
+Terrain AT4,175.0,190.0,9.6,1
+Acadia AT4,310.0,210.0,7.6,0
+Sierra 1500 AT4,355.0,180.0,7.4,0
+Sierra 2500HD Denali,401.0,175.0,7.5,0
+Sierra Elevation,310.0,190.0,7.6,0
+Canyon AT4,310.0,190.0,7.5,0
+Canyon Denali,310.0,190.0,7.5,0
+Yukon XL Denali Ultimate,420.0,200.0,6.7,0
+Terrain Denali,175.0,190.0,9.5,1
+Acadia Denali,310.0,210.0,6.5,0
+Yukon AT4,355.0,210.0,7.1,0
+Yukon XL AT4,355.0,210.0,7.3,0
+Sierra 1500 Elevation,310.0,180.0,7.0,0
+Sierra 1500 SLT,355.0,180.0,6.8,0
+Sierra 2500HD AT4,401.0,170.0,7.5,0
+Sierra 3500HD AT4,401.0,170.0,7.7,0
+Canyon Elevation,200.0,175.0,8.5,1
+Canyon Denali Black Edition,308.0,180.0,6.9,0
+Sierra 1500 Denali Ultimate,420.0,200.0,5.8,0
+Yukon XL Denali Reserve,420.0,210.0,6.0,0
+Terrain Elevation Edition,170.0,200.0,9.3,1
+Acadia Black Edition,310.0,210.0,6.5,0
+Sierra Denali CarbonPro,420.0,200.0,5.8,0
+Yukon Denali Performance,420.0,210.0,6.0,0
+Sierra 2500HD Denali Black Edition,401.0,170.0,7.5,0
+Canyon AT4X,308.0,180.0,6.9,0
+Yukon XL SLT,355.0,210.0,7.3,0
+Sierra 1500 Pro,285.0,180.0,7.5,0
+Sierra 2500HD Pro,401.0,170.0,7.7,0
+Sierra 3500HD Pro,401.0,170.0,7.8,0
+Terrain SLT,170.0,200.0,9.4,1
+Acadia SLE,310.0,210.0,6.6,0
+Canyon SLT,200.0,175.0,8.6,1
+Yukon XL Elevation,355.0,210.0,7.4,0
+Sierra 1500 AT4X,420.0,200.0,5.9,0
+Canyon AT4X Edition 1,308.0,180.0,6.8,0
+Yukon Denali Ultimate Black,420.0,210.0,6.0,0
+Sierra HD Denali Reserve,401.0,170.0,7.5,0
+Acadia Denali Ultimate,310.0,210.0,6.5,0
+Terrain All-Terrain Edition,170.0,200.0,9.3,1
+Yukon Trailering Edition,355.0,210.0,7.5,0
+Rio,120.0,180.0,10.3,1
+Rio 5-Door,120.0,180.0,10.3,1
+Seltos Nightfall Edition,175.0,210.0,7.5,0
+508 PSE (Peugeot Sport Engineered),360.0,250.0,5.2,0
+Sorento X-Line,277.0,220.0,7.0,0
+Telluride SX,291.0,240.0,7.0,0
+Forte LXS,147.0,190.0,9.2,1
+K5 EX,180.0,220.0,7.8,0
+Niro Plug-In Hybrid,139.0,180.0,10.5,1
+EV6 Wind,225.0,190.0,5.2,0
+Soul Turbo,201.0,200.0,6.5,0
+Seltos SX,175.0,210.0,7.5,0
+Stinger Scorpion Edition,300.0,270.0,5.0,0
+Sorento Hybrid SX Prestige,227.0,200.0,7.9,0
+Carnival EX,290.0,220.0,8.0,0
+Telluride Nightfall Edition,291.0,240.0,7.0,0
+508 Plug-In Hybrid,225.0,210.0,7.5,0
+EV6 First Edition,320.0,230.0,5.0,0
+Niro Touring,139.0,180.0,10.5,1
+Forte GT-Line,201.0,200.0,6.5,0
+Seltos EX,146.0,190.0,9.0,1
+3008 Plug-In Hybrid,225.0,210.0,7.0,0
+Sorento LX,191.0,210.0,8.5,0
+Telluride EX,291.0,240.0,7.0,0
+Soul EX,147.0,190.0,9.5,1
+Forte FE,147.0,190.0,9.2,1
+K5 GT-Line,180.0,220.0,7.8,0
+Carnival LXS,290.0,220.0,8.0,0
+EV6 Light,225.0,190.0,5.2,0
+Niro EX,139.0,180.0,10.5,1
+Stinger GT,365.0,270.0,4.7,0
+Sorento SX Prestige,227.0,200.0,7.9,0
+Telluride SX Prestige,291.0,240.0,7.0,0
+508 Hybrid4,300.0,235.0,6.0,0
+EV6 GT Performance,577.0,260.0,3.5,2
+Niro SX Touring,139.0,180.0,10.5,1
+Carnival SX Prestige,290.0,220.0,8.0,0
+Seltos SX Turbo,175.0,210.0,7.5,0
+Forte EX Premium,147.0,190.0,9.2,1
+Soul EX Designer Edition,147.0,190.0,9.5,1
+Rio S,120.0,180.0,10.3,1
+Rio 5-Door S,120.0,180.0,10.3,1
+Soul S,147.0,190.0,9.5,1
+Seltos LX,146.0,190.0,9.2,1
+3008 Hybrid4,300.0,235.0,6.0,0
+Sorento Hybrid EX,227.0,200.0,7.9,0
+Telluride LX,291.0,240.0,7.0,0
+Carnival MPV EX,290.0,220.0,8.0,0
+EV6 AWD GT-Line,320.0,230.0,5.0,0
+Forte GT Turbo,201.0,200.0,6.5,0
+Soul GT Designer Edition,147.0,190.0,9.5,1
+Seltos X-Line Turbo,175.0,210.0,7.5,0
+e-2008 GT,136.0,200.0,8.5,0
+Telluride Limited Edition,291.0,240.0,7.0,0
+Stinger GT-Line,300.0,270.0,5.0,0
+Carnival Special Edition,290.0,220.0,8.0,0
+Niro SX Hybrid,139.0,180.0,10.5,1
+EV6 First Edition AWD,320.0,230.0,5.0,0
+Sorento X-Pro Hybrid,227.0,200.0,7.8,0
+Forte Limited Edition,147.0,190.0,9.2,1
+Chiron,1500.0,420.0,2.5,2
+Chiron Pur Sport,1500.0,350.0,2.3,2
+Chiron Super Sport,1600.0,490.0,2.4,2
+Chiron Sport,1500.0,420.0,2.4,2
+Chiron Noire,1500.0,420.0,2.5,2
+Divo,1500.0,380.0,2.4,2
+Centodieci,1600.0,380.0,2.4,2
+La Voiture Noire,1500.0,420.0,2.5,2
+Bolide,1850.0,500.0,2.2,2
+Mistral,1600.0,420.0,2.4,2
+Volvo FH,540.0,120.0,15.0,1
+Volvo FH16,750.0,120.0,14.5,1
+Volvo FM,460.0,110.0,16.0,1
+Volvo FMX,500.0,110.0,16.5,1
+Volvo VNL,500.0,120.0,15.0,1
+Volvo VNR,400.0,110.0,17.0,1
+Volvo VHD,500.0,100.0,18.0,1
+Volvo FE,280.0,90.0,20.0,1
+Volvo FL,180.0,80.0,22.0,1
+Jaguar F-Type,335.0,260.0,5.1,0
+Jaguar XE,250.0,250.0,6.5,0
+Jaguar XF,250.0,250.0,6.5,0
+Jaguar XJ,300.0,250.0,6.0,0
+Jaguar E-PACE,200.0,230.0,7.0,0
+Jaguar I-PACE,400.0,200.0,4.8,0
+Jaguar X-TYPE,160.0,215.0,9.0,0
+Jaguar F-PACE R-Dynamic,340.0,250.0,5.4,0
+Jaguar XE R-Dynamic,340.0,250.0,5.4,0
+Jaguar F-Type SVR,575.0,320.0,3.7,2
+Jaguar I-PACE Electric Performance,400.0,200.0,4.5,0
+Jaguar F-PACE SVR,550.0,283.0,4.0,2
+Jaguar XE S,340.0,250.0,5.3,0
+Jaguar XF R-Dynamic,340.0,250.0,5.4,0
+Jaguar XJ LWB (Long Wheelbase),300.0,250.0,6.0,0
+Jaguar F-Type Heritage Edition,550.0,300.0,3.9,2
+Jaguar E-PACE S,200.0,230.0,7.0,0
+Jaguar I-PACE HSE,400.0,200.0,4.5,0
+Jaguar F-Type V8 R,550.0,300.0,3.9,2
+Jaguar F-Type R-Dynamic,300.0,250.0,5.1,0
+Jaguar XE P300 R-Dynamic,300.0,250.0,5.5,0
+Jaguar XF Sportbrake,250.0,250.0,6.5,0
+Jaguar I-PACE EV400 HSE,400.0,200.0,4.5,0
+Jaguar F-PACE S 30t AWD,247.0,225.0,6.4,0
+Jaguar E-PACE R-Dynamic,246.0,230.0,6.8,0
+Jaguar XJ50,300.0,250.0,6.0,0
+Jaguar F-Type 75th Anniversary Edition,550.0,300.0,3.9,2
+Jaguar F-PACE S AWD,340.0,250.0,5.4,0
+Jaguar XE SE,250.0,240.0,6.2,0
+Jaguar F-Type V6 S Convertible,380.0,280.0,4.8,2
+Jaguar XE R-Sport AWD,300.0,250.0,5.5,0
+Jaguar XF Portfolio AWD,340.0,250.0,5.4,0
+Jaguar F-Type Coupe R,550.0,300.0,3.9,2
+Jaguar I-PACE First Edition,400.0,200.0,4.5,0
+Jaguar F-PACE Prestige AWD,340.0,250.0,5.4,0
+Jaguar XJ Supercharged,510.0,280.0,4.2,2
+Jaguar F-Type P450 AWD,450.0,290.0,4.0,2
+Jaguar F-PACE P400e Plug-in Hybrid,398.0,220.0,5.1,0
+Jaguar F-Type P300 Coupe,300.0,250.0,5.5,0
+NSX Type S,600.0,307.0,2.9,2
+TLX PMC Edition,290.0,250.0,5.7,0
+MDX Advance,290.0,190.0,6.0,0
+RDX Technology,272.0,210.0,6.6,0
+ILX Premium,201.0,200.0,6.6,0
+TLX A-Spec,290.0,250.0,5.7,0
+RDX SH-AWD,272.0,210.0,6.6,0
+MDX SH-AWD,290.0,190.0,6.0,0
+RDX Platinum Elite,272.0,210.0,6.6,0
+TLX A-Spec Sedan,290.0,250.0,5.7,0
+TLX 2.4L,206.0,210.0,6.0,0
+MDX Hybrid,321.0,190.0,6.0,0
+RDX Hybrid,247.0,210.0,6.6,0
+ILX Technology Package,201.0,200.0,6.6,0
+NSX GT3 (Track Version),500.0,300.0,3.0,2
+RDX Turbo AWD,272.0,210.0,6.6,0
+TLX 3.5L V6,290.0,250.0,5.7,0
+ILX Special Edition,201.0,200.0,6.6,0
+MDX SH-AWD w/Technology Package,290.0,190.0,6.0,0
+NSX 3.5L Hybrid Coupe,537.0,307.0,2.9,2
+MDX Elite,290.0,190.0,6.0,0
+TLX V6 Advance,290.0,250.0,5.7,0
+NSX Carbon Edition,537.0,307.0,2.9,2
+RDX Turbo SH-AWD,272.0,210.0,6.6,0
+ILX Technology Plus,201.0,200.0,6.6,0
+TLX Type S PMC Edition,355.0,250.0,5.1,0
+MDX Sport Hybrid,321.0,190.0,6.0,0
+208,82.0,180.0,10.5,1
+2008,100.0,190.0,9.0,1
+301,115.0,185.0,10.0,1
+308,130.0,200.0,8.0,0
+3008,180.0,210.0,7.5,0
+5008,165.0,200.0,9.5,1
+508,180.0,235.0,8.0,0
+Partner,75.0,160.0,12.0,1
+Expert,120.0,180.0,10.0,1
+Boxer,140.0,160.0,11.0,1
+e-208,136.0,150.0,8.1,1
+e-2008,136.0,150.0,8.5,1
+208 GTI,208.0,230.0,6.5,0
+308 GTI,270.0,250.0,6.0,0
+508 PSE (Peugeot Sport Engineered),360.0,250.0,5.2,0
+308 Allure,130.0,205.0,9.3,1
+2008 Allure,130.0,200.0,9.7,1
+3008 Allure,180.0,210.0,8.0,0
+5008 Allure,180.0,200.0,8.5,0
+508 Allure,180.0,225.0,8.0,0
+3008 GT,200.0,220.0,7.5,0
+508 GT,225.0,235.0,6.8,0
+3008 GT Hybrid,300.0,235.0,6.0,0
+5008 GT Hybrid,300.0,210.0,6.5,0
+208 Allure Premium,130.0,200.0,9.5,1
+Partner Tepee,100.0,170.0,12.0,1
+Expert L2H1,120.0,160.0,13.0,1
+Boxer L2H2,130.0,140.0,14.0,1
+Partner Electric,136.0,130.0,9.0,1
+Expert Electric,136.0,130.0,9.5,1
+208 PSE (Peugeot Sport Engineered),225.0,250.0,5.5,0
+308 PSE,360.0,250.0,5.0,0
+508 PSE,360.0,250.0,5.2,0
+3008 PSE,300.0,235.0,6.0,0
+2008 Active,100.0,190.0,11.2,1
+3008 Active,130.0,200.0,10.0,1
+5008 Active,130.0,190.0,10.5,1
+3008 Allure Premium,130.0,200.0,9.8,1
+5008 Allure Premium,130.0,190.0,10.2,1
+3008 GT Line,180.0,210.0,8.5,0
+5008 GT Line,180.0,200.0,9.0,0
+2008 GT,130.0,200.0,9.3,1
+5008 GT,180.0,210.0,8.2,0
+508 SW (Station Wagon),180.0,220.0,8.4,0
+508 Saloon,180.0,210.0,8.6,0
+308 Saloon,130.0,200.0,9.0,1
+301 Sedan,82.0,180.0,12.0,1
+208 Sedan,100.0,190.0,11.2,1
+Fusion (Mondeo),205.0,220.0,7.5,0
+Taurus,282.5,220.0,6.5,0
+Fiesta,142.5,200.0,7.0,0
+Focus,210.0,220.0,6.5,0
+KA+,77.5,165.0,10.5,1
+EcoSport,144.5,180.0,9.0,1
+Escape (Kuga),190.5,190.0,7.5,0
+Edge,292.5,200.0,6.5,0
+Explorer,350.0,200.0,6.0,0
+Expedition,387.5,180.0,6.5,0
+Bronco,292.5,200.0,7.5,0
+Bronco Sport,215.5,185.0,7.0,0
+F-150,370.0,200.0,5.75,0
+F-250 Super Duty,430.0,180.0,6.75,0
+F-350 Super Duty,462.5,180.0,7.5,0
+Maverick,220.5,180.0,7.25,0
+Ranger,297.5,180.0,6.5,0
+F-150 Lightning,452.0,180.0,4.5,0
+Escape Hybrid,200.0,180.0,7.7,0
+Explorer Hybrid,318.0,180.0,7.5,0
+Mustang,450.0,250.0,4.3,0
+GT,660.0,348.0,3.0,2
+Focus ST,280.0,250.0,5.7,0
+Fiesta ST,200.0,230.0,6.5,0
+Bronco Raptor,400.0,220.0,5.5,0
+Ranger Raptor,392.0,200.0,6.0,0
+F-150 Raptor,450.0,200.0,5.0,0
+Puma,123.0,191.0,9.6,1
+Territory,140.0,180.0,11.0,1
+Everest,210.0,190.0,10.5,1
+Flex,287.0,200.0,7.9,0
+Transit,170.0,160.0,12.0,1
+Transit Connect,162.0,175.0,10.5,1
+F-450 Super Duty,475.0,165.0,8.5,0
+F-550 Super Duty,475.0,165.0,8.8,0
+Mustang Shelby GT500,760.0,290.0,3.5,2
+Mustang Shelby GT350,526.0,280.0,4.0,2
+F-150 Platinum,400.0,180.0,6.5,0
+F-150 Limited,450.0,190.0,6.1,0
+Explorer Platinum,400.0,230.0,6.0,0
+Expedition King Ranch,440.0,210.0,6.8,0
+Transit Custom,130.0,160.0,12.5,1
+E-Series Cutaway,350.0,140.0,13.0,1
+Transit Chassis Cab,170.0,160.0,11.5,1
+Transit Electric (E-Transit),266.0,140.0,9.0,1
+Explorer Plug-in Hybrid,457.0,225.0,6.0,0
+Maverick Hybrid,191.0,180.0,7.8,0
+Mustang (2024),450.0,250.0,4.5,0
+Ranger (2024),210.0,180.0,8.0,0
+Escape Plug-in Hybrid (2024),221.0,190.0,7.5,0
+Bronco (2024),310.0,200.0,6.7,0
+Explorer (2024),400.0,230.0,5.9,0
+Mirage,78.0,170.0,12.0,1
+Mirage G4,78.0,170.0,12.0,1
+Outlander,181.0,190.0,9.5,1
+Outlander PHEV,248.0,170.0,10.5,1
+Eclipse Cross,152.0,180.0,9.8,1
+ASX (Outlander Sport),148.0,190.0,10.0,1
+Pajero,189.0,180.0,10.5,1
+Pajero Sport,181.0,180.0,11.0,1
+Triton (L200),181.0,177.0,10.5,1
+Lancer Evolution X,291.0,240.0,5.0,0
+i-MiEV (Electric),66.0,130.0,15.0,1
+Xpander,105.0,170.0,13.5,1
+Delica D:5,145.0,175.0,11.0,1
+Colt,112.5,180.0,10.5,1
+Grandis,165.0,190.0,11.0,1
+Outlander Black Edition,181.0,190.0,9.5,1
+Outlander SEL,181.0,190.0,9.5,1
+Outlander SE,181.0,190.0,9.5,1
+Eclipse Cross Black Edition,152.0,180.0,9.8,1
+ASX Exceed,148.0,190.0,10.0,1
+Triton Athlete,181.0,177.0,10.5,1
+Pajero Final Edition,189.0,180.0,10.5,1
+L200 Barbarian X,181.0,177.0,10.5,1
+Space Star,78.0,170.0,12.0,1
+Lancer EX,132.5,200.0,10.0,1
+Montero Sport,181.0,180.0,11.0,1
+Attrage,78.0,170.0,12.5,1
+RVR SE,148.0,190.0,10.5,1
+Delica Van,145.0,175.0,11.5,1
+Lancer GLX,115.0,190.0,11.5,1
+Pajero GLS,189.0,180.0,10.5,1
+Xpander Cross,105.0,170.0,12.0,1
+Eclipse Cross PHEV,188.0,180.0,10.5,1
+Outlander ES,181.0,190.0,9.5,1
+Montero GLX,181.0,180.0,11.0,1
+Triton GLX-R,181.0,177.0,10.5,1
+ASX Dynamic,148.0,190.0,10.0,1
+Mirage ES,78.0,170.0,12.5,1
+Outlander LE,181.0,190.0,9.5,1
+Space Runner,140.0,185.0,10.5,1
+Toppo BJ,52.0,130.0,15.0,1
+Chariot,140.0,185.0,10.5,1
+Lancer SE Limited,148.0,200.0,10.0,1
+Pajero SWB (Short Wheel Base),189.0,180.0,10.5,1
+Delica Space Gear,145.0,170.0,13.0,1
+i (Kei Car),64.0,130.0,15.5,1
+Dion,135.0,180.0,11.5,1
+Airtrek,160.0,190.0,11.0,1
+eK Space,52.0,130.0,15.0,1
+eK X,64.0,140.0,13.5,1
+Colt CZC Convertible,147.0,200.0,9.5,1
+Galant Fortis,154.0,200.0,10.0,1
+Endeavor,225.0,190.0,9.5,1
+Grand Lancer,138.0,190.0,11.5,1
+Sigma,210.0,220.0,8.5,0
+Town Box,48.0,120.0,16.0,1
+Mazda3,155.0,200.0,8.9,0
+Mazda3 Hatchback,186.0,210.0,8.3,0
+Mazda6,250.0,240.0,6.4,0
+CX-3,146.0,180.0,9.5,1
+CX-30,186.0,204.0,8.7,0
+CX-5,187.0,200.0,8.8,0
+CX-50,256.0,220.0,6.9,0
+CX-8,187.0,200.0,9.2,1
+CX-9,250.0,210.0,7.2,0
+CX-90,340.0,240.0,6.2,0
+MX-5 Miata,181.0,225.0,6.5,0
+MX-5 Miata RF,181.0,225.0,6.5,0
+MX-30 Electric,143.0,140.0,9.7,1
+CX-4,158.0,190.0,9.6,1
+CX-7,244.0,210.0,7.9,0
+Tribute,200.0,190.0,9.0,1
+B-Series Pickup,143.0,170.0,11.5,1
+BT-50,200.0,180.0,10.0,1
+RX-7,276.0,250.0,5.5,0
+RX-3,110.0,180.0,8.9,1
+323F,105.0,180.0,10.5,1
+Familia Sedan,100.0,175.0,11.0,1
+Premacy,138.0,190.0,9.8,1
+Demio,108.0,180.0,10.2,1
+Millenia,210.0,215.0,8.2,0
+Eunos Cosmo,280.0,240.0,6.0,0
+Atenza,192.0,210.0,8.5,0
+Roadpacer AP,130.0,170.0,11.5,1
+626,140.0,190.0,9.5,1
+929,205.0,220.0,8.0,0
+Luce,135.0,180.0,10.5,1
+Capella,110.0,175.0,11.2,1
+Carol,63.0,140.0,15.5,1
+Autozam AZ-1,63.0,140.0,11.0,1
+Spiano,54.0,130.0,16.0,1
+Verisa,113.0,170.0,11.0,1
+MX-6,164.0,210.0,8.8,0
+MPV,200.0,185.0,9.5,1
+Proceed Marvie,120.0,160.0,12.0,1
+Sentia,200.0,200.0,9.0,0
+Cronos,160.0,190.0,8.5,0
+Scrum,63.0,130.0,15.0,1
+Parkway,115.0,160.0,12.5,1
+Titan (Truck),130.0,120.0,15.0,1
+CX-60,187.0,200.0,8.5,0
+CX-80,250.0,210.0,7.5,0
+T1500,75.0,120.0,18.0,1
+Bongo Van,100.0,160.0,14.0,1
+Bongo Friendee,115.0,160.0,12.5,1
+Revue,75.0,130.0,15.5,1
+Protegé,125.0,185.0,9.0,1
+Xedos 6,170.0,215.0,8.5,0
+Xedos 9,200.0,220.0,7.5,0
+121,70.0,155.0,13.0,1
+1200,60.0,130.0,16.0,1
+1500,85.0,145.0,14.0,1
+RX-2,130.0,185.0,8.5,1
+RX-5,135.0,190.0,8.0,0
+RX-7 Spirit R,280.0,250.0,5.5,0
+Cosmo Sport (110S),110.0,170.0,10.0,1
+Eunos 500,135.0,200.0,9.0,1
+Eunos Roadster,116.0,180.0,9.5,1
+Familia Astina,135.0,200.0,8.5,0
+Savanna RX-7,165.0,230.0,7.5,0
+Capella Cargo,115.0,180.0,12.0,1
+818,100.0,170.0,12.5,1
+Sentia Hardtop Coupe,160.0,210.0,8.0,0
+Biante,150.0,185.0,10.0,1
+Premacy Hydrogen RE Hybrid,200.0,180.0,9.5,1
+Carol P360,26.0,85.0,35.0,1
+T2000,110.0,170.0,12.5,1
+AZ-Offroad,85.0,145.0,12.0,1
+Scrum Wagon,64.0,120.0,15.5,1
+Persona,92.0,160.0,13.5,1
+Astina,140.0,190.0,8.5,1
+Etude,105.0,170.0,10.0,1
+Porter,95.0,130.0,14.0,1
+MX-3,130.0,190.0,8.5,1
+MX-5 Superlight Concept,143.0,200.0,7.5,0
+Premacy Hydrogen RE,200.0,180.0,9.5,1
+Bongo Truck,120.0,130.0,15.0,1
+Rotary Pickup,130.0,150.0,14.5,1
+Luce Rotary Coupe,135.0,175.0,12.0,1
+Millenia S,200.0,220.0,8.0,0
+787B (Race Car),700.0,320.0,3.5,2
+Crown Signia,240.0,180.0,7.6,0
+4Runner (6th Gen),326.0,180.0,6.8,0

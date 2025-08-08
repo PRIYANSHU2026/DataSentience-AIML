@@ -7,8 +7,17 @@ Dataset can be downloaded from [here](https://www.kaggle.com/ozlerhakan/spam-or-
 
 **MODELS USED**
 
--  Decission Tree
--  Naive Bayes
+-Logistic Regression
+-Support Vector Classifier (SVC)
+-Multinomial Naive Bayes
+-Decision Tree Classifier
+-K-Nearest Neighbors (KNN)
+-Random Forest Classifier
+-AdaBoost Classifier
+-Bagging Classifier
+-Extra Trees Classifier
+-Gradient Boosting Classifier
+-XGBoost Classifier
 
 **LIBRARIES NEEDED**
 - numpy
@@ -19,17 +28,14 @@ Dataset can be downloaded from [here](https://www.kaggle.com/ozlerhakan/spam-or-
 
 **CONCLUSION**
  
-  By using Naive Bayes I got 
- ```
-    Accuracy of training data: 94.33962264150944
-    Accuracy of testing data: 92.49422632794457
- ``` 
- 
- By using Decission Tree I got 
+  By using Random Forest Classifier I got 
  ```
     Accuracy of training data: 100.0
-    Accuracy of testing data: 97.57505773672055
+    Accuracy of testing data: 97.6
  ``` 
+    Precision of training data: 100.0
+    Precision of testing data: 100.0
+
  
 
-<a href="https://github.com/Jagannath8">Jagannath Pal</a>
+<a href="https://github.com/Ayush54555">Ayush Singh</a>
