@@ -1,7 +1,7 @@
 # src/model.py
-
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.losses import CategoricalCrossentropy
 
 def build_cnn_model(input_shape=(128, 128, 3), num_classes=5):
     model = Sequential([
@@ -14,11 +14,13 @@ def build_cnn_model(input_shape=(128, 128, 3), num_classes=5):
         Flatten(),
         Dense(128, activation='relu'),
         Dropout(0.5),
-        Dense(num_classes, activation='softmax')
+        Dense(num_classes,activation='softmax')
     ])
 
-    model.compile(optimizer='adam',
-                  loss='categorical_crossentropy',
-                  metrics=['accuracy'])
+    model.compile(
+        optimizer='adam',
+        loss=CategoricalCrossentropy(from_logits=True),
+        metrics=['accuracy']
+    )
 
     return model

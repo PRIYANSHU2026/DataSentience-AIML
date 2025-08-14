@@ -1,0 +1,62 @@
+{
+  "accuracy": 1.0,
+  "classes": [
+    "Bearish_HighVol",
+    "Bearish_LowVol",
+    "Bullish_HighVol",
+    "Bullish_LowVol",
+    "Sideways_HighVol",
+    "Sideways_LowVol"
+  ],
+  "classification_report": "                  precision    recall  f1-score   support\n\n Bearish_HighVol     1.0000    1.0000    1.0000        34\n  Bearish_LowVol     1.0000    1.0000    1.0000       127\n Bullish_HighVol     1.0000    1.0000    1.0000        28\n  Bullish_LowVol     1.0000    1.0000    1.0000       170\nSideways_HighVol     1.0000    1.0000    1.0000        17\n Sideways_LowVol     1.0000    1.0000    1.0000       131\n\n        accuracy                         1.0000       507\n       macro avg     1.0000    1.0000    1.0000       507\n    weighted avg     1.0000    1.0000    1.0000       507\n",
+  "confusion_matrix": [
+    [
+      34,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      127,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      28,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      170,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      131
+    ]
+  ]
+}

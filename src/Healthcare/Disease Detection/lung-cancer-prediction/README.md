@@ -141,4 +141,20 @@ sample_input = {
 ```
 
 ---
+---
 
+## 🎯 Run the Streamlit App
+
+Make sure you have installed all dependencies from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+
+Then, run the application using:
+
+```bash
+streamlit run app.py
+
+This will open the app in your default browser at:
+```bash
+http://localhost:8501

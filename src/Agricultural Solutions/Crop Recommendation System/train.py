@@ -1,5 +1,6 @@
 # train.py
-
+import matplotlib.pyplot as plt
+import seaborn as sns
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -35,3 +36,21 @@ joblib.dump(model, "crop_model.pkl")
 joblib.dump(le, "label_encoder.pkl")
 
 print("Model and label encoder saved.")
+
+# Feature importance
+importances = model.feature_importances_
+feature_names = X.columns
+
+# Create a DataFrame for plotting
+feat_imp_df = pd.DataFrame({
+    'Feature': feature_names,
+    'Importance': importances
+}).sort_values(by='Importance', ascending=False)
+
+# Plot
+plt.figure(figsize=(10, 6))
+sns.barplot(x='Importance', y='Feature', data=feat_imp_df, palette='viridis')
+plt.title('Feature Importance (Random Forest)')
+plt.tight_layout()
+plt.savefig('feature_importance.png')  # Save the plot
+plt.show()

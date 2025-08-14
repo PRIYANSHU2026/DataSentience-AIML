@@ -1,0 +1,3001 @@
+user_id,app_name,category,screen_time_min,launches,interactions,is_productive
+1051,Camera,Utilities,24.53,2.0,7.0,False
+1088,Chrome,Utilities,19.78,3.0,2.0,False
+1052,Spotify,Entertainment,32.03,1.0,6.0,False
+1028,Google Maps,Utilities,19.1,2.0,5.0,False
+1034,Instagram,Social,25.19,1.0,5.0,False
+1064,Chrome,Utilities,85.15,2.0,5.0,False
+1063,Instagram,Social,4.37,0.0,5.0,False
+1095,Camera,Utilities,57.35,2.0,5.0,False
+1060,Instagram,Social,58.42,3.0,2.0,False
+1016,Snapchat,Social,5.08,0.0,7.0,False
+1060,Instagram,Social,36.16,5.0,4.0,False
+1044,Twitch,Entertainment,6.18,5.0,7.0,False
+1065,Instagram,Social,31.61,5.0,5.0,False
+1059,Snapchat,Social,110.47,5.0,1.0,False
+1041,Netflix,Entertainment,4.1,2.0,4.0,False
+1079,Slack,Productivity,29.910392617449666,5.0,4.0,True
+1087,Gmail,Utilities,19.5,4.0,3.0,False
+1003,Google Docs,Productivity,33.26,3.0,5.0,True
+1041,Instagram,Social,13.79,0.0,1.0,False
+1022,Gmail,Utilities,21.07,2.0,3.0,False
+1093,Gmail,Utilities,9.53,3.0,4.0,False
+1069,Snapchat,Social,21.09,2.0,3.0,False
+1056,Slack,Productivity,33.38,4.0,1.0,True
+1014,Twitch,Entertainment,9.63,1.0,6.0,False
+1019,Snapchat,Social,84.67,3.0,5.0,False
+1027,Microsoft Teams,Productivity,54.04,4.0,6.0,True
+1028,Camera,Utilities,12.75,3.0,4.0,False
+1048,Slack,Productivity,29.910392617449666,2.0,6.0,True
+1004,YouTube,Entertainment,5.96,3.0,4.0,False
+1041,WhatsApp,Social,57.81,1.0,5.0,False
+1009,Snapchat,Social,8.23,0.0,10.0,False
+1093,Weather,Utilities,0.36,1.0,6.0,False
+1033,Instagram,Social,16.06,4.0,5.0,False
+1023,Spotify,Entertainment,17.65,4.0,4.0,False
+1061,YouTube,Entertainment,29.910392617449666,3.0,2.0,False
+1049,Google Maps,Utilities,49.52,2.0,2.0,False
+1083,WhatsApp,Social,20.94,3.0,6.0,False
+1055,Slack,Productivity,22.81,2.0,6.0,True
+1027,YouTube,Entertainment,3.36,2.0,5.0,False
+1012,Camera,Utilities,36.4,3.0,6.0,False
+1054,TikTok,Entertainment,2.11,2.0,2.0,False
+1021,Google Maps,Utilities,21.12,2.0,3.0,False
+1036,Spotify,Entertainment,29.910392617449666,2.0,10.0,False
+1085,TikTok,Entertainment,13.1,1.0,5.0,False
+1017,Chrome,Utilities,110.96,1.0,3.0,False
+1000,WhatsApp,Social,13.04,2.0,6.0,False
+1032,WhatsApp,Social,17.62,2.0,2.0,False
+1016,YouTube,Entertainment,22.13,1.0,9.0,False
+1035,TikTok,Entertainment,11.08,4.0,9.0,False
+1059,Netflix,Entertainment,7.0,5.0,10.0,False
+1031,Chrome,Utilities,12.12,5.0,5.0,False
+1076,Gmail,Utilities,3.34,2.0,3.0,False
+1069,WhatsApp,Social,30.81,1.0,9.0,False
+1013,Snapchat,Social,0.64,2.0,7.0,False
+1080,Camera,Utilities,3.68,2.0,5.0,False
+1054,Microsoft Teams,Productivity,38.0,2.0,5.0,True
+1088,Evernote,Productivity,0.98,1.0,3.0,True
+1035,Snapchat,Social,10.6,5.0,3.0,False
+1062,Facebook,Social,43.85,1.0,3.0,False
+1019,Netflix,Entertainment,32.99,2.0,4.0,False
+1099,Netflix,Entertainment,12.09,0.0,6.0,False
+1043,Chrome,Utilities,33.17,3.0,5.0,False
+1086,Snapchat,Social,21.21,2.0,6.0,False
+1058,Twitter,Social,29.910392617449666,1.0,5.0,False
+1090,Chrome,Utilities,27.75,1.0,4.0,False
+1030,Snapchat,Social,17.89,3.0,9.0,False
+1050,Facebook,Social,8.14,4.0,10.0,False
+1054,Chrome,Utilities,10.18,3.0,5.0,False
+1001,WhatsApp,Social,36.72,5.0,5.0,False
+1021,Evernote,Productivity,68.02,3.0,5.0,True
+1039,WhatsApp,Social,8.91,2.0,3.0,False
+1001,WhatsApp,Social,3.9,3.0,3.0,False
+1076,Instagram,Social,29.910392617449666,0.0,5.0,False
+1037,WhatsApp,Social,41.27,1.0,7.0,False
+1069,WhatsApp,Social,39.72,2.0,12.0,False
+1032,Instagram,Social,2.6,4.0,5.0,False
+1068,Twitch,Entertainment,53.45,3.0,6.0,False
+1085,TikTok,Entertainment,7.01,2.0,4.0,False
+1029,Weather,Utilities,43.36,2.0,6.0,False
+1043,Twitch,Entertainment,30.3,1.0,4.0,False
+1011,Chrome,Utilities,4.03,0.0,8.0,False
+1007,Weather,Utilities,37.65,3.0,4.0,False
+1036,Google Maps,Utilities,13.83,3.0,6.0,False
+1049,TikTok,Entertainment,9.84,2.0,12.0,False
+1046,Spotify,Entertainment,30.23,2.0,4.0,False
+1096,Weather,Utilities,20.25,2.0,4.0,False
+1004,Snapchat,Social,53.19,5.0,4.0,False
+1003,Camera,Utilities,21.09,4.0,3.0,False
+1016,Netflix,Entertainment,34.43,2.0,8.0,False
+1046,Facebook,Social,1.81,2.0,7.0,False
+1031,Microsoft Teams,Productivity,23.94,3.0,3.0,True
+1086,WhatsApp,Social,5.5,0.0,12.0,False
+1042,Weather,Utilities,3.66,4.0,3.0,False
+1096,Instagram,Social,29.910392617449666,1.0,4.0,False
+1071,Twitch,Entertainment,1.06,1.0,5.0,False
+1023,Google Maps,Utilities,45.77,2.0,2.0,False
+1044,Twitter,Social,29.9,0.0,6.0,False
+1076,Gmail,Utilities,59.13,0.0,3.0,False
+1020,Weather,Utilities,4.85,1.0,5.0,False
+1047,Camera,Utilities,20.25,2.0,5.0,False
+1005,Google Maps,Utilities,38.76,1.0,4.0,False
+1055,Twitter,Social,102.75,2.0,3.0,False
+1095,Camera,Utilities,73.66,1.0,3.0,False
+1034,Google Maps,Utilities,45.09,1.0,6.0,False
+1084,Slack,Productivity,31.55,4.0,9.0,True
+1001,Snapchat,Social,29.910392617449666,1.0,5.0,False
+1018,Google Docs,Productivity,21.91,5.0,5.0,True
+1079,Snapchat,Social,17.06,0.0,4.0,False
+1071,TikTok,Entertainment,33.67,1.0,7.0,False
+1022,Notion,Productivity,5.75,4.0,9.0,True
+1078,Google Docs,Productivity,3.32,0.0,5.0,True
+1021,Google Docs,Productivity,9.39,3.0,4.0,True
+1095,Twitch,Entertainment,18.12,0.0,3.0,False
+1019,Notion,Productivity,2.91,5.0,4.0,True
+1022,Snapchat,Social,16.11,1.0,5.0,False
+1071,Weather,Utilities,20.22,1.0,4.0,False
+1023,Evernote,Productivity,24.14,3.0,4.0,True
+1034,Google Maps,Utilities,0.67,0.0,3.0,False
+1020,YouTube,Entertainment,37.65,0.0,5.0,False
+1017,Microsoft Teams,Productivity,24.88,0.0,8.0,True
+1077,Facebook,Social,25.82,2.0,2.0,False
+1068,Microsoft Teams,Productivity,3.5,4.0,5.0,True
+1090,Google Maps,Utilities,55.3,1.0,5.0,False
+1029,Gmail,Utilities,28.41,1.0,6.0,False
+1057,Microsoft Teams,Productivity,13.93,3.0,6.0,True
+1007,Spotify,Entertainment,14.09,2.0,4.0,False
+1069,Camera,Utilities,2.2,4.0,5.0,False
+1091,Facebook,Social,47.31,1.0,8.0,False
+1072,Camera,Utilities,6.15,3.0,7.0,False
+1054,Spotify,Entertainment,4.7,2.0,4.0,False
+1081,Slack,Productivity,61.13,1.0,3.0,True
+1095,Evernote,Productivity,15.05,3.0,6.0,True
+1073,Chrome,Utilities,39.93,1.0,9.0,False
+1001,Slack,Productivity,4.18,0.0,6.0,True
+1025,Spotify,Entertainment,25.36,1.0,3.0,False
+1067,YouTube,Entertainment,29.910392617449666,3.0,4.0,False
+1099,Twitch,Entertainment,8.92,3.0,2.0,False
+1029,Evernote,Productivity,9.01,2.0,4.0,True
+1023,Twitch,Entertainment,14.9,4.0,7.0,False
+1005,WhatsApp,Social,19.98,3.0,3.0,False
+1045,Notion,Productivity,12.25,0.0,3.0,True
+1037,Netflix,Entertainment,36.94,3.0,4.0,False
+1007,Weather,Utilities,22.17,5.0,5.0,False
+1029,Netflix,Entertainment,24.13,1.0,5.0,False
+1026,Camera,Utilities,5.21,3.0,7.0,False
+1009,Spotify,Entertainment,12.18,1.0,5.0,False
+1021,Chrome,Utilities,2.42,2.0,3.0,False
+1076,Twitch,Entertainment,19.55,3.0,8.0,False
+1005,Microsoft Teams,Productivity,67.2,1.0,3.0,True
+1050,Google Maps,Utilities,63.36,3.0,3.0,False
+1065,Camera,Utilities,93.37,3.0,4.0,False
+1098,WhatsApp,Social,36.46,2.0,5.0,False
+1047,Weather,Utilities,20.34,1.0,5.0,False
+1066,Weather,Utilities,60.67,1.0,5.0,False
+1090,Chrome,Utilities,22.23,0.0,4.0,False
+1073,Facebook,Social,11.81,2.0,1.0,False
+1000,WhatsApp,Social,90.65,1.0,2.0,False
+1045,Facebook,Social,12.73,2.0,5.0,False
+1033,Google Docs,Productivity,0.6,3.0,6.0,True
+1050,Chrome,Utilities,29.910392617449666,2.0,2.0,False
+1079,Netflix,Entertainment,19.16,1.0,5.0,False
+1023,Evernote,Productivity,29.16,1.0,5.0,True
+1023,YouTube,Entertainment,23.92,1.0,3.0,False
+1053,Weather,Utilities,6.34,6.0,5.0,False
+1018,TikTok,Entertainment,98.93,2.0,9.0,False
+1079,Twitter,Social,61.78,1.0,7.0,False
+1042,Netflix,Entertainment,10.34,0.0,4.0,False
+1009,Facebook,Social,168.18,1.0,7.0,False
+1008,Slack,Productivity,15.97,3.0,9.0,True
+1026,Evernote,Productivity,7.09,2.0,3.0,True
+1021,Facebook,Social,12.26,2.0,1.0,False
+1056,Microsoft Teams,Productivity,11.29,0.0,3.0,True
+1027,Gmail,Utilities,1.91,2.0,7.0,False
+1062,Gmail,Utilities,10.48,0.0,3.0,False
+1038,Spotify,Entertainment,8.72,1.0,6.0,False
+1060,Snapchat,Social,41.16,0.0,9.0,False
+1039,WhatsApp,Social,9.11,2.0,5.0,False
+1025,Camera,Utilities,1.87,2.0,5.0,False
+1097,Snapchat,Social,60.32,0.0,5.0,False
+1094,Snapchat,Social,18.48,1.0,5.0,False
+1067,WhatsApp,Social,102.61,1.0,10.0,False
+1098,Weather,Utilities,8.23,0.0,2.0,False
+1006,WhatsApp,Social,11.89,2.0,6.0,False
+1096,Camera,Utilities,45.32,2.0,3.0,False
+1094,Instagram,Social,20.68,4.0,4.0,False
+1033,Spotify,Entertainment,9.74,1.0,3.0,False
+1060,Weather,Utilities,93.67,4.0,4.0,False
+1015,Netflix,Entertainment,11.26,4.0,2.0,False
+1027,Netflix,Entertainment,140.76,4.0,7.0,False
+1053,Camera,Utilities,29.910392617449666,3.0,4.0,False
+1044,Slack,Productivity,10.63,2.0,7.0,True
+1009,Twitter,Social,37.12,0.0,9.0,False
+1002,Chrome,Utilities,55.94,1.0,5.0,False
+1028,Slack,Productivity,34.89,0.0,5.0,True
+1051,Google Docs,Productivity,46.1,1.0,1.0,True
+1005,Instagram,Social,23.57,4.0,5.0,False
+1000,WhatsApp,Social,1.76,2.0,4.0,False
+1067,Chrome,Utilities,0.4,5.0,5.0,False
+1066,Slack,Productivity,24.03,3.0,6.0,True
+1036,Microsoft Teams,Productivity,70.21,5.0,8.0,True
+1037,Google Maps,Utilities,20.23,3.0,6.0,False
+1038,YouTube,Entertainment,104.09,2.0,7.0,False
+1054,Spotify,Entertainment,25.38,5.0,6.0,False
+1006,Weather,Utilities,98.38,3.0,5.0,False
+1034,Weather,Utilities,14.03,1.0,8.0,False
+1067,WhatsApp,Social,115.62,0.0,5.0,False
+1010,Google Docs,Productivity,18.83,0.0,3.0,True
+1028,Slack,Productivity,4.67,1.0,4.0,True
+1091,Twitch,Entertainment,0.73,2.0,5.0,False
+1037,Camera,Utilities,84.58,2.0,6.0,False
+1046,Facebook,Social,13.48,2.0,3.0,False
+1065,Google Docs,Productivity,26.59,1.0,8.0,True
+1016,Twitch,Entertainment,19.05,0.0,6.0,False
+1016,Microsoft Teams,Productivity,24.89,2.0,4.0,True
+1061,WhatsApp,Social,64.9,2.0,5.0,False
+1035,Instagram,Social,29.11,1.0,6.0,False
+1080,Microsoft Teams,Productivity,12.71,2.0,3.0,True
+1080,Google Docs,Productivity,13.14,1.0,4.0,True
+1036,Google Docs,Productivity,15.77,1.0,3.0,True
+1048,Weather,Utilities,28.27,1.0,7.0,False
+1038,Evernote,Productivity,86.53,2.0,5.0,True
+1006,Google Docs,Productivity,10.97,2.0,7.0,True
+1009,Microsoft Teams,Productivity,1.37,4.0,5.0,True
+1099,Spotify,Entertainment,26.75,4.0,4.0,False
+1073,Weather,Utilities,33.81,2.0,4.0,False
+1021,Twitter,Social,40.08,3.0,7.0,False
+1009,Snapchat,Social,3.75,0.0,4.0,False
+1034,Gmail,Utilities,1.94,2.0,3.0,False
+1022,Twitter,Social,36.58,1.0,3.0,False
+1035,Google Docs,Productivity,15.2,1.0,3.0,True
+1084,Slack,Productivity,23.53,6.0,5.0,True
+1073,Google Maps,Utilities,50.97,1.0,7.0,False
+1085,Gmail,Utilities,133.09,1.0,5.0,False
+1080,Twitter,Social,18.63,4.0,3.0,False
+1008,Google Maps,Utilities,10.45,2.0,5.0,False
+1073,Snapchat,Social,46.14,1.0,8.0,False
+1093,Microsoft Teams,Productivity,21.48,2.0,6.0,True
+1075,Twitter,Social,35.75,3.0,9.0,False
+1024,Camera,Utilities,45.54,1.0,5.0,False
+1100,WhatsApp,Social,88.65,2.0,6.0,False
+1051,Gmail,Utilities,15.36,0.0,4.0,False
+1007,Weather,Utilities,17.22,3.0,5.0,False
+1090,Gmail,Utilities,6.9,0.0,8.0,False
+1064,Netflix,Entertainment,6.53,0.0,10.0,False
+1001,Microsoft Teams,Productivity,40.75,2.0,3.0,True
+1099,Gmail,Utilities,86.93,2.0,5.0,False
+1088,Snapchat,Social,65.85,1.0,8.0,False
+1091,Camera,Utilities,39.69,3.0,6.0,False
+1005,Google Docs,Productivity,70.22,4.0,3.0,True
+1036,WhatsApp,Social,20.34,2.0,4.0,False
+1097,Weather,Utilities,12.75,2.0,6.0,False
+1021,Snapchat,Social,10.58,2.0,8.0,False
+1090,Twitch,Entertainment,2.61,5.0,5.0,False
+1081,Facebook,Social,21.22,1.0,7.0,False
+1099,Gmail,Utilities,7.25,4.0,8.0,False
+1056,Google Docs,Productivity,21.36,2.0,3.0,True
+1032,Google Docs,Productivity,32.69,1.0,5.0,True
+1063,Notion,Productivity,4.3,1.0,5.0,True
+1091,Slack,Productivity,10.17,2.0,4.0,True
+1059,Facebook,Social,11.35,2.0,2.0,False
+1026,Google Maps,Utilities,11.11,2.0,3.0,False
+1015,YouTube,Entertainment,71.7,1.0,4.0,False
+1076,YouTube,Entertainment,0.64,2.0,7.0,False
+1092,Slack,Productivity,23.31,2.0,7.0,True
+1014,Microsoft Teams,Productivity,15.22,2.0,4.0,True
+1078,Instagram,Social,24.1,2.0,3.0,False
+1100,Gmail,Utilities,31.75,1.0,9.0,False
+1077,Google Maps,Utilities,21.66,2.0,4.0,False
+1012,Snapchat,Social,37.59,2.0,5.0,False
+1079,Netflix,Entertainment,3.23,2.0,2.0,False
+1056,Google Maps,Utilities,21.67,1.0,6.0,False
+1014,Instagram,Social,5.92,4.0,8.0,False
+1044,Chrome,Utilities,18.79,3.0,3.0,False
+1015,Facebook,Social,8.31,0.0,3.0,False
+1066,Gmail,Utilities,54.89,1.0,4.0,False
+1023,Evernote,Productivity,24.51,3.0,7.0,True
+1079,Twitch,Entertainment,4.19,1.0,3.0,False
+1022,Instagram,Social,16.68,2.0,1.0,False
+1060,TikTok,Entertainment,1.11,2.0,4.0,False
+1056,Google Docs,Productivity,76.96,2.0,2.0,True
+1086,Instagram,Social,15.6,2.0,8.0,False
+1006,Gmail,Utilities,44.21,2.0,7.0,False
+1042,Instagram,Social,29.46,3.0,8.0,False
+1066,Twitter,Social,6.08,1.0,8.0,False
+1005,Evernote,Productivity,50.26,0.0,7.0,True
+1015,Twitter,Social,63.15,0.0,4.0,False
+1042,Notion,Productivity,54.07,3.0,2.0,True
+1011,WhatsApp,Social,38.14,2.0,3.0,False
+1008,Gmail,Utilities,1.98,3.0,2.0,False
+1073,Notion,Productivity,3.77,1.0,4.0,True
+1065,Microsoft Teams,Productivity,46.15,2.0,5.0,True
+1041,Evernote,Productivity,2.65,1.0,5.0,True
+1055,YouTube,Entertainment,12.8,2.0,8.0,False
+1002,Microsoft Teams,Productivity,34.7,0.0,2.0,True
+1003,Spotify,Entertainment,3.36,1.0,3.0,False
+1068,YouTube,Entertainment,14.13,0.0,1.0,False
+1012,Evernote,Productivity,31.68,1.0,4.0,True
+1078,Twitter,Social,88.39,1.0,3.0,False
+1034,Netflix,Entertainment,8.26,5.0,11.0,False
+1013,WhatsApp,Social,84.42,1.0,6.0,False
+1094,Facebook,Social,6.95,2.0,4.0,False
+1005,Spotify,Entertainment,61.47,1.0,1.0,False
+1044,YouTube,Entertainment,73.77,4.0,4.0,False
+1047,Twitter,Social,5.37,2.0,4.0,False
+1027,Facebook,Social,48.78,3.0,5.0,False
+1021,Google Docs,Productivity,10.84,1.0,5.0,True
+1039,TikTok,Entertainment,11.76,1.0,3.0,False
+1096,Evernote,Productivity,26.86,3.0,5.0,True
+1044,Camera,Utilities,67.35,2.0,8.0,False
+1099,Facebook,Social,64.89,1.0,3.0,False
+1073,Notion,Productivity,5.37,2.0,3.0,True
+1085,Snapchat,Social,9.01,0.0,4.0,False
+1014,Instagram,Social,134.82,1.0,5.0,False
+1006,Twitch,Entertainment,28.89,1.0,11.0,False
+1094,Twitter,Social,18.55,3.0,10.0,False
+1013,Evernote,Productivity,117.82,2.0,8.0,True
+1001,Evernote,Productivity,95.04,2.0,8.0,True
+1022,Facebook,Social,124.84,4.0,4.0,False
+1007,Weather,Utilities,4.64,2.0,5.0,False
+1038,Netflix,Entertainment,141.37,2.0,5.0,False
+1014,Twitter,Social,20.02,2.0,1.0,False
+1044,Facebook,Social,2.81,2.0,8.0,False
+1005,Netflix,Entertainment,38.99,3.0,5.0,False
+1029,Instagram,Social,20.53,1.0,4.0,False
+1013,TikTok,Entertainment,9.98,2.0,4.0,False
+1014,Netflix,Entertainment,26.57,2.0,5.0,False
+1016,Google Docs,Productivity,1.18,2.0,6.0,True
+1022,Google Docs,Productivity,31.58,3.0,2.0,True
+1087,Microsoft Teams,Productivity,31.47,4.0,3.0,True
+1047,Google Docs,Productivity,26.74,2.0,5.0,True
+1048,Weather,Utilities,4.08,0.0,5.0,False
+1047,Twitch,Entertainment,30.22,2.0,2.0,False
+1004,Snapchat,Social,15.95,3.0,2.0,False
+1053,Gmail,Utilities,23.67,2.0,8.0,False
+1053,Slack,Productivity,27.23,0.0,4.0,True
+1072,Netflix,Entertainment,11.42,1.0,8.0,False
+1034,Snapchat,Social,21.78,1.0,9.0,False
+1038,Notion,Productivity,33.2,2.0,6.0,True
+1088,Twitch,Entertainment,4.51,2.0,1.0,False
+1086,Twitch,Entertainment,38.31,2.0,2.0,False
+1074,Google Maps,Utilities,53.35,2.0,3.0,False
+1097,Google Docs,Productivity,48.4,1.0,5.0,True
+1053,Facebook,Social,35.4,1.0,4.0,False
+1012,Twitch,Entertainment,28.18,1.0,3.0,False
+1014,Netflix,Entertainment,5.83,2.0,1.0,False
+1046,YouTube,Entertainment,5.94,1.0,8.0,False
+1086,Gmail,Utilities,108.1,1.0,5.0,False
+1079,TikTok,Entertainment,10.89,1.0,7.0,False
+1081,TikTok,Entertainment,27.09,4.0,3.0,False
+1096,Evernote,Productivity,71.26,7.0,6.0,True
+1058,Google Maps,Utilities,10.77,4.0,5.0,False
+1036,Google Maps,Utilities,7.73,5.0,4.0,False
+1059,Notion,Productivity,30.16,1.0,2.0,True
+1026,Google Docs,Productivity,17.74,2.0,5.0,True
+1000,Weather,Utilities,15.95,2.0,3.0,False
+1072,Twitter,Social,2.96,3.0,7.0,False
+1021,Slack,Productivity,55.61,1.0,3.0,True
+1021,Snapchat,Social,56.89,2.0,1.0,False
+1050,Gmail,Utilities,105.96,0.0,8.0,False
+1058,Chrome,Utilities,103.32,3.0,5.0,False
+1011,Facebook,Social,9.2,4.0,4.0,False
+1025,TikTok,Entertainment,82.22,2.0,5.0,False
+1047,Twitch,Entertainment,1.03,0.0,4.0,False
+1033,Google Maps,Utilities,10.53,2.0,1.0,False
+1058,Facebook,Social,6.24,0.0,5.0,False
+1039,Gmail,Utilities,24.86,2.0,11.0,False
+1077,Netflix,Entertainment,35.91,2.0,2.0,False
+1017,Evernote,Productivity,2.65,0.0,11.0,True
+1029,Google Docs,Productivity,0.01,5.0,8.0,True
+1083,Spotify,Entertainment,49.95,4.0,6.0,False
+1082,WhatsApp,Social,14.68,3.0,6.0,False
+1049,Microsoft Teams,Productivity,13.56,2.0,2.0,True
+1057,Chrome,Utilities,22.7,2.0,8.0,False
+1053,Camera,Utilities,27.9,0.0,3.0,False
+1092,Gmail,Utilities,5.56,3.0,7.0,False
+1098,Gmail,Utilities,31.11,4.0,4.0,False
+1032,Weather,Utilities,18.92,2.0,6.0,False
+1087,Netflix,Entertainment,23.33,1.0,0.0,False
+1000,Notion,Productivity,2.78,2.0,2.0,True
+1053,Notion,Productivity,24.17,1.0,2.0,True
+1037,Evernote,Productivity,35.93,2.0,4.0,True
+1097,Gmail,Utilities,26.13,2.0,8.0,False
+1033,Twitch,Entertainment,37.71,3.0,5.0,False
+1055,Google Docs,Productivity,4.37,3.0,5.0,True
+1096,Chrome,Utilities,64.23,3.0,5.0,False
+1097,Facebook,Social,39.25,4.0,1.0,False
+1003,Twitch,Entertainment,9.62,4.0,8.0,False
+1001,WhatsApp,Social,90.06,1.0,9.0,False
+1007,Camera,Utilities,8.73,4.0,4.0,False
+1073,Twitter,Social,6.19,1.0,8.0,False
+1048,Instagram,Social,25.58,1.0,5.0,False
+1094,Microsoft Teams,Productivity,40.94,4.0,4.0,True
+1046,Netflix,Entertainment,11.19,3.0,7.0,False
+1091,Gmail,Utilities,9.75,3.0,2.0,False
+1043,Netflix,Entertainment,29.910392617449666,2.0,6.0,False
+1092,YouTube,Entertainment,36.27,2.0,6.0,False
+1003,Spotify,Entertainment,17.71,2.0,3.0,False
+1032,Notion,Productivity,82.34,2.0,4.0,True
+1033,Facebook,Social,10.76,3.0,5.0,False
+1066,Twitch,Entertainment,0.65,0.0,4.0,False
+1007,Spotify,Entertainment,23.68,3.0,6.0,False
+1062,YouTube,Entertainment,22.1,2.0,4.0,False
+1049,Google Maps,Utilities,53.4,4.0,4.0,False
+1005,Evernote,Productivity,29.910392617449666,5.0,4.0,True
+1056,Slack,Productivity,9.17,4.0,3.0,True
+1075,Twitch,Entertainment,26.17,4.0,4.0,False
+1005,Spotify,Entertainment,20.31,0.0,3.0,False
+1078,Facebook,Social,5.27,3.0,6.0,False
+1067,Google Docs,Productivity,42.76,2.0,2.0,True
+1057,Gmail,Utilities,0.05,0.0,3.0,False
+1080,Twitch,Entertainment,3.79,3.0,4.0,False
+1084,Slack,Productivity,1.79,2.0,5.0,True
+1082,Gmail,Utilities,2.05,3.0,6.0,False
+1086,Weather,Utilities,12.82,2.0,9.0,False
+1046,Spotify,Entertainment,64.69,3.0,8.0,False
+1096,Netflix,Entertainment,3.35,2.0,1.0,False
+1085,Google Docs,Productivity,16.11,3.0,3.0,True
+1009,WhatsApp,Social,26.57,2.0,2.0,False
+1024,Chrome,Utilities,29.42,4.0,5.0,False
+1062,Notion,Productivity,46.87,1.0,1.0,True
+1008,WhatsApp,Social,11.81,2.0,4.0,False
+1009,Instagram,Social,32.82,1.0,3.0,False
+1015,WhatsApp,Social,24.92,1.0,7.0,False
+1084,YouTube,Entertainment,43.53,2.0,3.0,False
+1040,Snapchat,Social,142.66,3.0,4.0,False
+1083,Microsoft Teams,Productivity,29.910392617449666,1.0,6.0,True
+1073,Twitch,Entertainment,48.71,1.0,7.0,False
+1053,Camera,Utilities,1.08,0.0,5.0,False
+1066,Chrome,Utilities,5.01,4.0,4.0,False
+1082,Evernote,Productivity,12.65,4.0,5.0,True
+1006,Evernote,Productivity,6.01,0.0,3.0,True
+1004,Weather,Utilities,5.45,3.0,10.0,False
+1077,YouTube,Entertainment,16.76,5.0,5.0,False
+1093,WhatsApp,Social,95.03,3.0,3.0,False
+1083,WhatsApp,Social,24.16,0.0,2.0,False
+1038,Camera,Utilities,8.75,2.0,6.0,False
+1066,Twitch,Entertainment,13.16,1.0,2.0,False
+1030,Spotify,Entertainment,38.47,2.0,4.0,False
+1064,Spotify,Entertainment,6.27,4.0,4.0,False
+1089,Microsoft Teams,Productivity,17.71,5.0,2.0,True
+1021,Camera,Utilities,2.45,2.0,5.0,False
+1056,Notion,Productivity,54.48,1.0,5.0,True
+1007,Twitch,Entertainment,56.26,4.0,3.0,False
+1066,Netflix,Entertainment,17.37,2.0,7.0,False
+1080,TikTok,Entertainment,27.93,3.0,3.0,False
+1064,Notion,Productivity,15.56,3.0,6.0,True
+1092,Instagram,Social,4.36,4.0,7.0,False
+1045,Snapchat,Social,9.66,1.0,2.0,False
+1025,Notion,Productivity,50.6,2.0,8.0,True
+1093,Facebook,Social,26.4,2.0,2.0,False
+1094,WhatsApp,Social,11.63,0.0,4.0,False
+1028,Notion,Productivity,4.88,1.0,7.0,True
+1082,Google Maps,Utilities,22.22,5.0,5.0,False
+1003,Google Maps,Utilities,75.98,3.0,7.0,False
+1037,YouTube,Entertainment,4.27,2.0,2.0,False
+1006,Twitch,Entertainment,4.66,2.0,2.0,False
+1061,Netflix,Entertainment,39.33,2.0,7.0,False
+1070,Evernote,Productivity,34.01,1.0,6.0,True
+1006,Weather,Utilities,15.37,3.0,4.0,False
+1035,Facebook,Social,48.28,4.0,6.0,False
+1077,Facebook,Social,25.72,5.0,3.0,False
+1068,Evernote,Productivity,5.77,2.0,3.0,True
+1092,WhatsApp,Social,7.23,0.0,4.0,False
+1011,Facebook,Social,21.11,4.0,8.0,False
+1039,Google Maps,Utilities,6.58,5.0,4.0,False
+1062,Gmail,Utilities,37.61,1.0,5.0,False
+1049,Spotify,Entertainment,29.17,2.0,6.0,False
+1093,Facebook,Social,31.42,5.0,3.0,False
+1078,Snapchat,Social,8.08,2.0,1.0,False
+1022,Twitter,Social,10.66,1.0,4.0,False
+1060,YouTube,Entertainment,80.49,1.0,4.0,False
+1051,Snapchat,Social,25.18,2.0,6.0,False
+1054,Facebook,Social,17.79,1.0,6.0,False
+1036,Weather,Utilities,78.64,4.0,6.0,False
+1012,Chrome,Utilities,1.36,1.0,5.0,False
+1049,Spotify,Entertainment,17.61,3.0,5.0,False
+1044,Spotify,Entertainment,11.81,2.0,4.0,False
+1055,Camera,Utilities,0.04,3.0,4.0,False
+1074,Facebook,Social,46.7,3.0,3.0,False
+1032,Notion,Productivity,6.6,2.0,5.0,True
+1042,Twitter,Social,51.78,1.0,4.0,False
+1075,Slack,Productivity,30.97,3.0,4.0,True
+1084,Google Docs,Productivity,5.73,1.0,4.0,True
+1023,Instagram,Social,14.96,0.0,3.0,False
+1056,Notion,Productivity,23.55,2.0,2.0,True
+1046,Slack,Productivity,79.75,3.0,3.0,True
+1085,Microsoft Teams,Productivity,34.16,2.0,5.0,True
+1049,Microsoft Teams,Productivity,11.48,5.0,5.0,True
+1089,Netflix,Entertainment,14.09,4.0,2.0,False
+1086,Instagram,Social,41.29,5.0,6.0,False
+1096,Twitter,Social,86.34,5.0,5.0,False
+1073,Facebook,Social,18.54,1.0,2.0,False
+1060,WhatsApp,Social,136.67,3.0,6.0,False
+1086,Google Maps,Utilities,23.38,0.0,2.0,False
+1045,Chrome,Utilities,21.12,0.0,4.0,False
+1023,Chrome,Utilities,14.79,0.0,6.0,False
+1036,YouTube,Entertainment,10.04,0.0,0.0,False
+1034,WhatsApp,Social,19.08,3.0,5.0,False
+1056,Facebook,Social,29.71,3.0,10.0,False
+1050,Snapchat,Social,46.68,0.0,6.0,False
+1021,Facebook,Social,62.49,1.0,4.0,False
+1048,Snapchat,Social,44.88,2.0,6.0,False
+1020,Camera,Utilities,9.82,2.0,1.0,False
+1067,Netflix,Entertainment,44.47,2.0,3.0,False
+1100,Google Docs,Productivity,10.41,2.0,5.0,True
+1050,WhatsApp,Social,3.36,2.0,7.0,False
+1012,Evernote,Productivity,0.75,1.0,4.0,True
+1041,Slack,Productivity,48.91,2.0,4.0,True
+1078,Chrome,Utilities,4.52,2.0,9.0,False
+1096,WhatsApp,Social,4.24,2.0,0.0,False
+1040,Twitch,Entertainment,27.28,1.0,6.0,False
+1048,Evernote,Productivity,21.37,2.0,3.0,True
+1035,Facebook,Social,49.03,1.0,6.0,False
+1032,Microsoft Teams,Productivity,9.5,1.0,4.0,True
+1036,Twitch,Entertainment,20.18,4.0,4.0,False
+1013,Weather,Utilities,9.7,1.0,4.0,False
+1080,Slack,Productivity,8.36,2.0,3.0,True
+1085,Instagram,Social,173.86,0.0,7.0,False
+1083,Spotify,Entertainment,2.48,2.0,6.0,False
+1041,TikTok,Entertainment,4.31,3.0,6.0,False
+1006,Twitter,Social,9.19,3.0,4.0,False
+1069,Twitter,Social,12.96,1.0,7.0,False
+1045,Microsoft Teams,Productivity,7.48,4.0,3.0,True
+1073,TikTok,Entertainment,20.21,0.0,9.0,False
+1012,Facebook,Social,18.99,2.0,3.0,False
+1068,Chrome,Utilities,12.66,2.0,6.0,False
+1054,Facebook,Social,51.29,5.0,2.0,False
+1078,Google Maps,Utilities,75.7,4.0,5.0,False
+1099,Slack,Productivity,1.29,2.0,1.0,True
+1015,Google Docs,Productivity,2.96,0.0,4.0,True
+1086,Snapchat,Social,36.4,1.0,6.0,False
+1074,Gmail,Utilities,3.08,1.0,5.0,False
+1080,YouTube,Entertainment,138.13,3.0,5.0,False
+1085,Facebook,Social,1.87,1.0,5.0,False
+1091,Snapchat,Social,3.55,1.0,5.0,False
+1048,Instagram,Social,17.74,2.0,7.0,False
+1045,Chrome,Utilities,66.26,0.0,7.0,False
+1065,Microsoft Teams,Productivity,8.77,3.0,3.0,True
+1027,Evernote,Productivity,13.42,4.0,3.0,True
+1063,Gmail,Utilities,45.46,3.0,9.0,False
+1052,Twitch,Entertainment,72.76,3.0,7.0,False
+1038,Camera,Utilities,15.02,5.0,3.0,False
+1078,YouTube,Entertainment,3.78,2.0,4.0,False
+1031,Gmail,Utilities,59.44,4.0,4.0,False
+1062,Chrome,Utilities,98.87,2.0,6.0,False
+1016,Twitter,Social,40.84,1.0,4.0,False
+1069,Instagram,Social,12.98,4.0,3.0,False
+1039,Snapchat,Social,6.19,2.0,2.0,False
+1056,Slack,Productivity,10.22,0.0,7.0,True
+1013,WhatsApp,Social,21.29,1.0,5.0,False
+1025,Google Docs,Productivity,28.87,4.0,5.0,True
+1011,Evernote,Productivity,56.94,0.0,7.0,True
+1013,Instagram,Social,32.52,2.0,5.0,False
+1084,Gmail,Utilities,11.91,3.0,2.0,False
+1092,Google Maps,Utilities,7.77,3.0,8.0,False
+1067,Instagram,Social,4.94,1.0,7.0,False
+1043,Chrome,Utilities,9.68,6.0,6.0,False
+1073,Gmail,Utilities,15.97,1.0,5.0,False
+1087,Evernote,Productivity,96.67,3.0,4.0,True
+1078,Facebook,Social,15.89,2.0,6.0,False
+1043,Google Docs,Productivity,13.11,3.0,8.0,True
+1065,Chrome,Utilities,6.32,0.0,4.0,False
+1006,Instagram,Social,24.41,1.0,5.0,False
+1005,Google Docs,Productivity,28.13,2.0,2.0,True
+1047,Camera,Utilities,34.8,1.0,5.0,False
+1096,Camera,Utilities,10.46,1.0,6.0,False
+1050,Microsoft Teams,Productivity,15.41,2.0,1.0,True
+1069,Gmail,Utilities,0.85,1.0,2.0,False
+1034,Instagram,Social,10.01,2.0,8.0,False
+1038,Netflix,Entertainment,7.01,1.0,3.0,False
+1026,Notion,Productivity,43.37,1.0,4.0,True
+1059,Spotify,Entertainment,11.34,1.0,3.0,False
+1005,Twitch,Entertainment,60.42,1.0,3.0,False
+1083,Twitch,Entertainment,11.13,1.0,7.0,False
+1000,Twitch,Entertainment,15.15,2.0,2.0,False
+1033,Google Maps,Utilities,20.02,1.0,8.0,False
+1088,Netflix,Entertainment,14.6,0.0,4.0,False
+1080,Facebook,Social,58.51,0.0,4.0,False
+1045,Twitch,Entertainment,48.37,1.0,5.0,False
+1099,Google Docs,Productivity,49.59,2.0,3.0,True
+1074,Slack,Productivity,4.53,0.0,3.0,True
+1000,Chrome,Utilities,4.21,6.0,9.0,False
+1010,Chrome,Utilities,5.52,0.0,8.0,False
+1053,Facebook,Social,8.25,1.0,7.0,False
+1020,Instagram,Social,12.01,4.0,10.0,False
+1030,Facebook,Social,3.98,0.0,6.0,False
+1022,Twitter,Social,15.45,2.0,2.0,False
+1043,YouTube,Entertainment,46.19,1.0,3.0,False
+1016,Chrome,Utilities,4.92,0.0,4.0,False
+1015,WhatsApp,Social,16.6,0.0,4.0,False
+1067,Twitch,Entertainment,20.19,3.0,3.0,False
+1096,YouTube,Entertainment,64.94,2.0,3.0,False
+1002,Snapchat,Social,1.65,3.0,2.0,False
+1012,Google Docs,Productivity,0.29,2.0,2.0,True
+1057,Gmail,Utilities,29.66,3.0,3.0,False
+1039,Snapchat,Social,0.09,3.0,10.0,False
+1076,Netflix,Entertainment,34.37,4.0,6.0,False
+1022,Twitch,Entertainment,53.4,4.0,9.0,False
+1009,Google Maps,Utilities,24.93,1.0,6.0,False
+1069,YouTube,Entertainment,86.42,2.0,4.0,False
+1091,Microsoft Teams,Productivity,51.7,0.0,6.0,True
+1028,Microsoft Teams,Productivity,144.1,1.0,7.0,True
+1083,Microsoft Teams,Productivity,66.59,1.0,2.0,True
+1083,YouTube,Entertainment,0.48,0.0,3.0,False
+1034,Notion,Productivity,40.35,0.0,4.0,True
+1033,Facebook,Social,44.29,1.0,6.0,False
+1007,Google Maps,Utilities,10.63,1.0,10.0,False
+1063,Camera,Utilities,29.16,1.0,4.0,False
+1065,Twitter,Social,42.4,4.0,5.0,False
+1010,Google Maps,Utilities,14.22,0.0,2.0,False
+1039,Camera,Utilities,19.37,3.0,2.0,False
+1001,Spotify,Entertainment,11.47,2.0,6.0,False
+1085,YouTube,Entertainment,13.45,1.0,5.0,False
+1047,Gmail,Utilities,10.35,1.0,7.0,False
+1041,TikTok,Entertainment,18.88,2.0,5.0,False
+1079,Evernote,Productivity,7.66,1.0,8.0,True
+1094,Chrome,Utilities,14.52,0.0,6.0,False
+1042,Evernote,Productivity,15.81,2.0,4.0,True
+1060,Netflix,Entertainment,5.53,2.0,5.0,False
+1077,Camera,Utilities,30.54,0.0,10.0,False
+1009,Facebook,Social,27.52,4.0,5.0,False
+1013,Chrome,Utilities,31.26,3.0,1.0,False
+1015,WhatsApp,Social,12.77,0.0,4.0,False
+1030,Twitch,Entertainment,12.49,4.0,6.0,False
+1066,Twitch,Entertainment,52.35,3.0,6.0,False
+1086,Snapchat,Social,33.23,2.0,4.0,False
+1031,Slack,Productivity,58.99,1.0,4.0,True
+1002,Evernote,Productivity,8.0,1.0,5.0,True
+1002,Instagram,Social,7.03,2.0,9.0,False
+1061,Facebook,Social,0.87,1.0,5.0,False
+1091,Netflix,Entertainment,65.05,2.0,4.0,False
+1097,Twitter,Social,38.53,1.0,2.0,False
+1016,Chrome,Utilities,58.31,4.0,3.0,False
+1082,Snapchat,Social,19.09,2.0,5.0,False
+1080,Notion,Productivity,212.87,1.0,6.0,True
+1046,Slack,Productivity,3.22,3.0,8.0,True
+1096,Twitter,Social,47.5,3.0,4.0,False
+1034,Spotify,Entertainment,71.58,1.0,3.0,False
+1094,Snapchat,Social,8.38,1.0,6.0,False
+1057,Facebook,Social,0.13,1.0,5.0,False
+1034,Gmail,Utilities,29.99,1.0,2.0,False
+1055,Chrome,Utilities,17.33,1.0,3.0,False
+1014,Slack,Productivity,209.63,1.0,7.0,True
+1092,Weather,Utilities,50.63,4.0,5.0,False
+1004,Google Maps,Utilities,46.51,0.0,6.0,False
+1060,Spotify,Entertainment,57.98,2.0,8.0,False
+1053,YouTube,Entertainment,22.03,0.0,8.0,False
+1078,Facebook,Social,18.72,2.0,2.0,False
+1067,Weather,Utilities,2.9,4.0,4.0,False
+1068,Chrome,Utilities,11.14,2.0,2.0,False
+1022,Google Docs,Productivity,15.04,4.0,4.0,True
+1070,Weather,Utilities,4.92,2.0,5.0,False
+1100,Evernote,Productivity,4.32,1.0,4.0,True
+1098,Slack,Productivity,24.82,2.0,2.0,True
+1027,Slack,Productivity,10.49,2.0,8.0,True
+1094,Twitch,Entertainment,22.05,0.0,4.0,False
+1001,WhatsApp,Social,11.09,1.0,6.0,False
+1003,YouTube,Entertainment,175.32,2.0,3.0,False
+1077,Camera,Utilities,55.41,4.0,5.0,False
+1019,Camera,Utilities,39.41,1.0,3.0,False
+1004,Instagram,Social,17.73,1.0,6.0,False
+1029,Camera,Utilities,28.04,0.0,3.0,False
+1059,Chrome,Utilities,45.6,0.0,2.0,False
+1009,Netflix,Entertainment,37.98,1.0,4.0,False
+1079,Evernote,Productivity,45.95,4.0,5.0,True
+1021,Notion,Productivity,1.74,0.0,2.0,True
+1057,Chrome,Utilities,51.65,1.0,7.0,False
+1077,Twitch,Entertainment,45.14,1.0,3.0,False
+1047,Instagram,Social,5.82,1.0,3.0,False
+1042,Twitch,Entertainment,14.41,1.0,1.0,False
+1039,Gmail,Utilities,99.58,2.0,5.0,False
+1024,Spotify,Entertainment,3.05,1.0,5.0,False
+1002,YouTube,Entertainment,1.94,3.0,3.0,False
+1003,Notion,Productivity,44.08,4.0,8.0,True
+1096,Twitter,Social,35.98,2.0,7.0,False
+1037,Chrome,Utilities,26.59,4.0,9.0,False
+1011,YouTube,Entertainment,44.24,2.0,1.0,False
+1031,Google Maps,Utilities,126.7,5.0,4.0,False
+1019,Gmail,Utilities,13.67,3.0,5.0,False
+1014,Chrome,Utilities,3.06,1.0,5.0,False
+1052,Google Docs,Productivity,2.04,3.0,4.0,True
+1012,Slack,Productivity,19.07,2.0,3.0,True
+1094,TikTok,Entertainment,19.93,2.0,5.0,False
+1070,Gmail,Utilities,55.22,2.0,3.0,False
+1095,Twitch,Entertainment,7.8,6.0,5.0,False
+1088,YouTube,Entertainment,19.4,1.0,4.0,False
+1012,WhatsApp,Social,1.27,3.0,9.0,False
+1086,Twitter,Social,43.18,3.0,2.0,False
+1100,Twitter,Social,10.29,2.0,3.0,False
+1091,Snapchat,Social,91.22,1.0,6.0,False
+1005,Snapchat,Social,13.86,0.0,6.0,False
+1084,Snapchat,Social,31.26,0.0,5.0,False
+1020,Twitter,Social,74.08,0.0,8.0,False
+1000,Google Docs,Productivity,10.52,1.0,9.0,True
+1001,YouTube,Entertainment,16.55,1.0,4.0,False
+1097,Evernote,Productivity,44.6,3.0,3.0,True
+1031,Twitch,Entertainment,11.29,1.0,8.0,False
+1006,Gmail,Utilities,30.91,1.0,3.0,False
+1048,Twitch,Entertainment,29.76,1.0,8.0,False
+1033,Notion,Productivity,23.72,3.0,5.0,True
+1000,Snapchat,Social,25.42,6.0,5.0,False
+1051,YouTube,Entertainment,3.3,5.0,5.0,False
+1076,Camera,Utilities,45.77,4.0,6.0,False
+1064,Twitch,Entertainment,64.76,2.0,8.0,False
+1023,Spotify,Entertainment,10.93,1.0,10.0,False
+1051,Chrome,Utilities,21.32,4.0,6.0,False
+1057,Weather,Utilities,40.46,4.0,6.0,False
+1024,Chrome,Utilities,114.29,4.0,3.0,False
+1069,Weather,Utilities,23.31,5.0,4.0,False
+1060,Gmail,Utilities,9.35,2.0,7.0,False
+1045,Twitter,Social,7.1,4.0,6.0,False
+1022,Notion,Productivity,16.28,2.0,4.0,True
+1076,Snapchat,Social,58.64,2.0,5.0,False
+1041,Netflix,Entertainment,27.84,0.0,4.0,False
+1026,Weather,Utilities,39.6,1.0,4.0,False
+1090,Chrome,Utilities,20.57,1.0,5.0,False
+1010,Notion,Productivity,18.58,1.0,10.0,True
+1043,Snapchat,Social,7.61,5.0,2.0,False
+1015,Spotify,Entertainment,42.98,1.0,4.0,False
+1043,Spotify,Entertainment,35.28,3.0,1.0,False
+1023,Chrome,Utilities,27.01,1.0,3.0,False
+1058,Twitter,Social,38.85,0.0,3.0,False
+1094,Snapchat,Social,24.61,3.0,9.0,False
+1097,TikTok,Entertainment,61.58,3.0,8.0,False
+1010,Camera,Utilities,91.26,3.0,6.0,False
+1072,Instagram,Social,21.2,1.0,5.0,False
+1046,Gmail,Utilities,19.24,2.0,3.0,False
+1090,Instagram,Social,32.64,1.0,3.0,False
+1037,Gmail,Utilities,22.8,3.0,3.0,False
+1003,Facebook,Social,4.72,4.0,5.0,False
+1072,Twitch,Entertainment,24.13,1.0,6.0,False
+1066,Twitch,Entertainment,1.51,1.0,3.0,False
+1056,Snapchat,Social,3.83,4.0,8.0,False
+1097,Slack,Productivity,14.96,2.0,5.0,True
+1053,Slack,Productivity,0.41,0.0,5.0,True
+1028,Google Docs,Productivity,16.31,0.0,4.0,True
+1030,Microsoft Teams,Productivity,2.8,4.0,1.0,True
+1031,WhatsApp,Social,7.37,4.0,5.0,False
+1024,WhatsApp,Social,2.35,5.0,9.0,False
+1061,Spotify,Entertainment,14.88,2.0,3.0,False
+1002,Microsoft Teams,Productivity,115.65,3.0,7.0,True
+1033,Google Docs,Productivity,15.13,3.0,5.0,True
+1016,TikTok,Entertainment,11.71,2.0,7.0,False
+1060,Netflix,Entertainment,4.77,1.0,3.0,False
+1016,Microsoft Teams,Productivity,22.6,1.0,5.0,True
+1035,Snapchat,Social,11.2,2.0,6.0,False
+1012,Gmail,Utilities,3.94,1.0,6.0,False
+1029,Notion,Productivity,22.47,1.0,7.0,True
+1054,Twitter,Social,0.26,5.0,4.0,False
+1079,Camera,Utilities,38.96,0.0,4.0,False
+1004,Evernote,Productivity,1.24,1.0,1.0,True
+1072,TikTok,Entertainment,61.2,1.0,8.0,False
+1062,Weather,Utilities,1.62,5.0,3.0,False
+1067,Google Docs,Productivity,27.22,6.0,6.0,True
+1065,Google Docs,Productivity,55.7,2.0,3.0,True
+1089,Chrome,Utilities,9.06,5.0,8.0,False
+1026,WhatsApp,Social,80.92,3.0,6.0,False
+1011,WhatsApp,Social,9.18,2.0,6.0,False
+1018,Gmail,Utilities,36.76,2.0,2.0,False
+1086,Gmail,Utilities,6.87,1.0,4.0,False
+1086,Evernote,Productivity,5.1,2.0,7.0,True
+1028,Weather,Utilities,48.27,2.0,6.0,False
+1083,Weather,Utilities,10.87,2.0,7.0,False
+1033,Slack,Productivity,23.73,2.0,10.0,True
+1014,Microsoft Teams,Productivity,2.79,2.0,6.0,True
+1049,Instagram,Social,7.42,0.0,4.0,False
+1083,Spotify,Entertainment,45.19,1.0,5.0,False
+1073,Facebook,Social,51.83,2.0,5.0,False
+1031,Instagram,Social,0.34,2.0,7.0,False
+1058,Camera,Utilities,62.32,4.0,7.0,False
+1050,Gmail,Utilities,26.22,1.0,8.0,False
+1023,Netflix,Entertainment,2.3,1.0,11.0,False
+1075,Facebook,Social,4.23,2.0,4.0,False
+1031,Twitch,Entertainment,36.17,3.0,7.0,False
+1003,Instagram,Social,25.3,2.0,7.0,False
+1032,Microsoft Teams,Productivity,19.14,1.0,5.0,True
+1013,Google Docs,Productivity,21.77,1.0,1.0,True
+1082,Notion,Productivity,30.8,5.0,5.0,True
+1067,Netflix,Entertainment,12.88,3.0,4.0,False
+1086,Camera,Utilities,3.06,4.0,8.0,False
+1053,Instagram,Social,74.35,1.0,2.0,False
+1041,Weather,Utilities,1.04,2.0,2.0,False
+1093,Microsoft Teams,Productivity,12.68,1.0,1.0,True
+1099,Google Docs,Productivity,42.55,3.0,5.0,True
+1033,Facebook,Social,36.11,2.0,3.0,False
+1089,YouTube,Entertainment,43.21,2.0,4.0,False
+1064,Twitter,Social,15.6,4.0,3.0,False
+1096,Chrome,Utilities,14.67,2.0,6.0,False
+1048,Evernote,Productivity,37.08,3.0,5.0,True
+1075,Twitter,Social,14.61,2.0,4.0,False
+1017,Weather,Utilities,73.35,2.0,3.0,False
+1071,Twitter,Social,4.87,3.0,5.0,False
+1085,Chrome,Utilities,48.78,4.0,5.0,False
+1016,Notion,Productivity,182.79,0.0,6.0,True
+1037,TikTok,Entertainment,28.14,2.0,2.0,False
+1056,Facebook,Social,12.55,3.0,2.0,False
+1023,Evernote,Productivity,59.19,1.0,6.0,True
+1075,Google Docs,Productivity,56.95,2.0,1.0,True
+1064,Microsoft Teams,Productivity,15.12,1.0,5.0,True
+1048,Netflix,Entertainment,52.76,1.0,4.0,False
+1053,Evernote,Productivity,0.7,2.0,3.0,True
+1006,Microsoft Teams,Productivity,22.4,0.0,3.0,True
+1011,Netflix,Entertainment,47.85,3.0,3.0,False
+1039,TikTok,Entertainment,48.36,0.0,4.0,False
+1009,Slack,Productivity,2.5,0.0,6.0,True
+1064,Google Maps,Utilities,101.2,0.0,5.0,False
+1044,Google Maps,Utilities,76.96,2.0,5.0,False
+1084,Notion,Productivity,0.19,1.0,2.0,True
+1076,Facebook,Social,59.22,2.0,6.0,False
+1081,Twitch,Entertainment,10.32,4.0,7.0,False
+1007,Spotify,Entertainment,140.73,1.0,3.0,False
+1021,Twitter,Social,9.0,2.0,2.0,False
+1008,Evernote,Productivity,20.47,3.0,6.0,True
+1043,Netflix,Entertainment,0.42,0.0,6.0,False
+1012,Slack,Productivity,1.45,5.0,6.0,True
+1021,Camera,Utilities,112.81,1.0,3.0,False
+1046,Microsoft Teams,Productivity,32.26,4.0,5.0,True
+1066,Google Docs,Productivity,10.72,0.0,7.0,True
+1019,Microsoft Teams,Productivity,13.06,3.0,3.0,True
+1067,TikTok,Entertainment,9.7,2.0,5.0,False
+1097,Instagram,Social,35.8,0.0,9.0,False
+1010,Spotify,Entertainment,4.0,4.0,5.0,False
+1003,Twitch,Entertainment,1.04,1.0,7.0,False
+1085,Netflix,Entertainment,39.64,3.0,9.0,False
+1094,Spotify,Entertainment,73.26,1.0,3.0,False
+1085,Slack,Productivity,30.72,5.0,4.0,True
+1060,TikTok,Entertainment,10.47,2.0,9.0,False
+1098,Slack,Productivity,47.17,0.0,5.0,True
+1014,Twitch,Entertainment,54.6,4.0,1.0,False
+1035,Twitter,Social,0.89,2.0,5.0,False
+1081,TikTok,Entertainment,2.9,2.0,6.0,False
+1019,Microsoft Teams,Productivity,3.7,1.0,11.0,True
+1057,Evernote,Productivity,89.75,2.0,3.0,True
+1093,TikTok,Entertainment,27.01,2.0,5.0,False
+1004,Instagram,Social,25.05,3.0,3.0,False
+1073,Facebook,Social,0.51,4.0,8.0,False
+1018,Slack,Productivity,15.16,4.0,2.0,True
+1006,YouTube,Entertainment,3.7,1.0,6.0,False
+1085,Notion,Productivity,48.61,4.0,4.0,True
+1010,Spotify,Entertainment,5.39,2.0,7.0,False
+1009,Twitter,Social,2.22,1.0,5.0,False
+1092,Twitch,Entertainment,36.22,0.0,6.0,False
+1060,Netflix,Entertainment,22.42,1.0,3.0,False
+1080,Facebook,Social,25.13,1.0,2.0,False
+1089,Chrome,Utilities,12.48,2.0,3.0,False
+1024,Notion,Productivity,42.51,2.0,11.0,True
+1095,Facebook,Social,3.55,2.0,7.0,False
+1066,WhatsApp,Social,29.910392617449666,0.0,4.0,False
+1049,Twitch,Entertainment,101.72,2.0,6.0,False
+1057,Microsoft Teams,Productivity,2.67,2.0,4.0,True
+1056,Slack,Productivity,44.78,3.0,6.0,True
+1026,Microsoft Teams,Productivity,45.91,2.0,7.0,True
+1001,Google Maps,Utilities,11.76,2.0,5.0,False
+1009,Gmail,Utilities,14.44,3.0,5.0,False
+1011,Notion,Productivity,41.26,1.0,6.0,True
+1010,Spotify,Entertainment,120.05,0.0,2.0,False
+1027,Evernote,Productivity,17.19,4.0,6.0,True
+1073,Netflix,Entertainment,29.910392617449666,1.0,5.0,False
+1028,TikTok,Entertainment,11.11,0.0,2.0,False
+1006,Chrome,Utilities,99.29,1.0,5.0,False
+1009,Weather,Utilities,7.76,2.0,7.0,False
+1065,Microsoft Teams,Productivity,66.69,0.0,8.0,True
+1051,Spotify,Entertainment,49.38,2.0,9.0,False
+1010,Camera,Utilities,54.83,5.0,5.0,False
+1057,Camera,Utilities,11.89,0.0,7.0,False
+1088,Notion,Productivity,11.92,0.0,3.0,True
+1097,Gmail,Utilities,21.79,5.0,2.0,False
+1008,Netflix,Entertainment,12.22,0.0,8.0,False
+1058,Microsoft Teams,Productivity,2.03,2.0,3.0,True
+1087,Chrome,Utilities,31.41,0.0,6.0,False
+1068,Camera,Utilities,18.34,0.0,4.0,False
+1074,Facebook,Social,63.95,2.0,8.0,False
+1049,Google Docs,Productivity,16.88,1.0,6.0,True
+1078,Twitter,Social,6.52,2.0,4.0,False
+1089,Chrome,Utilities,0.76,0.0,3.0,False
+1047,TikTok,Entertainment,9.53,0.0,5.0,False
+1028,Google Docs,Productivity,14.84,3.0,8.0,True
+1091,Spotify,Entertainment,13.88,3.0,4.0,False
+1072,Notion,Productivity,6.32,2.0,8.0,True
+1011,Notion,Productivity,82.23,3.0,13.0,True
+1049,Twitter,Social,13.78,0.0,7.0,False
+1046,Instagram,Social,9.58,2.0,3.0,False
+1080,Camera,Utilities,0.3,1.0,5.0,False
+1024,YouTube,Entertainment,46.06,1.0,4.0,False
+1031,Microsoft Teams,Productivity,35.05,1.0,10.0,True
+1082,Netflix,Entertainment,29.18,2.0,6.0,False
+1085,TikTok,Entertainment,7.15,2.0,11.0,False
+1001,Instagram,Social,15.29,2.0,5.0,False
+1024,Evernote,Productivity,17.74,2.0,4.0,True
+1059,Google Docs,Productivity,50.79,1.0,5.0,True
+1018,Google Docs,Productivity,14.16,1.0,3.0,True
+1045,Notion,Productivity,14.06,3.0,9.0,True
+1032,TikTok,Entertainment,0.22,3.0,7.0,False
+1028,Slack,Productivity,35.14,1.0,2.0,True
+1039,Notion,Productivity,2.51,1.0,4.0,True
+1100,Spotify,Entertainment,52.3,1.0,3.0,False
+1002,Camera,Utilities,2.56,1.0,7.0,False
+1018,Chrome,Utilities,25.53,0.0,6.0,False
+1025,Slack,Productivity,9.13,0.0,5.0,True
+1096,TikTok,Entertainment,85.98,4.0,5.0,False
+1028,Microsoft Teams,Productivity,4.65,3.0,3.0,True
+1060,Weather,Utilities,4.9,0.0,4.0,False
+1074,Twitter,Social,22.84,2.0,7.0,False
+1077,Chrome,Utilities,33.39,3.0,6.0,False
+1024,Google Maps,Utilities,14.93,6.0,2.0,False
+1032,Netflix,Entertainment,10.06,0.0,9.0,False
+1020,Spotify,Entertainment,63.53,2.0,5.0,False
+1031,Camera,Utilities,12.96,0.0,5.0,False
+1063,Snapchat,Social,9.38,4.0,8.0,False
+1044,Snapchat,Social,20.02,4.0,6.0,False
+1026,Weather,Utilities,34.22,3.0,12.0,False
+1011,Twitch,Entertainment,104.42,6.0,5.0,False
+1002,Weather,Utilities,24.67,3.0,5.0,False
+1014,Twitch,Entertainment,24.98,0.0,3.0,False
+1076,Camera,Utilities,9.66,2.0,11.0,False
+1007,Chrome,Utilities,23.16,3.0,5.0,False
+1085,Spotify,Entertainment,0.79,0.0,6.0,False
+1065,Netflix,Entertainment,12.39,3.0,5.0,False
+1086,Google Docs,Productivity,13.09,2.0,11.0,True
+1048,Twitch,Entertainment,2.01,1.0,2.0,False
+1014,Facebook,Social,9.73,1.0,3.0,False
+1061,Weather,Utilities,2.56,1.0,5.0,False
+1093,Google Maps,Utilities,5.06,2.0,5.0,False
+1004,Spotify,Entertainment,118.76,2.0,7.0,False
+1001,YouTube,Entertainment,57.34,4.0,4.0,False
+1011,Slack,Productivity,5.86,2.0,3.0,True
+1045,YouTube,Entertainment,21.19,1.0,9.0,False
+1037,Microsoft Teams,Productivity,13.85,2.0,7.0,True
+1091,YouTube,Entertainment,71.42,1.0,8.0,False
+1070,Slack,Productivity,17.89,2.0,5.0,True
+1002,Snapchat,Social,84.97,3.0,2.0,False
+1072,Gmail,Utilities,28.53,1.0,6.0,False
+1057,Facebook,Social,8.75,0.0,2.0,False
+1082,Notion,Productivity,5.53,2.0,6.0,True
+1066,Microsoft Teams,Productivity,34.26,2.0,3.0,True
+1094,Twitter,Social,8.3,2.0,6.0,False
+1010,Google Maps,Utilities,78.92,1.0,1.0,False
+1086,Instagram,Social,1.53,1.0,4.0,False
+1010,Facebook,Social,12.24,1.0,4.0,False
+1043,WhatsApp,Social,5.51,1.0,2.0,False
+1002,YouTube,Entertainment,61.73,0.0,5.0,False
+1092,Snapchat,Social,32.63,3.0,5.0,False
+1007,Gmail,Utilities,2.47,3.0,9.0,False
+1067,Notion,Productivity,6.72,0.0,5.0,True
+1068,Slack,Productivity,14.65,3.0,6.0,True
+1038,Twitch,Entertainment,15.89,0.0,1.0,False
+1006,Snapchat,Social,15.53,3.0,9.0,False
+1054,Camera,Utilities,4.59,1.0,4.0,False
+1028,Twitter,Social,0.8,4.0,0.0,False
+1088,Twitch,Entertainment,32.12,2.0,6.0,False
+1051,Spotify,Entertainment,14.98,2.0,6.0,False
+1017,Spotify,Entertainment,72.64,4.0,9.0,False
+1010,Google Maps,Utilities,1.49,2.0,5.0,False
+1036,Facebook,Social,21.37,2.0,3.0,False
+1095,Chrome,Utilities,7.55,3.0,5.0,False
+1026,Chrome,Utilities,77.6,2.0,7.0,False
+1094,Google Docs,Productivity,27.54,0.0,2.0,True
+1053,Camera,Utilities,8.04,1.0,7.0,False
+1048,Netflix,Entertainment,56.46,2.0,2.0,False
+1081,Twitter,Social,0.63,3.0,4.0,False
+1026,Slack,Productivity,4.08,4.0,6.0,True
+1029,Twitter,Social,4.12,0.0,4.0,False
+1010,Slack,Productivity,2.4,1.0,2.0,True
+1076,Camera,Utilities,32.05,3.0,8.0,False
+1039,Facebook,Social,9.41,4.0,3.0,False
+1072,YouTube,Entertainment,15.63,3.0,5.0,False
+1006,Twitch,Entertainment,71.35,3.0,8.0,False
+1099,Netflix,Entertainment,16.06,1.0,9.0,False
+1091,Evernote,Productivity,9.45,3.0,5.0,True
+1068,WhatsApp,Social,25.08,1.0,9.0,False
+1016,Evernote,Productivity,1.6,1.0,3.0,True
+1083,Evernote,Productivity,2.84,4.0,9.0,True
+1013,TikTok,Entertainment,9.39,0.0,6.0,False
+1008,Twitter,Social,32.58,0.0,6.0,False
+1016,Notion,Productivity,19.15,1.0,5.0,True
+1075,Google Docs,Productivity,21.86,1.0,5.0,True
+1007,Snapchat,Social,6.84,0.0,1.0,False
+1022,Slack,Productivity,5.34,3.0,3.0,True
+1098,Netflix,Entertainment,1.78,3.0,7.0,False
+1074,Twitter,Social,9.02,0.0,8.0,False
+1056,Weather,Utilities,18.7,1.0,3.0,False
+1062,Google Maps,Utilities,45.98,2.0,5.0,False
+1095,Gmail,Utilities,79.44,2.0,6.0,False
+1091,WhatsApp,Social,3.96,2.0,8.0,False
+1077,Spotify,Entertainment,44.12,1.0,8.0,False
+1066,Microsoft Teams,Productivity,116.23,0.0,3.0,True
+1054,Weather,Utilities,54.05,1.0,5.0,False
+1091,Google Maps,Utilities,48.27,1.0,6.0,False
+1062,Slack,Productivity,38.61,2.0,1.0,True
+1046,Snapchat,Social,0.16,3.0,6.0,False
+1082,Instagram,Social,26.2,3.0,5.0,False
+1096,WhatsApp,Social,13.1,1.0,3.0,False
+1069,Microsoft Teams,Productivity,29.910392617449666,2.0,9.0,True
+1087,Microsoft Teams,Productivity,69.48,5.0,5.0,True
+1079,Chrome,Utilities,33.35,3.0,3.0,False
+1062,Notion,Productivity,3.61,1.0,5.0,True
+1057,Twitch,Entertainment,13.98,4.0,9.0,False
+1031,Instagram,Social,28.7,1.0,5.0,False
+1041,Twitter,Social,58.04,1.0,6.0,False
+1063,Instagram,Social,12.66,2.0,4.0,False
+1007,Gmail,Utilities,35.15,4.0,9.0,False
+1045,Gmail,Utilities,13.71,4.0,9.0,False
+1091,Facebook,Social,29.910392617449666,3.0,4.0,False
+1077,Gmail,Utilities,8.81,2.0,5.0,False
+1089,Notion,Productivity,45.95,2.0,6.0,True
+1079,Camera,Utilities,39.37,1.0,3.0,False
+1071,Camera,Utilities,35.89,0.0,4.0,False
+1031,Facebook,Social,132.83,6.0,6.0,False
+1029,Netflix,Entertainment,49.11,3.0,6.0,False
+1048,WhatsApp,Social,44.62,1.0,2.0,False
+1090,Facebook,Social,81.63,2.0,5.0,False
+1082,Spotify,Entertainment,38.51,2.0,6.0,False
+1100,Facebook,Social,102.79,2.0,3.0,False
+1001,WhatsApp,Social,95.13,2.0,9.0,False
+1033,YouTube,Entertainment,107.74,1.0,6.0,False
+1017,Google Docs,Productivity,19.37,2.0,4.0,True
+1096,Gmail,Utilities,3.6,3.0,9.0,False
+1067,Notion,Productivity,16.9,0.0,8.0,True
+1080,Spotify,Entertainment,2.2,3.0,5.0,False
+1029,Microsoft Teams,Productivity,16.53,2.0,8.0,True
+1005,Chrome,Utilities,12.6,2.0,2.0,False
+1031,Weather,Utilities,81.48,4.0,4.0,False
+1003,Spotify,Entertainment,127.93,6.0,4.0,False
+1085,Spotify,Entertainment,8.81,3.0,2.0,False
+1054,WhatsApp,Social,24.83,3.0,8.0,False
+1089,Google Docs,Productivity,90.26,1.0,4.0,True
+1013,Chrome,Utilities,16.92,4.0,5.0,False
+1032,Twitter,Social,44.91,0.0,4.0,False
+1086,Slack,Productivity,17.02,2.0,6.0,True
+1052,WhatsApp,Social,14.69,1.0,4.0,False
+1022,TikTok,Entertainment,14.98,3.0,2.0,False
+1055,Twitch,Entertainment,41.13,1.0,5.0,False
+1042,Spotify,Entertainment,44.45,4.0,6.0,False
+1019,Netflix,Entertainment,33.31,3.0,8.0,False
+1052,Evernote,Productivity,16.64,1.0,7.0,True
+1007,YouTube,Entertainment,18.05,2.0,1.0,False
+1062,Instagram,Social,29.910392617449666,2.0,4.0,False
+1068,Chrome,Utilities,27.03,2.0,3.0,False
+1062,Gmail,Utilities,24.28,1.0,7.0,False
+1003,Camera,Utilities,75.26,0.0,4.0,False
+1048,Facebook,Social,4.38,2.0,5.0,False
+1008,Gmail,Utilities,1.2,1.0,8.0,False
+1092,Instagram,Social,9.48,5.0,5.0,False
+1008,Camera,Utilities,22.56,1.0,7.0,False
+1026,Notion,Productivity,64.99,2.0,3.0,True
+1016,Instagram,Social,31.64,2.0,3.0,False
+1058,Instagram,Social,37.31,1.0,4.0,False
+1001,Facebook,Social,53.19,2.0,9.0,False
+1069,Twitter,Social,15.06,2.0,5.0,False
+1081,Google Docs,Productivity,10.95,2.0,6.0,True
+1036,Netflix,Entertainment,1.25,2.0,5.0,False
+1080,Twitter,Social,12.01,5.0,2.0,False
+1011,Google Maps,Utilities,0.68,2.0,5.0,False
+1030,Evernote,Productivity,21.7,1.0,5.0,True
+1066,WhatsApp,Social,7.59,3.0,3.0,False
+1036,Evernote,Productivity,14.68,1.0,4.0,True
+1094,Gmail,Utilities,75.79,4.0,2.0,False
+1055,Snapchat,Social,29.910392617449666,3.0,7.0,False
+1006,Google Maps,Utilities,4.58,4.0,4.0,False
+1020,Weather,Utilities,18.45,0.0,5.0,False
+1005,WhatsApp,Social,29.04,3.0,5.0,False
+1078,Instagram,Social,0.51,2.0,4.0,False
+1088,Microsoft Teams,Productivity,52.57,4.0,5.0,True
+1002,Weather,Utilities,3.69,2.0,2.0,False
+1036,Chrome,Utilities,6.64,2.0,2.0,False
+1059,Evernote,Productivity,31.96,1.0,2.0,True
+1019,Evernote,Productivity,8.31,2.0,5.0,True
+1043,Twitch,Entertainment,25.22,4.0,5.0,False
+1096,Notion,Productivity,35.16,0.0,6.0,True
+1054,Camera,Utilities,103.68,2.0,3.0,False
+1066,Camera,Utilities,0.91,3.0,8.0,False
+1079,Weather,Utilities,7.62,0.0,5.0,False
+1029,Google Docs,Productivity,42.85,0.0,2.0,True
+1028,Microsoft Teams,Productivity,2.22,2.0,0.0,True
+1073,Gmail,Utilities,1.58,1.0,7.0,False
+1063,Notion,Productivity,24.73,1.0,7.0,True
+1099,Netflix,Entertainment,2.4,0.0,5.0,False
+1090,Instagram,Social,12.4,3.0,4.0,False
+1018,Google Maps,Utilities,84.67,3.0,7.0,False
+1078,Twitch,Entertainment,17.57,2.0,7.0,False
+1028,Camera,Utilities,2.74,0.0,0.0,False
+1024,Evernote,Productivity,50.0,1.0,3.0,True
+1050,Gmail,Utilities,13.76,2.0,3.0,False
+1075,Gmail,Utilities,33.17,2.0,7.0,False
+1074,Netflix,Entertainment,8.7,4.0,2.0,False
+1088,Slack,Productivity,32.38,1.0,7.0,True
+1099,Google Docs,Productivity,51.71,2.0,8.0,True
+1066,YouTube,Entertainment,0.71,1.0,0.0,False
+1034,Google Maps,Utilities,41.64,2.0,3.0,False
+1021,Weather,Utilities,120.06,3.0,2.0,False
+1004,Twitch,Entertainment,13.68,2.0,10.0,False
+1036,Twitter,Social,141.65,2.0,10.0,False
+1016,Microsoft Teams,Productivity,51.13,3.0,4.0,True
+1078,Camera,Utilities,3.92,0.0,0.0,False
+1016,Google Docs,Productivity,48.46,2.0,6.0,True
+1025,Weather,Utilities,24.71,1.0,4.0,False
+1056,Chrome,Utilities,22.31,1.0,4.0,False
+1045,TikTok,Entertainment,2.23,2.0,7.0,False
+1035,Weather,Utilities,39.8,1.0,6.0,False
+1086,Gmail,Utilities,35.19,3.0,6.0,False
+1085,Gmail,Utilities,0.98,2.0,8.0,False
+1022,Chrome,Utilities,71.41,4.0,4.0,False
+1030,Facebook,Social,16.68,0.0,4.0,False
+1067,Facebook,Social,8.62,2.0,8.0,False
+1004,Twitch,Entertainment,35.85,0.0,8.0,False
+1080,WhatsApp,Social,9.42,2.0,2.0,False
+1008,Microsoft Teams,Productivity,6.5,2.0,1.0,True
+1060,Netflix,Entertainment,58.67,3.0,5.0,False
+1063,Gmail,Utilities,44.16,1.0,6.0,False
+1057,Weather,Utilities,0.73,5.0,5.0,False
+1087,Microsoft Teams,Productivity,52.31,4.0,4.0,True
+1088,TikTok,Entertainment,30.71,1.0,3.0,False
+1032,Facebook,Social,37.33,3.0,6.0,False
+1082,Chrome,Utilities,32.87,0.0,8.0,False
+1020,YouTube,Entertainment,47.32,2.0,6.0,False
+1080,Camera,Utilities,15.78,3.0,2.0,False
+1077,Snapchat,Social,3.39,3.0,4.0,False
+1059,Weather,Utilities,126.65,3.0,2.0,False
+1009,Notion,Productivity,48.7,4.0,5.0,True
+1040,Twitch,Entertainment,22.94,3.0,7.0,False
+1088,Weather,Utilities,2.28,1.0,5.0,False
+1013,Snapchat,Social,4.16,3.0,6.0,False
+1091,Google Maps,Utilities,24.08,0.0,4.0,False
+1029,Google Docs,Productivity,8.79,0.0,3.0,True
+1041,Evernote,Productivity,21.86,0.0,1.0,True
+1035,Weather,Utilities,10.0,2.0,5.0,False
+1033,Twitter,Social,76.3,0.0,6.0,False
+1028,Gmail,Utilities,52.89,4.0,6.0,False
+1018,Spotify,Entertainment,36.48,2.0,5.0,False
+1070,Weather,Utilities,6.51,4.0,7.0,False
+1073,Chrome,Utilities,8.69,2.0,5.0,False
+1056,Twitter,Social,8.83,2.0,3.0,False
+1072,Snapchat,Social,42.42,2.0,6.0,False
+1100,Gmail,Utilities,20.41,2.0,7.0,False
+1005,YouTube,Entertainment,8.42,2.0,3.0,False
+1081,Facebook,Social,4.43,2.0,5.0,False
+1009,Gmail,Utilities,36.85,2.0,4.0,False
+1027,Chrome,Utilities,27.04,3.0,2.0,False
+1064,YouTube,Entertainment,56.25,2.0,5.0,False
+1008,Notion,Productivity,4.84,2.0,2.0,True
+1044,Notion,Productivity,31.63,3.0,6.0,True
+1024,WhatsApp,Social,11.22,1.0,5.0,False
+1086,Instagram,Social,11.79,5.0,6.0,False
+1056,Microsoft Teams,Productivity,10.8,1.0,7.0,True
+1086,WhatsApp,Social,39.61,1.0,5.0,False
+1044,Spotify,Entertainment,107.48,2.0,6.0,False
+1092,Chrome,Utilities,16.91,3.0,3.0,False
+1088,Microsoft Teams,Productivity,8.58,2.0,3.0,True
+1063,Google Maps,Utilities,4.77,0.0,3.0,False
+1001,Evernote,Productivity,49.31,2.0,4.0,True
+1012,Facebook,Social,23.04,2.0,4.0,False
+1027,Instagram,Social,41.13,0.0,4.0,False
+1000,Twitch,Entertainment,71.18,1.0,2.0,False
+1011,Chrome,Utilities,24.55,2.0,2.0,False
+1049,Microsoft Teams,Productivity,16.11,4.0,8.0,True
+1018,Chrome,Utilities,65.18,0.0,2.0,False
+1017,Google Docs,Productivity,2.15,0.0,5.0,True
+1084,YouTube,Entertainment,13.12,1.0,7.0,False
+1095,Evernote,Productivity,5.02,0.0,3.0,True
+1069,Chrome,Utilities,25.63,1.0,7.0,False
+1049,Google Docs,Productivity,30.4,2.0,2.0,True
+1041,YouTube,Entertainment,29.97,3.0,3.0,False
+1001,Google Maps,Utilities,34.49,3.0,6.0,False
+1082,Evernote,Productivity,13.16,1.0,4.0,True
+1080,Weather,Utilities,43.0,5.0,2.0,False
+1057,Spotify,Entertainment,105.05,4.0,4.0,False
+1044,Camera,Utilities,35.81,3.0,9.0,False
+1034,YouTube,Entertainment,31.07,1.0,4.0,False
+1091,YouTube,Entertainment,52.98,2.0,6.0,False
+1000,Notion,Productivity,1.07,1.0,1.0,True
+1008,Gmail,Utilities,11.62,2.0,4.0,False
+1099,Twitter,Social,30.08,0.0,7.0,False
+1091,Evernote,Productivity,20.85,3.0,9.0,True
+1049,Microsoft Teams,Productivity,5.86,1.0,6.0,True
+1074,Camera,Utilities,25.41,1.0,5.0,False
+1042,Notion,Productivity,94.33,2.0,9.0,True
+1075,Evernote,Productivity,16.99,3.0,5.0,True
+1064,Microsoft Teams,Productivity,10.89,2.0,2.0,True
+1046,Instagram,Social,152.18,1.0,5.0,False
+1047,Gmail,Utilities,24.24,5.0,4.0,False
+1006,Gmail,Utilities,10.73,1.0,10.0,False
+1046,Microsoft Teams,Productivity,9.5,2.0,10.0,True
+1037,Chrome,Utilities,5.7,2.0,5.0,False
+1058,Microsoft Teams,Productivity,122.04,2.0,4.0,True
+1045,WhatsApp,Social,72.59,0.0,8.0,False
+1086,Microsoft Teams,Productivity,3.22,2.0,8.0,True
+1033,Google Maps,Utilities,43.06,2.0,2.0,False
+1052,Netflix,Entertainment,10.69,3.0,4.0,False
+1010,Notion,Productivity,28.02,4.0,5.0,True
+1005,Microsoft Teams,Productivity,56.41,2.0,1.0,True
+1020,Notion,Productivity,9.2,0.0,4.0,True
+1027,TikTok,Entertainment,10.62,3.0,8.0,False
+1099,Instagram,Social,18.05,5.0,5.0,False
+1055,Spotify,Entertainment,0.41,0.0,6.0,False
+1088,Netflix,Entertainment,169.8,2.0,5.0,False
+1097,WhatsApp,Social,65.7,2.0,10.0,False
+1074,Microsoft Teams,Productivity,3.94,1.0,1.0,True
+1096,Camera,Utilities,15.8,5.0,3.0,False
+1081,Netflix,Entertainment,11.14,0.0,4.0,False
+1097,Microsoft Teams,Productivity,70.86,2.0,5.0,True
+1076,Microsoft Teams,Productivity,5.09,1.0,4.0,True
+1059,Twitch,Entertainment,16.54,1.0,5.0,False
+1093,Evernote,Productivity,43.43,3.0,6.0,True
+1076,WhatsApp,Social,61.69,5.0,6.0,False
+1026,Google Maps,Utilities,0.93,3.0,5.0,False
+1063,Spotify,Entertainment,100.05,4.0,2.0,False
+1033,Twitter,Social,21.11,4.0,6.0,False
+1094,Spotify,Entertainment,37.3,3.0,5.0,False
+1050,Instagram,Social,10.85,2.0,4.0,False
+1018,Google Docs,Productivity,1.65,2.0,5.0,True
+1095,Slack,Productivity,197.71,2.0,3.0,True
+1023,Microsoft Teams,Productivity,35.09,3.0,6.0,True
+1046,Netflix,Entertainment,36.4,1.0,5.0,False
+1017,Evernote,Productivity,15.8,0.0,6.0,True
+1082,YouTube,Entertainment,94.55,3.0,6.0,False
+1030,Camera,Utilities,33.93,0.0,10.0,False
+1097,Evernote,Productivity,17.57,1.0,8.0,True
+1047,Evernote,Productivity,28.15,0.0,7.0,True
+1011,Netflix,Entertainment,28.13,1.0,2.0,False
+1072,Notion,Productivity,3.9,1.0,4.0,True
+1073,Microsoft Teams,Productivity,48.88,1.0,6.0,True
+1008,Google Docs,Productivity,5.91,2.0,6.0,True
+1013,Twitch,Entertainment,21.65,4.0,6.0,False
+1086,Snapchat,Social,36.17,3.0,2.0,False
+1038,Google Docs,Productivity,33.14,1.0,3.0,True
+1090,Google Docs,Productivity,95.2,2.0,5.0,True
+1075,Gmail,Utilities,59.43,5.0,6.0,False
+1001,Netflix,Entertainment,14.29,1.0,2.0,False
+1084,WhatsApp,Social,31.32,2.0,4.0,False
+1043,Spotify,Entertainment,2.22,4.0,7.0,False
+1091,Slack,Productivity,24.66,3.0,1.0,True
+1054,Evernote,Productivity,8.56,4.0,4.0,True
+1023,Twitter,Social,7.67,1.0,6.0,False
+1026,Slack,Productivity,3.52,1.0,7.0,True
+1098,Spotify,Entertainment,5.27,0.0,3.0,False
+1003,Netflix,Entertainment,11.24,2.0,3.0,False
+1066,Camera,Utilities,21.81,4.0,3.0,False
+1082,Instagram,Social,7.73,1.0,4.0,False
+1000,Microsoft Teams,Productivity,33.53,2.0,7.0,True
+1064,Twitter,Social,16.56,1.0,2.0,False
+1078,Google Maps,Utilities,18.29,1.0,8.0,False
+1009,Evernote,Productivity,13.54,0.0,6.0,True
+1042,Snapchat,Social,52.1,0.0,6.0,False
+1068,Spotify,Entertainment,17.16,0.0,6.0,False
+1053,Google Docs,Productivity,4.47,1.0,3.0,True
+1022,TikTok,Entertainment,34.74,0.0,10.0,False
+1016,Netflix,Entertainment,18.16,2.0,5.0,False
+1089,TikTok,Entertainment,7.67,4.0,7.0,False
+1032,Snapchat,Social,21.91,2.0,2.0,False
+1089,Google Maps,Utilities,8.44,6.0,3.0,False
+1076,WhatsApp,Social,27.92,1.0,6.0,False
+1040,WhatsApp,Social,15.96,2.0,6.0,False
+1045,Twitter,Social,19.35,2.0,2.0,False
+1079,Snapchat,Social,0.42,0.0,8.0,False
+1075,Instagram,Social,29.85,3.0,4.0,False
+1024,TikTok,Entertainment,97.36,4.0,9.0,False
+1097,WhatsApp,Social,47.09,3.0,4.0,False
+1002,Evernote,Productivity,14.51,0.0,3.0,True
+1037,Facebook,Social,36.23,4.0,2.0,False
+1019,Instagram,Social,1.85,1.0,9.0,False
+1013,Gmail,Utilities,4.81,0.0,3.0,False
+1047,Spotify,Entertainment,25.93,2.0,6.0,False
+1039,Twitch,Entertainment,7.41,0.0,8.0,False
+1056,Slack,Productivity,4.6,3.0,8.0,True
+1072,Camera,Utilities,17.38,1.0,6.0,False
+1058,Gmail,Utilities,16.75,4.0,4.0,False
+1089,Chrome,Utilities,17.34,2.0,8.0,False
+1059,Microsoft Teams,Productivity,9.47,3.0,2.0,True
+1070,Evernote,Productivity,10.65,0.0,2.0,True
+1067,Chrome,Utilities,76.56,3.0,5.0,False
+1000,Camera,Utilities,19.35,3.0,6.0,False
+1007,Evernote,Productivity,38.63,2.0,2.0,True
+1084,Google Docs,Productivity,19.65,2.0,5.0,True
+1014,WhatsApp,Social,20.92,2.0,7.0,False
+1079,Notion,Productivity,26.49,1.0,4.0,True
+1053,Chrome,Utilities,46.03,3.0,3.0,False
+1055,Snapchat,Social,10.79,1.0,7.0,False
+1076,Spotify,Entertainment,33.82,3.0,1.0,False
+1075,WhatsApp,Social,81.04,3.0,7.0,False
+1097,Camera,Utilities,9.44,2.0,5.0,False
+1042,Google Maps,Utilities,0.76,1.0,5.0,False
+1025,Twitch,Entertainment,37.23,0.0,8.0,False
+1040,YouTube,Entertainment,14.63,0.0,5.0,False
+1048,Twitch,Entertainment,5.88,3.0,4.0,False
+1084,Slack,Productivity,23.58,4.0,7.0,True
+1081,Chrome,Utilities,61.04,2.0,4.0,False
+1069,Chrome,Utilities,27.87,1.0,6.0,False
+1089,Spotify,Entertainment,15.56,1.0,5.0,False
+1046,Evernote,Productivity,32.23,3.0,4.0,True
+1073,Google Maps,Utilities,71.93,3.0,3.0,False
+1079,Spotify,Entertainment,90.01,1.0,5.0,False
+1086,YouTube,Entertainment,22.27,0.0,3.0,False
+1076,Evernote,Productivity,72.31,0.0,8.0,True
+1061,Evernote,Productivity,19.54,0.0,5.0,True
+1073,Google Maps,Utilities,36.03,0.0,4.0,False
+1093,Gmail,Utilities,23.44,1.0,9.0,False
+1099,Evernote,Productivity,59.15,3.0,5.0,True
+1044,Instagram,Social,30.24,1.0,1.0,False
+1049,Instagram,Social,6.35,1.0,6.0,False
+1060,Netflix,Entertainment,34.05,1.0,2.0,False
+1000,Google Docs,Productivity,4.19,1.0,7.0,True
+1010,Notion,Productivity,69.13,4.0,5.0,True
+1038,Slack,Productivity,63.85,1.0,6.0,True
+1070,Slack,Productivity,7.0,3.0,2.0,True
+1075,Chrome,Utilities,4.89,0.0,4.0,False
+1049,Snapchat,Social,35.53,2.0,8.0,False
+1094,Evernote,Productivity,0.42,1.0,5.0,True
+1047,Instagram,Social,12.89,2.0,7.0,False
+1003,Twitch,Entertainment,22.95,1.0,8.0,False
+1028,Facebook,Social,70.61,1.0,4.0,False
+1055,TikTok,Entertainment,8.72,4.0,7.0,False
+1004,Chrome,Utilities,16.84,5.0,4.0,False
+1034,Netflix,Entertainment,21.1,6.0,8.0,False
+1007,Microsoft Teams,Productivity,0.4,3.0,1.0,True
+1035,YouTube,Entertainment,46.51,6.0,3.0,False
+1010,Twitter,Social,70.58,2.0,6.0,False
+1041,Google Docs,Productivity,3.9,1.0,6.0,True
+1043,Twitch,Entertainment,3.28,0.0,3.0,False
+1002,Camera,Utilities,5.6,2.0,2.0,False
+1026,Netflix,Entertainment,2.82,3.0,7.0,False
+1016,Google Docs,Productivity,19.93,1.0,2.0,True
+1096,Weather,Utilities,30.15,6.0,6.0,False
+1068,Google Docs,Productivity,46.55,1.0,5.0,True
+1079,Spotify,Entertainment,1.33,1.0,9.0,False
+1014,Google Docs,Productivity,8.23,1.0,8.0,True
+1066,YouTube,Entertainment,10.44,1.0,3.0,False
+1050,Microsoft Teams,Productivity,15.19,5.0,5.0,True
+1093,Chrome,Utilities,88.22,5.0,3.0,False
+1041,Evernote,Productivity,26.39,0.0,4.0,True
+1092,TikTok,Entertainment,41.35,3.0,6.0,False
+1088,Spotify,Entertainment,37.72,1.0,7.0,False
+1074,YouTube,Entertainment,75.48,0.0,6.0,False
+1093,Evernote,Productivity,15.42,1.0,3.0,True
+1034,Instagram,Social,4.35,0.0,3.0,False
+1094,Notion,Productivity,22.89,0.0,6.0,True
+1053,TikTok,Entertainment,2.35,2.0,4.0,False
+1027,Weather,Utilities,9.25,3.0,5.0,False
+1060,Camera,Utilities,127.04,2.0,5.0,False
+1044,Google Maps,Utilities,75.71,1.0,3.0,False
+1070,Slack,Productivity,51.87,3.0,5.0,True
+1059,Chrome,Utilities,10.04,5.0,8.0,False
+1069,Chrome,Utilities,5.94,3.0,4.0,False
+1017,WhatsApp,Social,7.55,0.0,6.0,False
+1071,Gmail,Utilities,3.7,5.0,8.0,False
+1041,Snapchat,Social,14.14,3.0,6.0,False
+1054,Twitter,Social,39.31,0.0,7.0,False
+1013,Slack,Productivity,8.75,3.0,2.0,True
+1000,Gmail,Utilities,163.03,2.0,2.0,False
+1027,TikTok,Entertainment,15.52,1.0,7.0,False
+1055,Netflix,Entertainment,21.32,3.0,8.0,False
+1043,TikTok,Entertainment,22.95,1.0,5.0,False
+1084,Twitch,Entertainment,96.19,3.0,5.0,False
+1046,Twitter,Social,29.43,1.0,6.0,False
+1057,Twitch,Entertainment,6.56,0.0,3.0,False
+1010,Twitter,Social,0.49,1.0,5.0,False
+1099,Chrome,Utilities,20.6,1.0,5.0,False
+1095,Slack,Productivity,20.1,1.0,3.0,True
+1088,Chrome,Utilities,0.37,1.0,12.0,False
+1004,Camera,Utilities,5.22,4.0,7.0,False
+1064,YouTube,Entertainment,6.71,1.0,7.0,False
+1029,WhatsApp,Social,20.49,3.0,3.0,False
+1010,Notion,Productivity,51.47,3.0,6.0,True
+1059,Gmail,Utilities,20.07,0.0,3.0,False
+1084,Facebook,Social,22.43,2.0,10.0,False
+1054,Twitch,Entertainment,19.75,1.0,3.0,False
+1027,Slack,Productivity,4.72,1.0,5.0,True
+1087,Camera,Utilities,55.96,1.0,3.0,False
+1072,YouTube,Entertainment,3.29,4.0,2.0,False
+1055,Netflix,Entertainment,60.09,2.0,4.0,False
+1024,Camera,Utilities,11.14,2.0,8.0,False
+1042,Twitter,Social,26.7,2.0,7.0,False
+1099,Spotify,Entertainment,22.0,2.0,5.0,False
+1100,Slack,Productivity,72.07,5.0,2.0,True
+1089,Spotify,Entertainment,54.33,0.0,6.0,False
+1010,Slack,Productivity,36.56,2.0,5.0,True
+1095,Snapchat,Social,3.0,1.0,4.0,False
+1078,WhatsApp,Social,12.56,6.0,4.0,False
+1024,Google Maps,Utilities,48.16,2.0,8.0,False
+1009,Google Maps,Utilities,31.69,4.0,3.0,False
+1080,Gmail,Utilities,11.8,1.0,6.0,False
+1045,Facebook,Social,12.88,1.0,9.0,False
+1071,Spotify,Entertainment,2.76,4.0,7.0,False
+1017,Twitter,Social,7.9,2.0,3.0,False
+1051,Evernote,Productivity,33.37,1.0,6.0,True
+1032,Instagram,Social,2.12,6.0,3.0,False
+1078,Microsoft Teams,Productivity,32.0,3.0,7.0,True
+1006,Netflix,Entertainment,38.26,3.0,5.0,False
+1027,Notion,Productivity,41.44,3.0,4.0,True
+1062,Google Maps,Utilities,35.1,2.0,6.0,False
+1041,Chrome,Utilities,9.04,5.0,4.0,False
+1091,YouTube,Entertainment,0.61,3.0,10.0,False
+1073,Notion,Productivity,48.78,1.0,2.0,True
+1039,Microsoft Teams,Productivity,3.37,2.0,5.0,True
+1076,YouTube,Entertainment,5.1,2.0,4.0,False
+1043,Gmail,Utilities,23.58,2.0,6.0,False
+1072,Notion,Productivity,215.94,3.0,6.0,True
+1078,Chrome,Utilities,30.26,2.0,9.0,False
+1006,Camera,Utilities,7.31,0.0,3.0,False
+1018,Slack,Productivity,87.32,1.0,7.0,True
+1052,Facebook,Social,22.95,0.0,4.0,False
+1054,Netflix,Entertainment,5.52,1.0,5.0,False
+1038,TikTok,Entertainment,102.93,3.0,2.0,False
+1081,WhatsApp,Social,4.32,3.0,4.0,False
+1053,Twitch,Entertainment,108.23,2.0,5.0,False
+1071,Chrome,Utilities,14.08,4.0,9.0,False
+1013,YouTube,Entertainment,23.69,3.0,8.0,False
+1070,Spotify,Entertainment,31.1,1.0,3.0,False
+1006,Twitter,Social,11.16,1.0,8.0,False
+1047,WhatsApp,Social,20.69,2.0,8.0,False
+1042,Gmail,Utilities,16.48,3.0,3.0,False
+1045,Netflix,Entertainment,8.89,2.0,7.0,False
+1043,Microsoft Teams,Productivity,2.5,0.0,8.0,True
+1015,Gmail,Utilities,0.88,4.0,2.0,False
+1034,Instagram,Social,1.65,1.0,4.0,False
+1017,Twitter,Social,6.19,3.0,3.0,False
+1050,TikTok,Entertainment,2.14,4.0,2.0,False
+1061,Microsoft Teams,Productivity,101.56,1.0,6.0,True
+1021,Snapchat,Social,36.34,4.0,4.0,False
+1034,Chrome,Utilities,6.6,3.0,8.0,False
+1027,Microsoft Teams,Productivity,30.97,0.0,4.0,True
+1060,WhatsApp,Social,5.8,0.0,4.0,False
+1069,Spotify,Entertainment,20.18,4.0,5.0,False
+1026,Gmail,Utilities,1.22,2.0,5.0,False
+1018,Weather,Utilities,11.22,0.0,5.0,False
+1092,Spotify,Entertainment,1.16,1.0,2.0,False
+1062,Camera,Utilities,28.21,3.0,6.0,False
+1020,Chrome,Utilities,49.68,1.0,3.0,False
+1008,Facebook,Social,2.11,1.0,2.0,False
+1068,Camera,Utilities,98.61,1.0,4.0,False
+1022,Google Docs,Productivity,9.64,2.0,4.0,True
+1034,Snapchat,Social,25.48,2.0,4.0,False
+1005,Netflix,Entertainment,22.18,0.0,4.0,False
+1049,TikTok,Entertainment,10.37,1.0,10.0,False
+1002,YouTube,Entertainment,37.25,1.0,2.0,False
+1003,YouTube,Entertainment,4.52,1.0,7.0,False
+1051,WhatsApp,Social,14.96,2.0,6.0,False
+1047,Evernote,Productivity,47.72,1.0,11.0,True
+1100,Chrome,Utilities,19.07,2.0,4.0,False
+1091,Instagram,Social,77.75,4.0,3.0,False
+1008,Evernote,Productivity,0.48,0.0,3.0,True
+1058,Google Maps,Utilities,16.43,1.0,2.0,False
+1041,Gmail,Utilities,2.17,1.0,6.0,False
+1037,TikTok,Entertainment,27.9,2.0,3.0,False
+1051,Google Maps,Utilities,81.26,0.0,4.0,False
+1044,Snapchat,Social,30.06,3.0,5.0,False
+1041,Snapchat,Social,11.75,2.0,6.0,False
+1072,Gmail,Utilities,70.76,4.0,5.0,False
+1094,Twitter,Social,39.28,2.0,6.0,False
+1067,TikTok,Entertainment,21.68,2.0,6.0,False
+1016,Evernote,Productivity,82.88,0.0,5.0,True
+1008,Evernote,Productivity,12.65,1.0,3.0,True
+1020,Spotify,Entertainment,1.58,6.0,4.0,False
+1092,Google Docs,Productivity,17.14,3.0,3.0,True
+1060,Gmail,Utilities,34.36,2.0,5.0,False
+1052,Facebook,Social,38.6,2.0,5.0,False
+1058,Facebook,Social,0.98,5.0,2.0,False
+1078,Google Docs,Productivity,50.57,4.0,4.0,True
+1092,Instagram,Social,34.78,3.0,3.0,False
+1041,Gmail,Utilities,25.64,3.0,7.0,False
+1032,Netflix,Entertainment,36.92,3.0,6.0,False
+1004,Google Docs,Productivity,4.51,1.0,2.0,True
+1026,Google Docs,Productivity,23.45,0.0,9.0,True
+1038,Facebook,Social,38.99,2.0,9.0,False
+1065,YouTube,Entertainment,25.25,3.0,3.0,False
+1042,Google Docs,Productivity,8.68,2.0,1.0,True
+1010,Google Docs,Productivity,28.49,0.0,2.0,True
+1040,Twitter,Social,17.27,3.0,3.0,False
+1079,YouTube,Entertainment,1.18,3.0,8.0,False
+1030,Chrome,Utilities,62.49,0.0,7.0,False
+1051,Facebook,Social,15.81,5.0,7.0,False
+1021,Gmail,Utilities,24.9,2.0,4.0,False
+1032,Twitter,Social,3.37,1.0,5.0,False
+1054,Facebook,Social,16.84,5.0,3.0,False
+1063,Camera,Utilities,24.29,3.0,5.0,False
+1005,Evernote,Productivity,9.39,5.0,5.0,True
+1060,WhatsApp,Social,6.97,1.0,3.0,False
+1051,Weather,Utilities,10.18,1.0,6.0,False
+1033,Instagram,Social,76.82,3.0,7.0,False
+1087,Gmail,Utilities,20.88,4.0,3.0,False
+1092,Chrome,Utilities,49.9,4.0,3.0,False
+1051,YouTube,Entertainment,3.9,3.0,6.0,False
+1088,Google Docs,Productivity,1.73,1.0,5.0,True
+1001,Gmail,Utilities,2.51,3.0,6.0,False
+1048,Evernote,Productivity,42.75,5.0,4.0,True
+1056,Netflix,Entertainment,4.78,1.0,6.0,False
+1031,Spotify,Entertainment,37.37,0.0,7.0,False
+1096,Google Docs,Productivity,37.53,1.0,9.0,True
+1021,Slack,Productivity,20.11,4.0,8.0,True
+1035,Twitter,Social,37.94,0.0,1.0,False
+1062,Twitch,Entertainment,34.21,1.0,7.0,False
+1030,Slack,Productivity,16.96,2.0,4.0,True
+1043,Camera,Utilities,17.69,2.0,2.0,False
+1084,Google Docs,Productivity,21.83,0.0,6.0,True
+1098,Spotify,Entertainment,30.34,2.0,2.0,False
+1083,Facebook,Social,7.84,2.0,4.0,False
+1041,Slack,Productivity,5.36,4.0,6.0,True
+1077,Chrome,Utilities,14.29,4.0,7.0,False
+1037,Evernote,Productivity,39.79,2.0,4.0,True
+1006,Gmail,Utilities,97.46,1.0,2.0,False
+1057,Netflix,Entertainment,15.72,1.0,7.0,False
+1046,Instagram,Social,9.57,2.0,4.0,False
+1066,Camera,Utilities,6.52,3.0,5.0,False
+1054,Netflix,Entertainment,24.05,2.0,5.0,False
+1004,Microsoft Teams,Productivity,0.02,0.0,3.0,True
+1056,Spotify,Entertainment,15.85,2.0,4.0,False
+1082,Chrome,Utilities,18.14,1.0,2.0,False
+1036,Instagram,Social,21.63,2.0,4.0,False
+1053,TikTok,Entertainment,47.86,1.0,2.0,False
+1093,YouTube,Entertainment,59.81,1.0,4.0,False
+1092,Chrome,Utilities,50.92,3.0,1.0,False
+1079,Facebook,Social,89.68,1.0,1.0,False
+1064,Weather,Utilities,4.19,1.0,8.0,False
+1059,Evernote,Productivity,38.47,1.0,7.0,True
+1007,Gmail,Utilities,16.51,1.0,6.0,False
+1046,Camera,Utilities,34.77,4.0,3.0,False
+1049,Netflix,Entertainment,40.79,3.0,8.0,False
+1029,Evernote,Productivity,2.03,1.0,5.0,True
+1044,Weather,Utilities,9.18,1.0,9.0,False
+1044,Camera,Utilities,7.55,2.0,1.0,False
+1041,Slack,Productivity,45.9,5.0,9.0,True
+1004,Google Docs,Productivity,38.27,3.0,8.0,True
+1001,Google Maps,Utilities,11.29,2.0,6.0,False
+1093,Microsoft Teams,Productivity,12.84,3.0,2.0,True
+1073,Spotify,Entertainment,48.39,4.0,4.0,False
+1049,Camera,Utilities,4.61,0.0,6.0,False
+1021,Snapchat,Social,18.06,2.0,7.0,False
+1071,Snapchat,Social,13.89,3.0,4.0,False
+1053,Netflix,Entertainment,3.29,1.0,4.0,False
+1080,WhatsApp,Social,1.98,2.0,9.0,False
+1076,Twitter,Social,1.89,1.0,1.0,False
+1080,Facebook,Social,1.57,1.0,9.0,False
+1047,Instagram,Social,7.89,3.0,4.0,False
+1072,Twitch,Entertainment,32.59,2.0,3.0,False
+1058,Twitch,Entertainment,47.5,1.0,5.0,False
+1026,Chrome,Utilities,95.09,0.0,3.0,False
+1000,Netflix,Entertainment,24.14,1.0,2.0,False
+1086,Twitch,Entertainment,17.1,2.0,7.0,False
+1014,Slack,Productivity,11.08,4.0,2.0,True
+1043,Weather,Utilities,103.86,4.0,4.0,False
+1056,Snapchat,Social,78.62,3.0,7.0,False
+1029,Evernote,Productivity,10.46,2.0,9.0,True
+1098,Google Docs,Productivity,8.34,1.0,8.0,True
+1001,Google Docs,Productivity,7.79,1.0,4.0,True
+1067,Google Maps,Utilities,35.05,3.0,6.0,False
+1017,Facebook,Social,0.21,3.0,4.0,False
+1070,Netflix,Entertainment,19.68,0.0,4.0,False
+1029,Google Docs,Productivity,43.31,2.0,2.0,True
+1089,WhatsApp,Social,55.42,2.0,8.0,False
+1035,Google Docs,Productivity,50.81,3.0,5.0,True
+1080,Snapchat,Social,108.19,1.0,1.0,False
+1040,Google Maps,Utilities,68.88,0.0,5.0,False
+1067,Slack,Productivity,4.8,2.0,10.0,True
+1052,Evernote,Productivity,5.36,3.0,4.0,True
+1081,Instagram,Social,28.95,1.0,4.0,False
+1044,Evernote,Productivity,3.49,1.0,6.0,True
+1081,Netflix,Entertainment,2.01,0.0,7.0,False
+1073,Facebook,Social,6.44,4.0,4.0,False
+1032,Spotify,Entertainment,87.66,0.0,2.0,False
+1077,Twitter,Social,74.06,1.0,3.0,False
+1017,YouTube,Entertainment,34.6,0.0,6.0,False
+1051,Slack,Productivity,7.05,1.0,10.0,True
+1089,Weather,Utilities,31.88,2.0,5.0,False
+1024,Google Docs,Productivity,22.54,1.0,4.0,True
+1021,Microsoft Teams,Productivity,6.53,1.0,3.0,True
+1008,WhatsApp,Social,30.56,0.0,1.0,False
+1028,Gmail,Utilities,7.03,2.0,8.0,False
+1035,Snapchat,Social,47.62,0.0,5.0,False
+1029,WhatsApp,Social,28.67,4.0,5.0,False
+1076,Twitch,Entertainment,22.65,2.0,5.0,False
+1056,Twitter,Social,139.43,2.0,5.0,False
+1010,WhatsApp,Social,5.56,2.0,5.0,False
+1049,Instagram,Social,22.09,3.0,2.0,False
+1039,Snapchat,Social,10.43,4.0,4.0,False
+1058,Notion,Productivity,11.75,2.0,3.0,True
+1054,Facebook,Social,15.69,3.0,5.0,False
+1089,Weather,Utilities,20.2,2.0,6.0,False
+1010,Snapchat,Social,81.9,2.0,7.0,False
+1000,Facebook,Social,10.54,3.0,5.0,False
+1018,Weather,Utilities,61.15,1.0,4.0,False
+1047,Microsoft Teams,Productivity,43.05,2.0,5.0,True
+1086,Instagram,Social,14.63,2.0,4.0,False
+1077,Slack,Productivity,23.58,2.0,4.0,True
+1083,Chrome,Utilities,15.79,1.0,7.0,False
+1064,Twitch,Entertainment,58.1,1.0,6.0,False
+1050,Notion,Productivity,52.81,3.0,5.0,True
+1084,Google Docs,Productivity,10.14,4.0,9.0,True
+1001,Google Maps,Utilities,73.82,4.0,2.0,False
+1064,Google Maps,Utilities,22.92,1.0,5.0,False
+1058,Instagram,Social,23.97,3.0,5.0,False
+1089,Netflix,Entertainment,18.1,1.0,3.0,False
+1017,Evernote,Productivity,9.33,2.0,8.0,True
+1070,Gmail,Utilities,3.48,5.0,7.0,False
+1063,TikTok,Entertainment,16.52,2.0,3.0,False
+1083,Netflix,Entertainment,3.39,2.0,4.0,False
+1064,Slack,Productivity,17.94,1.0,3.0,True
+1094,TikTok,Entertainment,3.19,0.0,8.0,False
+1080,Facebook,Social,3.55,2.0,5.0,False
+1047,Camera,Utilities,39.9,1.0,3.0,False
+1015,Spotify,Entertainment,45.73,4.0,4.0,False
+1099,Notion,Productivity,40.95,1.0,9.0,True
+1082,Notion,Productivity,0.32,2.0,8.0,True
+1003,Google Maps,Utilities,5.66,0.0,8.0,False
+1047,Gmail,Utilities,25.37,3.0,2.0,False
+1096,Snapchat,Social,31.12,1.0,6.0,False
+1026,Google Docs,Productivity,15.62,1.0,8.0,True
+1062,Google Docs,Productivity,45.15,3.0,7.0,True
+1034,YouTube,Entertainment,20.4,6.0,2.0,False
+1039,Notion,Productivity,2.18,3.0,7.0,True
+1097,Twitch,Entertainment,54.98,2.0,3.0,False
+1052,Gmail,Utilities,21.77,1.0,6.0,False
+1055,Snapchat,Social,97.22,2.0,6.0,False
+1088,Google Maps,Utilities,1.85,3.0,8.0,False
+1047,Camera,Utilities,10.72,3.0,7.0,False
+1047,Spotify,Entertainment,1.0,2.0,1.0,False
+1056,Chrome,Utilities,0.03,0.0,5.0,False
+1005,Twitch,Entertainment,13.65,2.0,1.0,False
+1055,Snapchat,Social,1.34,0.0,6.0,False
+1007,Evernote,Productivity,38.6,3.0,8.0,True
+1002,Spotify,Entertainment,14.9,1.0,3.0,False
+1054,Facebook,Social,4.43,0.0,7.0,False
+1066,WhatsApp,Social,25.0,2.0,3.0,False
+1012,Snapchat,Social,17.69,2.0,4.0,False
+1043,Netflix,Entertainment,16.5,2.0,6.0,False
+1049,Twitter,Social,4.76,2.0,4.0,False
+1095,Google Docs,Productivity,45.46,1.0,2.0,True
+1047,Netflix,Entertainment,29.99,2.0,4.0,False
+1004,Microsoft Teams,Productivity,175.2,2.0,4.0,True
+1018,TikTok,Entertainment,28.6,3.0,3.0,False
+1045,Instagram,Social,36.26,4.0,2.0,False
+1089,WhatsApp,Social,32.7,0.0,1.0,False
+1070,YouTube,Entertainment,13.39,3.0,2.0,False
+1055,WhatsApp,Social,44.88,2.0,9.0,False
+1070,Spotify,Entertainment,27.5,3.0,7.0,False
+1090,Twitch,Entertainment,45.4,2.0,5.0,False
+1049,Spotify,Entertainment,4.41,2.0,3.0,False
+1040,WhatsApp,Social,0.16,1.0,7.0,False
+1079,Microsoft Teams,Productivity,22.32,1.0,6.0,True
+1012,Instagram,Social,2.56,4.0,6.0,False
+1014,Slack,Productivity,8.33,3.0,3.0,True
+1064,Notion,Productivity,2.82,3.0,2.0,True
+1012,Google Maps,Utilities,15.98,1.0,3.0,False
+1041,WhatsApp,Social,25.26,2.0,4.0,False
+1029,Twitter,Social,16.28,1.0,5.0,False
+1083,TikTok,Entertainment,119.78,3.0,3.0,False
+1086,Facebook,Social,13.53,3.0,4.0,False
+1081,Chrome,Utilities,166.24,2.0,6.0,False
+1028,Twitch,Entertainment,3.81,5.0,6.0,False
+1055,Microsoft Teams,Productivity,27.0,0.0,6.0,True
+1094,Camera,Utilities,16.34,3.0,4.0,False
+1022,TikTok,Entertainment,33.41,3.0,4.0,False
+1042,Google Docs,Productivity,154.46,5.0,2.0,True
+1005,Gmail,Utilities,16.33,2.0,6.0,False
+1038,Instagram,Social,119.85,0.0,3.0,False
+1050,Snapchat,Social,0.06,2.0,3.0,False
+1040,Slack,Productivity,19.91,2.0,6.0,True
+1063,YouTube,Entertainment,67.04,1.0,5.0,False
+1020,Snapchat,Social,7.86,4.0,3.0,False
+1082,YouTube,Entertainment,39.32,1.0,3.0,False
+1099,Snapchat,Social,37.37,5.0,3.0,False
+1034,Twitter,Social,39.31,4.0,7.0,False
+1090,Instagram,Social,3.7,4.0,12.0,False
+1045,Google Docs,Productivity,87.52,0.0,4.0,True
+1007,Google Docs,Productivity,52.09,3.0,5.0,True
+1075,TikTok,Entertainment,10.61,2.0,7.0,False
+1018,WhatsApp,Social,0.36,4.0,1.0,False
+1082,WhatsApp,Social,2.97,1.0,8.0,False
+1075,Facebook,Social,37.17,0.0,6.0,False
+1079,Microsoft Teams,Productivity,1.73,5.0,8.0,True
+1100,Google Docs,Productivity,24.43,0.0,5.0,True
+1039,WhatsApp,Social,95.78,2.0,4.0,False
+1024,Slack,Productivity,14.13,3.0,2.0,True
+1010,Netflix,Entertainment,4.7,2.0,2.0,False
+1027,Slack,Productivity,27.58,1.0,3.0,True
+1029,Evernote,Productivity,1.13,2.0,7.0,True
+1045,Spotify,Entertainment,4.25,1.0,6.0,False
+1024,TikTok,Entertainment,7.69,0.0,6.0,False
+1083,Chrome,Utilities,1.33,3.0,6.0,False
+1008,Facebook,Social,76.53,1.0,7.0,False
+1035,Evernote,Productivity,51.82,4.0,13.0,True
+1000,TikTok,Entertainment,48.43,2.0,2.0,False
+1092,Weather,Utilities,18.09,2.0,6.0,False
+1047,Instagram,Social,34.71,2.0,4.0,False
+1048,Snapchat,Social,3.49,3.0,5.0,False
+1098,Slack,Productivity,40.43,1.0,7.0,True
+1094,Instagram,Social,4.89,1.0,5.0,False
+1001,Slack,Productivity,1.3,0.0,6.0,True
+1099,TikTok,Entertainment,0.01,2.0,3.0,False
+1010,Microsoft Teams,Productivity,9.97,1.0,3.0,True
+1078,TikTok,Entertainment,43.6,3.0,2.0,False
+1097,Snapchat,Social,51.31,1.0,5.0,False
+1064,WhatsApp,Social,0.45,1.0,6.0,False
+1082,Twitter,Social,58.14,2.0,1.0,False
+1039,Microsoft Teams,Productivity,2.32,0.0,4.0,True
+1008,Gmail,Utilities,54.19,4.0,4.0,False
+1009,WhatsApp,Social,8.68,2.0,6.0,False
+1033,Instagram,Social,23.86,2.0,4.0,False
+1028,Slack,Productivity,43.33,2.0,5.0,True
+1070,WhatsApp,Social,7.38,2.0,3.0,False
+1019,Twitter,Social,39.78,1.0,6.0,False
+1099,Gmail,Utilities,60.27,2.0,7.0,False
+1003,Slack,Productivity,0.89,2.0,8.0,True
+1097,WhatsApp,Social,33.57,2.0,10.0,False
+1013,Chrome,Utilities,57.06,1.0,5.0,False
+1050,Facebook,Social,0.42,4.0,5.0,False
+1032,Instagram,Social,18.74,0.0,2.0,False
+1051,Google Maps,Utilities,0.87,4.0,8.0,False
+1087,Notion,Productivity,30.51,4.0,7.0,True
+1042,Spotify,Entertainment,0.07,1.0,5.0,False
+1051,TikTok,Entertainment,17.51,1.0,6.0,False
+1076,Weather,Utilities,2.44,2.0,3.0,False
+1091,Slack,Productivity,2.0,3.0,8.0,True
+1081,WhatsApp,Social,31.42,2.0,1.0,False
+1060,Microsoft Teams,Productivity,0.29,3.0,6.0,True
+1019,Netflix,Entertainment,39.09,1.0,3.0,False
+1079,Notion,Productivity,11.86,4.0,3.0,True
+1000,Netflix,Entertainment,10.06,2.0,7.0,False
+1030,Chrome,Utilities,11.1,1.0,5.0,False
+1092,Chrome,Utilities,11.52,2.0,3.0,False
+1010,Chrome,Utilities,31.18,1.0,9.0,False
+1029,Netflix,Entertainment,49.86,1.0,4.0,False
+1049,WhatsApp,Social,25.6,3.0,6.0,False
+1017,Weather,Utilities,33.15,3.0,4.0,False
+1016,Snapchat,Social,3.55,1.0,6.0,False
+1068,Microsoft Teams,Productivity,43.52,2.0,10.0,True
+1082,Google Docs,Productivity,3.78,1.0,2.0,True
+1007,Gmail,Utilities,7.91,0.0,0.0,False
+1059,Microsoft Teams,Productivity,8.94,1.0,3.0,True
+1031,Netflix,Entertainment,73.5,4.0,5.0,False
+1023,WhatsApp,Social,22.29,2.0,7.0,False
+1052,Evernote,Productivity,4.04,1.0,6.0,True
+1012,Netflix,Entertainment,37.43,0.0,2.0,False
+1079,Slack,Productivity,28.5,2.0,2.0,True
+1090,Facebook,Social,12.85,2.0,9.0,False
+1019,Weather,Utilities,11.73,0.0,4.0,False
+1031,Twitter,Social,20.08,4.0,4.0,False
+1019,YouTube,Entertainment,5.95,2.0,6.0,False
+1035,Chrome,Utilities,18.66,4.0,7.0,False
+1093,Camera,Utilities,23.15,1.0,6.0,False
+1019,WhatsApp,Social,4.85,3.0,4.0,False
+1099,Weather,Utilities,83.4,2.0,6.0,False
+1084,WhatsApp,Social,3.47,4.0,4.0,False
+1007,TikTok,Entertainment,15.28,3.0,3.0,False
+1004,Spotify,Entertainment,23.52,1.0,4.0,False
+1006,Notion,Productivity,12.94,1.0,4.0,True
+1016,Microsoft Teams,Productivity,20.94,2.0,6.0,True
+1060,Instagram,Social,25.6,3.0,4.0,False
+1019,Weather,Utilities,14.88,6.0,7.0,False
+1007,TikTok,Entertainment,1.75,4.0,2.0,False
+1080,Google Maps,Utilities,40.02,1.0,5.0,False
+1097,Spotify,Entertainment,97.21,2.0,7.0,False
+1029,TikTok,Entertainment,119.72,4.0,7.0,False
+1021,Chrome,Utilities,28.67,5.0,5.0,False
+1095,Facebook,Social,11.83,4.0,3.0,False
+1067,Netflix,Entertainment,2.54,0.0,5.0,False
+1093,YouTube,Entertainment,35.9,2.0,2.0,False
+1017,Google Docs,Productivity,17.11,1.0,7.0,True
+1013,TikTok,Entertainment,22.29,6.0,6.0,False
+1028,Slack,Productivity,3.36,3.0,9.0,True
+1085,Twitch,Entertainment,71.17,2.0,10.0,False
+1068,Snapchat,Social,37.99,2.0,2.0,False
+1057,Google Maps,Utilities,11.06,2.0,3.0,False
+1093,Spotify,Entertainment,46.97,1.0,3.0,False
+1067,Chrome,Utilities,25.47,1.0,3.0,False
+1071,Weather,Utilities,49.71,0.0,4.0,False
+1014,Evernote,Productivity,8.41,1.0,3.0,True
+1068,Notion,Productivity,51.3,1.0,4.0,True
+1046,Spotify,Entertainment,13.34,2.0,6.0,False
+1062,Instagram,Social,8.46,3.0,8.0,False
+1077,Notion,Productivity,18.29,9.0,6.0,True
+1005,Google Maps,Utilities,34.57,1.0,2.0,False
+1034,Twitch,Entertainment,1.13,1.0,8.0,False
+1084,Slack,Productivity,10.12,1.0,9.0,True
+1045,Netflix,Entertainment,39.97,2.0,4.0,False
+1055,Chrome,Utilities,13.38,0.0,2.0,False
+1017,Instagram,Social,42.81,2.0,5.0,False
+1084,Camera,Utilities,1.91,3.0,3.0,False
+1046,Instagram,Social,2.01,3.0,7.0,False
+1001,Twitter,Social,9.88,0.0,6.0,False
+1086,Snapchat,Social,31.81,2.0,5.0,False
+1065,Twitch,Entertainment,5.42,1.0,4.0,False
+1091,YouTube,Entertainment,0.55,2.0,3.0,False
+1031,YouTube,Entertainment,18.18,2.0,4.0,False
+1069,YouTube,Entertainment,68.7,3.0,8.0,False
+1025,Snapchat,Social,22.05,2.0,8.0,False
+1069,Evernote,Productivity,81.96,0.0,6.0,True
+1098,Evernote,Productivity,5.17,2.0,1.0,True
+1076,WhatsApp,Social,1.61,3.0,1.0,False
+1008,Gmail,Utilities,46.33,1.0,3.0,False
+1016,Slack,Productivity,36.61,1.0,7.0,True
+1024,Twitter,Social,12.56,2.0,5.0,False
+1000,Gmail,Utilities,11.49,3.0,3.0,False
+1067,Twitch,Entertainment,3.87,2.0,6.0,False
+1029,Chrome,Utilities,21.07,1.0,5.0,False
+1094,Notion,Productivity,63.42,2.0,3.0,True
+1010,Google Maps,Utilities,36.96,2.0,6.0,False
+1013,Instagram,Social,4.63,0.0,3.0,False
+1064,Chrome,Utilities,26.44,1.0,7.0,False
+1020,WhatsApp,Social,54.25,5.0,7.0,False
+1073,Microsoft Teams,Productivity,2.78,2.0,2.0,True
+1043,Twitch,Entertainment,5.51,0.0,4.0,False
+1073,Google Docs,Productivity,2.53,0.0,6.0,True
+1020,Gmail,Utilities,31.42,1.0,5.0,False
+1100,Instagram,Social,21.85,1.0,6.0,False
+1092,Snapchat,Social,17.25,0.0,8.0,False
+1088,Chrome,Utilities,15.57,1.0,2.0,False
+1035,Twitch,Entertainment,47.62,3.0,5.0,False
+1078,Gmail,Utilities,24.87,2.0,4.0,False
+1006,Camera,Utilities,48.03,1.0,5.0,False
+1038,Gmail,Utilities,25.36,3.0,5.0,False
+1086,Evernote,Productivity,14.13,1.0,7.0,True
+1020,TikTok,Entertainment,8.18,2.0,8.0,False
+1022,Camera,Utilities,26.61,0.0,9.0,False
+1053,Netflix,Entertainment,95.47,2.0,7.0,False
+1087,Slack,Productivity,2.7,3.0,7.0,True
+1069,Netflix,Entertainment,0.18,1.0,5.0,False
+1042,Evernote,Productivity,12.14,1.0,3.0,True
+1018,Microsoft Teams,Productivity,88.12,4.0,5.0,True
+1063,Chrome,Utilities,11.65,2.0,6.0,False
+1080,Gmail,Utilities,37.18,1.0,3.0,False
+1028,YouTube,Entertainment,6.88,3.0,5.0,False
+1063,Spotify,Entertainment,40.4,2.0,6.0,False
+1011,Twitch,Entertainment,17.45,2.0,2.0,False
+1048,Evernote,Productivity,4.11,1.0,4.0,True
+1029,Facebook,Social,5.85,5.0,2.0,False
+1067,Facebook,Social,19.44,3.0,6.0,False
+1070,Instagram,Social,19.92,2.0,4.0,False
+1017,Google Docs,Productivity,37.88,4.0,8.0,True
+1077,Snapchat,Social,8.72,0.0,6.0,False
+1000,Evernote,Productivity,29.48,1.0,1.0,True
+1019,Weather,Utilities,5.35,1.0,4.0,False
+1020,TikTok,Entertainment,25.64,1.0,7.0,False
+1074,Twitter,Social,28.69,1.0,4.0,False
+1014,Facebook,Social,30.09,0.0,7.0,False
+1088,Google Docs,Productivity,55.15,1.0,6.0,True
+1013,Facebook,Social,74.63,2.0,4.0,False
+1030,Snapchat,Social,47.79,3.0,5.0,False
+1081,Twitter,Social,44.8,2.0,2.0,False
+1098,YouTube,Entertainment,56.88,0.0,9.0,False
+1075,Chrome,Utilities,38.24,1.0,5.0,False
+1002,Facebook,Social,36.24,4.0,3.0,False
+1081,Gmail,Utilities,10.26,5.0,7.0,False
+1085,YouTube,Entertainment,58.6,1.0,3.0,False
+1021,Snapchat,Social,36.95,3.0,4.0,False
+1012,WhatsApp,Social,92.36,2.0,3.0,False
+1090,Spotify,Entertainment,50.47,1.0,7.0,False
+1065,Google Docs,Productivity,5.55,1.0,7.0,True
+1095,Snapchat,Social,3.62,2.0,4.0,False
+1075,Twitter,Social,70.29,4.0,4.0,False
+1055,TikTok,Entertainment,0.93,3.0,4.0,False
+1040,Spotify,Entertainment,67.17,4.0,10.0,False
+1042,Notion,Productivity,0.91,2.0,5.0,True
+1099,Google Docs,Productivity,24.7,0.0,5.0,True
+1086,Snapchat,Social,15.61,1.0,2.0,False
+1035,Notion,Productivity,95.97,2.0,8.0,True
+1063,TikTok,Entertainment,14.61,4.0,1.0,False
+1084,Twitter,Social,13.54,1.0,3.0,False
+1041,YouTube,Entertainment,17.66,2.0,5.0,False
+1086,Instagram,Social,4.9,1.0,3.0,False
+1058,Google Maps,Utilities,40.75,2.0,8.0,False
+1051,WhatsApp,Social,9.15,1.0,2.0,False
+1039,YouTube,Entertainment,7.32,4.0,4.0,False
+1009,Chrome,Utilities,23.28,2.0,1.0,False
+1024,Facebook,Social,65.63,1.0,9.0,False
+1037,Instagram,Social,2.8,2.0,10.0,False
+1091,Netflix,Entertainment,22.1,2.0,4.0,False
+1069,Chrome,Utilities,3.88,1.0,6.0,False
+1043,TikTok,Entertainment,19.68,5.0,3.0,False
+1025,Google Docs,Productivity,20.61,3.0,6.0,True
+1072,Spotify,Entertainment,12.76,3.0,7.0,False
+1091,Chrome,Utilities,2.43,1.0,9.0,False
+1052,Evernote,Productivity,5.99,2.0,6.0,True
+1063,Spotify,Entertainment,64.12,1.0,10.0,False
+1000,Gmail,Utilities,3.24,4.0,6.0,False
+1065,Weather,Utilities,40.25,1.0,6.0,False
+1048,WhatsApp,Social,27.41,1.0,2.0,False
+1009,Evernote,Productivity,4.57,1.0,5.0,True
+1038,Slack,Productivity,18.7,6.0,4.0,True
+1000,Notion,Productivity,12.78,2.0,2.0,True
+1055,Notion,Productivity,67.95,4.0,6.0,True
+1007,Camera,Utilities,18.87,3.0,4.0,False
+1060,YouTube,Entertainment,0.48,0.0,4.0,False
+1093,YouTube,Entertainment,11.71,3.0,4.0,False
+1080,Camera,Utilities,31.64,2.0,4.0,False
+1015,Spotify,Entertainment,29.17,4.0,3.0,False
+1015,Weather,Utilities,3.96,0.0,6.0,False
+1005,Evernote,Productivity,17.57,2.0,4.0,True
+1003,Chrome,Utilities,185.65,1.0,4.0,False
+1011,WhatsApp,Social,61.05,0.0,5.0,False
+1086,Spotify,Entertainment,1.92,2.0,2.0,False
+1003,Google Maps,Utilities,42.78,3.0,5.0,False
+1081,Netflix,Entertainment,9.79,2.0,3.0,False
+1082,TikTok,Entertainment,40.89,2.0,8.0,False
+1040,Camera,Utilities,27.74,5.0,7.0,False
+1069,Google Docs,Productivity,1.3,1.0,6.0,True
+1090,Twitter,Social,45.45,3.0,5.0,False
+1072,Twitch,Entertainment,29.61,4.0,6.0,False
+1091,Google Docs,Productivity,12.21,5.0,7.0,True
+1048,Slack,Productivity,8.46,1.0,4.0,True
+1052,Snapchat,Social,19.3,1.0,6.0,False
+1061,Spotify,Entertainment,87.22,2.0,2.0,False
+1053,Chrome,Utilities,24.62,0.0,7.0,False
+1037,Notion,Productivity,6.44,1.0,7.0,True
+1029,YouTube,Entertainment,27.07,1.0,7.0,False
+1079,Evernote,Productivity,69.26,1.0,8.0,True
+1032,Notion,Productivity,1.95,1.0,1.0,True
+1052,Instagram,Social,42.66,4.0,3.0,False
+1044,Netflix,Entertainment,66.45,3.0,8.0,False
+1049,Google Docs,Productivity,18.48,1.0,5.0,True
+1056,Google Maps,Utilities,86.47,6.0,3.0,False
+1026,WhatsApp,Social,60.1,0.0,4.0,False
+1009,Snapchat,Social,68.26,3.0,10.0,False
+1021,Notion,Productivity,2.33,4.0,8.0,True
+1018,TikTok,Entertainment,18.75,0.0,9.0,False
+1055,Notion,Productivity,10.51,1.0,4.0,True
+1063,Gmail,Utilities,2.62,1.0,5.0,False
+1023,Google Maps,Utilities,4.28,2.0,4.0,False
+1089,Twitter,Social,22.19,1.0,4.0,False
+1013,Facebook,Social,15.72,0.0,5.0,False
+1016,Snapchat,Social,8.05,2.0,6.0,False
+1053,Snapchat,Social,13.62,0.0,4.0,False
+1007,Gmail,Utilities,28.47,2.0,5.0,False
+1063,Weather,Utilities,30.81,0.0,1.0,False
+1023,Slack,Productivity,21.94,3.0,3.0,True
+1075,Netflix,Entertainment,0.1,1.0,6.0,False
+1012,Notion,Productivity,45.4,5.0,4.0,True
+1049,Weather,Utilities,35.7,3.0,7.0,False
+1037,Weather,Utilities,4.74,2.0,5.0,False
+1015,Camera,Utilities,61.63,4.0,6.0,False
+1070,Weather,Utilities,20.93,3.0,6.0,False
+1066,Twitter,Social,39.15,2.0,5.0,False
+1069,Slack,Productivity,120.59,1.0,3.0,True
+1088,Snapchat,Social,20.93,0.0,1.0,False
+1093,Evernote,Productivity,4.11,0.0,4.0,True
+1011,TikTok,Entertainment,6.82,1.0,3.0,False
+1090,Slack,Productivity,16.55,2.0,5.0,True
+1062,Instagram,Social,30.93,1.0,3.0,False
+1072,Facebook,Social,6.97,2.0,3.0,False
+1023,Netflix,Entertainment,24.07,0.0,7.0,False
+1091,Twitter,Social,40.94,0.0,1.0,False
+1091,Snapchat,Social,11.65,0.0,6.0,False
+1019,Google Maps,Utilities,0.58,2.0,6.0,False
+1041,Google Docs,Productivity,54.31,2.0,1.0,True
+1028,Google Docs,Productivity,5.72,2.0,7.0,True
+1014,YouTube,Entertainment,4.45,2.0,6.0,False
+1069,Twitter,Social,48.37,0.0,2.0,False
+1063,Snapchat,Social,13.52,3.0,4.0,False
+1059,Microsoft Teams,Productivity,218.39,2.0,2.0,True
+1094,Slack,Productivity,3.16,1.0,6.0,True
+1036,WhatsApp,Social,53.38,1.0,3.0,False
+1006,Google Docs,Productivity,9.58,2.0,5.0,True
+1050,Snapchat,Social,25.21,5.0,6.0,False
+1052,Twitter,Social,60.29,1.0,6.0,False
+1063,Facebook,Social,4.91,1.0,5.0,False
+1095,Netflix,Entertainment,10.27,1.0,2.0,False
+1051,Weather,Utilities,0.42,2.0,7.0,False
+1057,Spotify,Entertainment,5.3,2.0,4.0,False
+1077,TikTok,Entertainment,49.04,4.0,3.0,False
+1066,Facebook,Social,24.46,1.0,7.0,False
+1052,Instagram,Social,104.59,6.0,6.0,False
+1004,TikTok,Entertainment,47.3,2.0,10.0,False
+1086,Twitch,Entertainment,13.27,1.0,7.0,False
+1029,Evernote,Productivity,64.16,3.0,4.0,True
+1009,Facebook,Social,6.59,2.0,8.0,False
+1020,Slack,Productivity,13.1,1.0,4.0,True
+1001,Google Maps,Utilities,38.63,1.0,4.0,False
+1090,WhatsApp,Social,3.16,2.0,2.0,False
+1064,YouTube,Entertainment,56.68,2.0,1.0,False
+1039,Notion,Productivity,24.26,3.0,4.0,True
+1076,Gmail,Utilities,42.18,0.0,11.0,False
+1000,Netflix,Entertainment,15.46,0.0,3.0,False
+1001,Twitter,Social,36.19,0.0,6.0,False
+1033,Twitter,Social,3.24,3.0,5.0,False
+1045,Slack,Productivity,54.4,3.0,12.0,True
+1094,Slack,Productivity,16.45,3.0,4.0,True
+1075,Evernote,Productivity,14.35,1.0,7.0,True
+1046,Microsoft Teams,Productivity,16.48,2.0,9.0,True
+1013,Twitch,Entertainment,10.21,1.0,6.0,False
+1009,Netflix,Entertainment,18.51,4.0,5.0,False
+1029,Weather,Utilities,78.02,1.0,5.0,False
+1072,Twitch,Entertainment,12.13,0.0,6.0,False
+1062,Camera,Utilities,6.42,3.0,10.0,False
+1049,Twitter,Social,81.39,1.0,9.0,False
+1005,Chrome,Utilities,27.86,3.0,8.0,False
+1094,Twitch,Entertainment,71.49,2.0,6.0,False
+1084,Spotify,Entertainment,7.87,2.0,2.0,False
+1052,Microsoft Teams,Productivity,10.77,3.0,8.0,True
+1083,Evernote,Productivity,31.16,0.0,5.0,True
+1095,Chrome,Utilities,22.58,0.0,2.0,False
+1065,Camera,Utilities,22.84,1.0,3.0,False
+1062,Chrome,Utilities,1.01,1.0,3.0,False
+1029,YouTube,Entertainment,59.4,2.0,5.0,False
+1040,Evernote,Productivity,39.36,2.0,6.0,True
+1087,Camera,Utilities,25.42,3.0,1.0,False
+1014,Snapchat,Social,3.1,3.0,8.0,False
+1034,Netflix,Entertainment,10.6,2.0,5.0,False
+1048,Twitch,Entertainment,32.79,3.0,4.0,False
+1067,YouTube,Entertainment,1.73,1.0,4.0,False
+1028,Netflix,Entertainment,24.01,5.0,7.0,False
+1013,YouTube,Entertainment,13.38,5.0,1.0,False
+1098,Facebook,Social,43.79,1.0,7.0,False
+1038,Instagram,Social,34.32,1.0,5.0,False
+1082,Twitch,Entertainment,66.58,5.0,3.0,False
+1092,Chrome,Utilities,21.08,2.0,10.0,False
+1033,Google Docs,Productivity,28.96,2.0,6.0,True
+1023,YouTube,Entertainment,30.32,0.0,8.0,False
+1000,Facebook,Social,24.3,1.0,6.0,False
+1002,YouTube,Entertainment,44.97,3.0,6.0,False
+1049,Google Docs,Productivity,20.47,2.0,2.0,True
+1049,Camera,Utilities,23.25,0.0,6.0,False
+1098,Facebook,Social,2.16,1.0,4.0,False
+1015,Spotify,Entertainment,12.12,0.0,6.0,False
+1061,Facebook,Social,131.26,3.0,6.0,False
+1010,Weather,Utilities,39.02,4.0,5.0,False
+1036,Chrome,Utilities,19.33,2.0,6.0,False
+1035,Instagram,Social,134.14,1.0,5.0,False
+1018,Slack,Productivity,73.02,5.0,2.0,True
+1007,Evernote,Productivity,19.18,1.0,8.0,True
+1067,Camera,Utilities,0.92,2.0,5.0,False
+1061,Netflix,Entertainment,9.78,1.0,2.0,False
+1022,Instagram,Social,32.08,4.0,5.0,False
+1010,Twitch,Entertainment,25.13,0.0,0.0,False
+1055,Spotify,Entertainment,33.59,2.0,3.0,False
+1053,Facebook,Social,25.27,3.0,4.0,False
+1096,Netflix,Entertainment,16.09,0.0,7.0,False
+1060,Evernote,Productivity,30.92,2.0,3.0,True
+1015,Microsoft Teams,Productivity,21.84,4.0,5.0,True
+1067,Chrome,Utilities,16.63,4.0,9.0,False
+1048,Notion,Productivity,20.45,2.0,3.0,True
+1014,Netflix,Entertainment,13.02,2.0,5.0,False
+1033,YouTube,Entertainment,11.12,1.0,5.0,False
+1025,Camera,Utilities,27.04,0.0,6.0,False
+1029,Camera,Utilities,2.36,3.0,10.0,False
+1062,Spotify,Entertainment,76.02,0.0,4.0,False
+1078,Gmail,Utilities,8.21,3.0,2.0,False
+1008,Spotify,Entertainment,16.06,4.0,5.0,False
+1041,Evernote,Productivity,104.27,1.0,9.0,True
+1100,YouTube,Entertainment,44.13,0.0,4.0,False
+1068,Netflix,Entertainment,3.05,2.0,9.0,False
+1087,Camera,Utilities,18.6,2.0,2.0,False
+1063,Google Docs,Productivity,20.57,1.0,3.0,True
+1088,Chrome,Utilities,18.18,4.0,5.0,False
+1095,Google Maps,Utilities,11.27,0.0,3.0,False
+1044,Gmail,Utilities,13.06,3.0,4.0,False
+1020,Evernote,Productivity,55.15,3.0,0.0,True
+1051,Weather,Utilities,44.72,5.0,4.0,False
+1052,Google Docs,Productivity,9.38,0.0,8.0,True
+1032,YouTube,Entertainment,48.27,2.0,9.0,False
+1024,Evernote,Productivity,16.4,1.0,1.0,True
+1089,Slack,Productivity,51.79,1.0,4.0,True
+1057,TikTok,Entertainment,44.44,3.0,5.0,False
+1003,Google Docs,Productivity,7.52,3.0,5.0,True
+1049,Spotify,Entertainment,36.28,1.0,5.0,False
+1053,Twitch,Entertainment,23.59,2.0,5.0,False
+1039,WhatsApp,Social,14.52,1.0,3.0,False
+1002,Spotify,Entertainment,59.64,3.0,3.0,False
+1049,Twitch,Entertainment,101.03,5.0,5.0,False
+1028,Instagram,Social,10.1,2.0,3.0,False
+1006,TikTok,Entertainment,3.42,1.0,6.0,False
+1004,Slack,Productivity,4.87,2.0,4.0,True
+1093,YouTube,Entertainment,22.12,1.0,6.0,False
+1030,Netflix,Entertainment,6.16,1.0,4.0,False
+1004,Microsoft Teams,Productivity,82.08,2.0,5.0,True
+1047,Twitch,Entertainment,23.21,2.0,2.0,False
+1084,WhatsApp,Social,49.59,4.0,3.0,False
+1070,Snapchat,Social,0.21,5.0,7.0,False
+1080,Facebook,Social,38.33,1.0,6.0,False
+1100,YouTube,Entertainment,86.04,3.0,5.0,False
+1003,Gmail,Utilities,0.01,1.0,7.0,False
+1039,Facebook,Social,19.18,5.0,3.0,False
+1063,Spotify,Entertainment,9.82,1.0,9.0,False
+1040,Spotify,Entertainment,3.9,4.0,7.0,False
+1010,Gmail,Utilities,3.13,4.0,6.0,False
+1026,YouTube,Entertainment,48.26,0.0,7.0,False
+1092,TikTok,Entertainment,3.6,5.0,5.0,False
+1021,Weather,Utilities,0.69,3.0,4.0,False
+1022,TikTok,Entertainment,88.24,2.0,6.0,False
+1005,Slack,Productivity,16.98,2.0,2.0,True
+1017,Twitter,Social,21.01,0.0,3.0,False
+1017,Chrome,Utilities,15.79,0.0,6.0,False
+1004,Facebook,Social,1.72,4.0,7.0,False
+1040,Instagram,Social,27.17,2.0,5.0,False
+1079,Notion,Productivity,112.84,1.0,5.0,True
+1049,YouTube,Entertainment,6.21,2.0,3.0,False
+1099,Microsoft Teams,Productivity,6.49,3.0,2.0,True
+1073,Microsoft Teams,Productivity,22.31,2.0,5.0,True
+1081,Chrome,Utilities,14.64,3.0,4.0,False
+1077,Twitter,Social,32.43,0.0,3.0,False
+1069,Google Docs,Productivity,6.85,1.0,5.0,True
+1025,Netflix,Entertainment,43.06,1.0,2.0,False
+1047,Google Docs,Productivity,17.83,2.0,4.0,True
+1057,Gmail,Utilities,22.02,4.0,8.0,False
+1024,Microsoft Teams,Productivity,59.59,3.0,2.0,True
+1050,Google Docs,Productivity,20.01,3.0,7.0,True
+1007,Evernote,Productivity,13.81,5.0,4.0,True
+1100,Notion,Productivity,23.2,4.0,6.0,True
+1089,Evernote,Productivity,0.59,2.0,8.0,True
+1012,YouTube,Entertainment,22.03,3.0,5.0,False
+1019,Twitter,Social,77.17,1.0,4.0,False
+1100,Evernote,Productivity,38.52,1.0,6.0,True
+1077,Facebook,Social,30.32,2.0,4.0,False
+1066,Microsoft Teams,Productivity,58.11,1.0,2.0,True
+1090,Weather,Utilities,19.84,1.0,8.0,False
+1080,Netflix,Entertainment,57.19,0.0,0.0,False
+1042,Spotify,Entertainment,16.22,0.0,5.0,False
+1014,Notion,Productivity,56.8,2.0,5.0,True
+1029,Weather,Utilities,62.69,2.0,4.0,False
+1099,YouTube,Entertainment,75.64,4.0,9.0,False
+1069,Google Maps,Utilities,3.36,1.0,6.0,False
+1069,Chrome,Utilities,4.68,5.0,6.0,False
+1033,Gmail,Utilities,1.14,1.0,5.0,False
+1006,YouTube,Entertainment,7.02,1.0,4.0,False
+1067,Google Maps,Utilities,35.29,2.0,3.0,False
+1001,Slack,Productivity,0.77,2.0,7.0,True
+1003,TikTok,Entertainment,1.71,1.0,3.0,False
+1042,Snapchat,Social,64.38,3.0,9.0,False
+1040,TikTok,Entertainment,2.89,2.0,6.0,False
+1058,Instagram,Social,10.32,2.0,6.0,False
+1082,WhatsApp,Social,30.26,3.0,4.0,False
+1089,YouTube,Entertainment,3.25,0.0,4.0,False
+1075,Slack,Productivity,6.41,0.0,4.0,True
+1083,Microsoft Teams,Productivity,98.53,1.0,1.0,True
+1092,Slack,Productivity,36.24,3.0,5.0,True
+1054,Notion,Productivity,156.0,2.0,6.0,True
+1045,Microsoft Teams,Productivity,50.19,3.0,4.0,True
+1054,WhatsApp,Social,165.37,2.0,4.0,False
+1085,Google Docs,Productivity,30.98,3.0,3.0,True
+1030,Camera,Utilities,7.72,2.0,4.0,False
+1007,TikTok,Entertainment,16.43,2.0,1.0,False
+1081,WhatsApp,Social,35.28,1.0,6.0,False
+1085,Snapchat,Social,4.67,2.0,7.0,False
+1028,Microsoft Teams,Productivity,19.47,3.0,6.0,True
+1097,Google Maps,Utilities,30.03,2.0,2.0,False
+1049,WhatsApp,Social,37.87,1.0,3.0,False
+1039,WhatsApp,Social,1.26,1.0,6.0,False
+1047,Twitter,Social,39.17,1.0,7.0,False
+1001,Slack,Productivity,26.46,0.0,8.0,True
+1088,Gmail,Utilities,12.14,1.0,2.0,False
+1086,Evernote,Productivity,1.45,1.0,4.0,True
+1100,Chrome,Utilities,39.69,3.0,8.0,False
+1080,Google Docs,Productivity,28.08,3.0,8.0,True
+1098,Instagram,Social,23.97,5.0,4.0,False
+1018,Netflix,Entertainment,10.94,3.0,9.0,False
+1036,Slack,Productivity,8.69,4.0,3.0,True
+1002,Instagram,Social,3.15,2.0,3.0,False
+1049,Netflix,Entertainment,19.26,3.0,5.0,False
+1004,Google Docs,Productivity,7.1,3.0,4.0,True
+1086,Netflix,Entertainment,176.98,3.0,3.0,False
+1076,Camera,Utilities,52.11,3.0,2.0,False
+1051,Evernote,Productivity,26.34,1.0,5.0,True
+1048,Chrome,Utilities,50.13,0.0,8.0,False
+1089,Spotify,Entertainment,22.74,0.0,2.0,False
+1073,YouTube,Entertainment,22.22,1.0,8.0,False
+1057,Weather,Utilities,22.6,1.0,2.0,False
+1040,Slack,Productivity,87.33,1.0,5.0,True
+1086,WhatsApp,Social,34.94,4.0,2.0,False
+1058,Google Docs,Productivity,67.46,1.0,5.0,True
+1082,Twitch,Entertainment,3.46,4.0,4.0,False
+1035,Facebook,Social,2.41,4.0,4.0,False
+1019,Chrome,Utilities,2.16,5.0,3.0,False
+1068,Evernote,Productivity,17.25,2.0,5.0,True
+1072,Chrome,Utilities,0.52,1.0,5.0,False
+1063,Slack,Productivity,18.57,4.0,9.0,True
+1068,Evernote,Productivity,61.86,2.0,5.0,True
+1058,Microsoft Teams,Productivity,3.49,2.0,4.0,True
+1070,TikTok,Entertainment,25.2,2.0,5.0,False
+1089,Weather,Utilities,31.45,3.0,9.0,False
+1087,Twitch,Entertainment,10.83,1.0,6.0,False
+1016,Instagram,Social,10.4,3.0,7.0,False
+1000,TikTok,Entertainment,31.09,3.0,4.0,False
+1094,Facebook,Social,37.27,3.0,2.0,False
+1028,YouTube,Entertainment,73.79,2.0,6.0,False
+1093,Slack,Productivity,115.19,3.0,6.0,True
+1054,Chrome,Utilities,8.19,3.0,5.0,False
+1058,Facebook,Social,12.94,4.0,2.0,False
+1052,Spotify,Entertainment,46.45,1.0,2.0,False
+1067,Twitter,Social,22.74,1.0,3.0,False
+1054,Twitch,Entertainment,28.09,4.0,5.0,False
+1092,Spotify,Entertainment,26.42,2.0,3.0,False
+1025,Spotify,Entertainment,40.41,2.0,3.0,False
+1004,Spotify,Entertainment,155.53,2.0,8.0,False
+1062,Facebook,Social,25.58,0.0,6.0,False
+1050,Weather,Utilities,19.37,1.0,6.0,False
+1075,Spotify,Entertainment,18.49,0.0,4.0,False
+1060,Evernote,Productivity,41.41,1.0,6.0,True
+1028,Netflix,Entertainment,10.52,2.0,1.0,False
+1018,Netflix,Entertainment,21.14,0.0,6.0,False
+1054,Notion,Productivity,33.08,1.0,5.0,True
+1061,Evernote,Productivity,1.8,3.0,3.0,True
+1099,Twitter,Social,79.77,2.0,6.0,False
+1050,Chrome,Utilities,31.24,2.0,5.0,False
+1039,Google Maps,Utilities,6.61,1.0,7.0,False
+1094,WhatsApp,Social,10.56,1.0,7.0,False
+1096,Netflix,Entertainment,18.36,2.0,2.0,False
+1091,YouTube,Entertainment,76.02,1.0,6.0,False
+1001,Google Maps,Utilities,85.0,4.0,6.0,False
+1045,Chrome,Utilities,2.84,2.0,4.0,False
+1089,Gmail,Utilities,19.48,2.0,9.0,False
+1042,TikTok,Entertainment,17.12,0.0,2.0,False
+1005,Chrome,Utilities,18.1,2.0,2.0,False
+1062,Google Docs,Productivity,11.08,2.0,6.0,True
+1056,Chrome,Utilities,20.97,1.0,7.0,False
+1002,Evernote,Productivity,5.09,1.0,5.0,True
+1064,Notion,Productivity,48.93,3.0,5.0,True
+1038,Snapchat,Social,35.7,4.0,3.0,False
+1034,Netflix,Entertainment,73.84,4.0,2.0,False
+1003,Twitter,Social,24.67,1.0,8.0,False
+1093,Gmail,Utilities,17.85,0.0,2.0,False
+1001,Evernote,Productivity,29.25,2.0,4.0,True
+1070,Evernote,Productivity,83.73,1.0,2.0,True
+1041,Gmail,Utilities,69.05,1.0,7.0,False
+1056,Camera,Utilities,2.96,1.0,1.0,False
+1086,WhatsApp,Social,44.51,2.0,6.0,False
+1078,Weather,Utilities,83.34,5.0,5.0,False
+1018,Facebook,Social,10.93,0.0,5.0,False
+1070,Twitter,Social,32.14,1.0,7.0,False
+1037,Notion,Productivity,11.2,1.0,0.0,True
+1030,Microsoft Teams,Productivity,62.83,0.0,9.0,True
+1081,WhatsApp,Social,31.13,1.0,4.0,False
+1002,Google Maps,Utilities,44.55,2.0,5.0,False
+1080,Slack,Productivity,4.59,2.0,6.0,True
+1074,Gmail,Utilities,8.34,1.0,6.0,False
+1057,Gmail,Utilities,72.25,0.0,10.0,False
+1064,WhatsApp,Social,35.38,1.0,9.0,False
+1030,Microsoft Teams,Productivity,32.93,0.0,5.0,True
+1010,Twitter,Social,36.04,1.0,5.0,False
+1018,Weather,Utilities,11.35,3.0,2.0,False
+1038,Spotify,Entertainment,23.92,3.0,3.0,False
+1056,Evernote,Productivity,2.76,5.0,9.0,True
+1063,Camera,Utilities,32.55,0.0,3.0,False
+1008,Instagram,Social,23.1,1.0,4.0,False
+1035,Weather,Utilities,17.66,3.0,2.0,False
+1067,Slack,Productivity,29.79,2.0,5.0,True
+1067,Notion,Productivity,46.89,3.0,4.0,True
+1054,TikTok,Entertainment,1.5,2.0,7.0,False
+1098,Notion,Productivity,21.91,1.0,10.0,True
+1010,TikTok,Entertainment,27.69,4.0,7.0,False
+1072,Twitter,Social,1.05,2.0,4.0,False
+1062,Twitter,Social,67.76,0.0,7.0,False
+1049,YouTube,Entertainment,204.18,1.0,5.0,False
+1069,Google Docs,Productivity,105.9,0.0,6.0,True
+1075,Google Maps,Utilities,17.44,2.0,9.0,False
+1063,Slack,Productivity,86.81,2.0,5.0,True
+1029,Google Maps,Utilities,5.71,2.0,5.0,False
+1034,Gmail,Utilities,51.39,2.0,1.0,False
+1047,TikTok,Entertainment,0.49,0.0,5.0,False
+1043,YouTube,Entertainment,9.36,3.0,2.0,False
+1039,Evernote,Productivity,7.36,2.0,4.0,True
+1031,Notion,Productivity,52.9,2.0,9.0,True
+1030,Chrome,Utilities,73.61,2.0,6.0,False
+1003,Chrome,Utilities,17.92,2.0,8.0,False
+1029,Gmail,Utilities,2.27,3.0,2.0,False
+1057,Slack,Productivity,107.99,2.0,7.0,True
+1039,WhatsApp,Social,7.36,3.0,6.0,False
+1034,Microsoft Teams,Productivity,0.37,1.0,5.0,True
+1060,Google Docs,Productivity,32.32,4.0,8.0,True
+1100,Instagram,Social,6.33,1.0,2.0,False
+1044,Google Maps,Utilities,76.06,1.0,2.0,False
+1016,Google Maps,Utilities,35.0,0.0,5.0,False
+1055,Gmail,Utilities,60.11,5.0,6.0,False
+1009,TikTok,Entertainment,6.37,3.0,4.0,False
+1023,Instagram,Social,11.52,0.0,3.0,False
+1027,Snapchat,Social,8.12,3.0,5.0,False
+1026,Spotify,Entertainment,20.23,1.0,8.0,False
+1039,Evernote,Productivity,29.62,1.0,6.0,True
+1038,Spotify,Entertainment,73.59,0.0,5.0,False
+1083,Netflix,Entertainment,32.28,4.0,6.0,False
+1031,Notion,Productivity,39.42,1.0,4.0,True
+1073,Netflix,Entertainment,12.1,3.0,7.0,False
+1087,Microsoft Teams,Productivity,20.86,2.0,5.0,True
+1024,Snapchat,Social,101.88,0.0,10.0,False
+1055,Twitter,Social,33.18,4.0,6.0,False
+1002,Weather,Utilities,23.75,2.0,7.0,False
+1098,Slack,Productivity,6.57,4.0,8.0,True
+1003,Netflix,Entertainment,22.26,1.0,3.0,False
+1004,Camera,Utilities,12.72,2.0,6.0,False
+1057,Instagram,Social,12.59,2.0,4.0,False
+1024,Slack,Productivity,1.84,4.0,1.0,True
+1035,Google Maps,Utilities,66.52,2.0,3.0,False
+1040,YouTube,Entertainment,61.31,4.0,2.0,False
+1011,Facebook,Social,94.96,1.0,3.0,False
+1079,Microsoft Teams,Productivity,15.26,4.0,2.0,True
+1068,TikTok,Entertainment,51.26,3.0,4.0,False
+1054,WhatsApp,Social,1.4,4.0,2.0,False
+1020,Google Maps,Utilities,4.77,1.0,4.0,False
+1092,Netflix,Entertainment,22.2,3.0,6.0,False
+1043,Microsoft Teams,Productivity,24.58,3.0,3.0,True
+1073,WhatsApp,Social,13.29,2.0,7.0,False
+1005,Slack,Productivity,13.74,5.0,3.0,True
+1007,WhatsApp,Social,55.58,2.0,4.0,False
+1075,TikTok,Entertainment,37.76,2.0,7.0,False
+1036,Microsoft Teams,Productivity,58.55,3.0,3.0,True
+1035,Twitter,Social,43.94,5.0,3.0,False
+1041,Evernote,Productivity,34.37,0.0,7.0,True
+1050,Google Maps,Utilities,9.84,1.0,8.0,False
+1093,Snapchat,Social,20.13,3.0,3.0,False
+1098,Evernote,Productivity,93.16,1.0,5.0,True
+1077,Weather,Utilities,24.21,1.0,5.0,False
+1096,Snapchat,Social,10.88,3.0,4.0,False
+1082,Camera,Utilities,51.86,1.0,3.0,False
+1031,Google Maps,Utilities,14.06,0.0,5.0,False
+1011,Twitter,Social,15.19,6.0,6.0,False
+1058,Weather,Utilities,24.5,0.0,10.0,False
+1012,Chrome,Utilities,7.53,1.0,4.0,False
+1016,Chrome,Utilities,3.8,0.0,7.0,False
+1095,Facebook,Social,43.52,2.0,9.0,False
+1061,Microsoft Teams,Productivity,27.11,5.0,4.0,True
+1072,Notion,Productivity,97.83,2.0,4.0,True
+1034,Microsoft Teams,Productivity,9.24,0.0,3.0,True
+1021,Chrome,Utilities,14.22,1.0,2.0,False
+1030,Snapchat,Social,1.53,1.0,6.0,False
+1056,Google Maps,Utilities,10.35,2.0,2.0,False
+1096,Weather,Utilities,36.09,1.0,3.0,False
+1097,Twitter,Social,22.95,0.0,5.0,False
+1026,Twitter,Social,9.76,1.0,5.0,False
+1016,Instagram,Social,13.37,4.0,3.0,False
+1028,Microsoft Teams,Productivity,22.28,1.0,5.0,True
+1050,Netflix,Entertainment,0.61,2.0,6.0,False
+1051,TikTok,Entertainment,22.88,1.0,6.0,False
+1038,Twitch,Entertainment,30.16,4.0,7.0,False
+1065,Google Docs,Productivity,14.05,2.0,5.0,True
+1015,Camera,Utilities,11.85,2.0,4.0,False
+1030,Chrome,Utilities,36.25,1.0,8.0,False
+1067,Weather,Utilities,30.02,1.0,3.0,False
+1049,Google Docs,Productivity,36.0,4.0,4.0,True
+1016,Twitter,Social,81.37,4.0,7.0,False
+1081,Google Maps,Utilities,3.02,1.0,5.0,False
+1047,Netflix,Entertainment,4.38,0.0,9.0,False
+1034,TikTok,Entertainment,67.5,3.0,2.0,False
+1009,Slack,Productivity,9.4,5.0,5.0,True
+1066,Spotify,Entertainment,36.79,0.0,2.0,False
+1096,Google Maps,Utilities,5.43,3.0,1.0,False
+1062,Spotify,Entertainment,34.83,2.0,8.0,False
+1011,Twitch,Entertainment,3.19,1.0,3.0,False
+1056,Snapchat,Social,71.79,1.0,6.0,False
+1094,Facebook,Social,26.72,1.0,3.0,False
+1069,Twitter,Social,1.58,3.0,4.0,False
+1097,Google Docs,Productivity,43.46,2.0,6.0,True
+1051,Google Docs,Productivity,36.14,1.0,2.0,True
+1043,Spotify,Entertainment,43.03,3.0,8.0,False
+1081,Gmail,Utilities,8.37,5.0,3.0,False
+1075,YouTube,Entertainment,7.13,4.0,10.0,False
+1041,Facebook,Social,46.79,3.0,2.0,False
+1080,TikTok,Entertainment,37.09,2.0,2.0,False
+1046,Slack,Productivity,45.54,2.0,5.0,True
+1072,Notion,Productivity,45.64,1.0,6.0,True
+1005,Netflix,Entertainment,103.31,1.0,5.0,False
+1057,YouTube,Entertainment,20.23,2.0,6.0,False
+1038,Facebook,Social,0.03,0.0,6.0,False
+1083,Chrome,Utilities,19.31,2.0,3.0,False
+1100,Camera,Utilities,2.07,2.0,6.0,False
+1023,Spotify,Entertainment,73.22,1.0,8.0,False
+1027,Twitch,Entertainment,93.6,1.0,9.0,False
+1081,Google Maps,Utilities,34.83,1.0,3.0,False
+1033,Weather,Utilities,7.33,2.0,4.0,False
+1018,Chrome,Utilities,3.77,0.0,5.0,False
+1031,WhatsApp,Social,26.23,3.0,3.0,False
+1054,Spotify,Entertainment,13.95,3.0,3.0,False
+1092,Snapchat,Social,93.72,1.0,9.0,False
+1041,Gmail,Utilities,2.22,2.0,3.0,False
+1052,Slack,Productivity,81.21,4.0,4.0,True
+1095,Twitch,Entertainment,19.35,2.0,1.0,False
+1041,Twitter,Social,125.59,2.0,7.0,False
+1040,Microsoft Teams,Productivity,33.25,4.0,9.0,True
+1066,Camera,Utilities,18.76,4.0,5.0,False
+1074,Instagram,Social,38.8,3.0,4.0,False
+1089,Twitter,Social,25.8,2.0,4.0,False
+1039,Weather,Utilities,21.59,0.0,2.0,False
+1079,Slack,Productivity,1.11,2.0,4.0,True
+1096,Gmail,Utilities,1.56,3.0,6.0,False
+1001,Slack,Productivity,37.73,1.0,3.0,True
+1087,Twitch,Entertainment,0.06,2.0,6.0,False
+1078,Twitter,Social,8.37,3.0,5.0,False
+1056,Notion,Productivity,1.6,1.0,6.0,True
+1053,WhatsApp,Social,0.5,2.0,8.0,False
+1044,Weather,Utilities,65.35,1.0,2.0,False
+1008,Google Docs,Productivity,27.24,1.0,8.0,True
+1027,Notion,Productivity,8.16,1.0,7.0,True
+1003,Google Docs,Productivity,0.56,8.0,1.0,True
+1093,Google Maps,Utilities,82.74,0.0,1.0,False
+1100,Facebook,Social,23.95,2.0,7.0,False
+1032,Evernote,Productivity,54.33,0.0,8.0,True
+1094,Camera,Utilities,31.74,2.0,4.0,False
+1022,Chrome,Utilities,21.03,5.0,9.0,False
+1082,Gmail,Utilities,12.7,3.0,5.0,False
+1076,Notion,Productivity,23.18,1.0,6.0,True
+1099,Camera,Utilities,36.23,2.0,6.0,False
+1099,Spotify,Entertainment,15.14,1.0,7.0,False
+1073,Twitter,Social,85.92,0.0,7.0,False
+1060,Facebook,Social,20.24,3.0,5.0,False
+1091,Microsoft Teams,Productivity,26.45,1.0,7.0,True
+1058,YouTube,Entertainment,18.51,1.0,7.0,False
+1078,Evernote,Productivity,47.08,3.0,6.0,True
+1083,Google Docs,Productivity,97.83,2.0,1.0,True
+1057,Facebook,Social,64.16,2.0,2.0,False
+1076,Twitter,Social,11.88,0.0,3.0,False
+1009,Slack,Productivity,6.33,3.0,10.0,True
+1064,Slack,Productivity,18.07,2.0,4.0,True
+1022,Evernote,Productivity,6.41,0.0,6.0,True
+1053,WhatsApp,Social,28.82,2.0,2.0,False
+1056,Netflix,Entertainment,54.83,2.0,7.0,False
+1099,TikTok,Entertainment,19.25,4.0,5.0,False
+1096,Gmail,Utilities,25.07,0.0,5.0,False
+1088,Snapchat,Social,104.38,2.0,1.0,False
+1081,Facebook,Social,3.47,3.0,9.0,False
+1022,Google Maps,Utilities,20.33,3.0,6.0,False
+1025,Notion,Productivity,53.8,3.0,6.0,True
+1039,Netflix,Entertainment,2.41,2.0,4.0,False
+1056,Google Maps,Utilities,23.49,5.0,9.0,False
+1038,Camera,Utilities,77.02,2.0,3.0,False
+1012,Camera,Utilities,44.11,2.0,2.0,False
+1028,Gmail,Utilities,44.38,3.0,5.0,False
+1036,Slack,Productivity,35.89,1.0,3.0,True
+1025,Camera,Utilities,7.95,2.0,3.0,False
+1047,Chrome,Utilities,8.19,0.0,8.0,False
+1090,Facebook,Social,76.55,1.0,8.0,False
+1013,Evernote,Productivity,31.1,1.0,7.0,True
+1028,Camera,Utilities,4.44,5.0,4.0,False
+1026,Google Maps,Utilities,10.08,1.0,6.0,False
+1005,Google Maps,Utilities,40.88,2.0,5.0,False
+1062,WhatsApp,Social,25.82,1.0,7.0,False
+1041,WhatsApp,Social,16.39,0.0,3.0,False
+1082,Netflix,Entertainment,9.11,2.0,4.0,False
+1037,Facebook,Social,28.57,0.0,7.0,False
+1009,Facebook,Social,16.49,1.0,2.0,False
+1066,Twitch,Entertainment,11.49,3.0,6.0,False
+1009,Facebook,Social,51.78,1.0,6.0,False
+1023,Google Docs,Productivity,3.8,2.0,7.0,True
+1057,Twitter,Social,19.81,5.0,7.0,False
+1092,TikTok,Entertainment,77.49,2.0,1.0,False
+1013,Microsoft Teams,Productivity,30.98,0.0,9.0,True
+1039,Evernote,Productivity,15.5,1.0,7.0,True
+1067,TikTok,Entertainment,0.43,1.0,6.0,False
+1063,Chrome,Utilities,31.66,3.0,6.0,False
+1051,Weather,Utilities,44.71,3.0,6.0,False
+1083,Slack,Productivity,56.83,4.0,5.0,True
+1017,Slack,Productivity,13.18,1.0,3.0,True
+1088,Camera,Utilities,30.51,2.0,6.0,False
+1085,Instagram,Social,63.91,0.0,3.0,False
+1069,Slack,Productivity,38.93,0.0,3.0,True
+1053,Notion,Productivity,22.73,2.0,7.0,True
+1002,Camera,Utilities,16.4,3.0,4.0,False
+1036,Spotify,Entertainment,4.11,4.0,1.0,False
+1017,YouTube,Entertainment,14.75,1.0,5.0,False
+1021,Twitch,Entertainment,31.96,2.0,5.0,False
+1070,TikTok,Entertainment,21.31,0.0,2.0,False
+1039,Google Docs,Productivity,9.71,2.0,9.0,True
+1049,Gmail,Utilities,83.9,3.0,2.0,False
+1079,Evernote,Productivity,88.73,1.0,4.0,True
+1079,WhatsApp,Social,29.17,2.0,5.0,False
+1080,Snapchat,Social,29.31,2.0,4.0,False
+1063,Evernote,Productivity,41.61,0.0,8.0,True
+1017,Facebook,Social,33.34,0.0,6.0,False
+1092,Snapchat,Social,27.18,2.0,4.0,False
+1041,Instagram,Social,68.73,4.0,4.0,False
+1042,WhatsApp,Social,114.58,1.0,5.0,False
+1020,Camera,Utilities,2.33,1.0,4.0,False
+1098,Notion,Productivity,4.8,1.0,2.0,True
+1099,Snapchat,Social,0.28,2.0,7.0,False
+1054,Camera,Utilities,41.38,3.0,2.0,False
+1025,Chrome,Utilities,1.24,2.0,3.0,False
+1047,Notion,Productivity,30.21,3.0,4.0,True
+1042,Instagram,Social,209.48,3.0,5.0,False
+1028,Evernote,Productivity,13.05,0.0,4.0,True
+1015,WhatsApp,Social,32.36,5.0,3.0,False
+1088,TikTok,Entertainment,29.09,2.0,5.0,False
+1089,Spotify,Entertainment,22.95,1.0,2.0,False
+1038,Microsoft Teams,Productivity,10.32,1.0,4.0,True
+1021,Gmail,Utilities,15.53,0.0,7.0,False
+1010,Microsoft Teams,Productivity,18.39,2.0,8.0,True
+1015,Spotify,Entertainment,16.64,2.0,7.0,False
+1089,Gmail,Utilities,8.55,2.0,8.0,False
+1037,Google Maps,Utilities,26.23,5.0,0.0,False
+1065,Instagram,Social,6.24,3.0,7.0,False
+1082,Netflix,Entertainment,64.7,2.0,7.0,False
+1025,Slack,Productivity,5.4,5.0,4.0,True
+1036,Chrome,Utilities,22.86,4.0,3.0,False
+1001,Facebook,Social,164.81,2.0,7.0,False
+1064,YouTube,Entertainment,14.57,0.0,4.0,False
+1048,Netflix,Entertainment,38.59,1.0,2.0,False
+1062,Facebook,Social,6.06,1.0,3.0,False
+1013,Slack,Productivity,0.2,0.0,5.0,True
+1024,Google Maps,Utilities,13.59,2.0,2.0,False
+1012,Gmail,Utilities,24.74,2.0,2.0,False
+1040,TikTok,Entertainment,26.21,2.0,12.0,False
+1058,Notion,Productivity,1.51,4.0,0.0,True
+1030,WhatsApp,Social,64.29,2.0,5.0,False
+1070,Twitter,Social,65.92,1.0,4.0,False
+1071,WhatsApp,Social,23.44,3.0,3.0,False
+1010,Google Maps,Utilities,7.65,3.0,3.0,False
+1045,Microsoft Teams,Productivity,1.83,3.0,4.0,True
+1048,Camera,Utilities,101.44,1.0,4.0,False
+1096,Weather,Utilities,52.88,3.0,10.0,False
+1056,Gmail,Utilities,42.59,3.0,4.0,False
+1045,Evernote,Productivity,2.53,5.0,5.0,True
+1021,YouTube,Entertainment,2.24,2.0,1.0,False
+1089,Twitter,Social,124.97,3.0,5.0,False
+1002,Netflix,Entertainment,14.61,1.0,2.0,False
+1029,Facebook,Social,27.3,3.0,6.0,False
+1028,Twitter,Social,61.45,2.0,5.0,False
+1047,Twitter,Social,0.94,0.0,4.0,False
+1015,Slack,Productivity,10.74,0.0,8.0,True
+1080,Twitch,Entertainment,4.95,1.0,3.0,False
+1046,Google Maps,Utilities,26.67,2.0,7.0,False
+1067,Instagram,Social,0.53,2.0,2.0,False
+1061,Google Maps,Utilities,9.98,1.0,6.0,False
+1069,Microsoft Teams,Productivity,16.76,3.0,8.0,True
+1020,Camera,Utilities,19.1,2.0,6.0,False
+1071,Snapchat,Social,109.16,3.0,4.0,False
+1018,Spotify,Entertainment,48.51,2.0,2.0,False
+1043,Netflix,Entertainment,11.84,0.0,7.0,False
+1038,Instagram,Social,1.19,1.0,5.0,False
+1018,Snapchat,Social,36.23,2.0,3.0,False
+1023,Google Maps,Utilities,29.17,5.0,6.0,False
+1062,TikTok,Entertainment,35.08,0.0,6.0,False
+1021,YouTube,Entertainment,46.1,1.0,6.0,False
+1010,Camera,Utilities,58.75,1.0,2.0,False
+1046,YouTube,Entertainment,1.45,2.0,2.0,False
+1045,Twitter,Social,37.81,1.0,5.0,False
+1003,Slack,Productivity,45.76,2.0,4.0,True
+1055,Netflix,Entertainment,4.94,1.0,10.0,False
+1048,WhatsApp,Social,26.8,1.0,6.0,False
+1038,Netflix,Entertainment,8.61,2.0,5.0,False
+1000,Snapchat,Social,12.9,4.0,4.0,False
+1026,Notion,Productivity,18.1,3.0,5.0,True
+1013,Spotify,Entertainment,10.48,0.0,7.0,False
+1048,Gmail,Utilities,50.0,2.0,8.0,False
+1013,Chrome,Utilities,0.41,1.0,6.0,False
+1041,Google Maps,Utilities,39.38,1.0,6.0,False
+1070,Spotify,Entertainment,12.43,2.0,6.0,False
+1060,Snapchat,Social,14.65,2.0,1.0,False
+1058,Instagram,Social,11.81,1.0,4.0,False
+1081,Gmail,Utilities,31.4,0.0,2.0,False
+1032,Gmail,Utilities,61.71,5.0,6.0,False
+1099,Evernote,Productivity,53.21,3.0,8.0,True
+1030,Google Maps,Utilities,31.16,5.0,9.0,False
+1072,Instagram,Social,10.78,2.0,6.0,False
+1022,Microsoft Teams,Productivity,43.69,6.0,5.0,True
+1069,Notion,Productivity,0.01,1.0,5.0,True
+1045,WhatsApp,Social,6.3,1.0,8.0,False
+1001,Notion,Productivity,65.7,4.0,5.0,True
+1100,Evernote,Productivity,16.17,2.0,1.0,True
+1046,Twitter,Social,57.72,2.0,4.0,False
+1066,Twitch,Entertainment,2.61,3.0,3.0,False
+1059,Facebook,Social,8.11,4.0,6.0,False
+1083,Google Maps,Utilities,62.96,1.0,6.0,False
+1050,YouTube,Entertainment,27.67,3.0,7.0,False
+1033,Slack,Productivity,64.93,5.0,3.0,True
+1069,TikTok,Entertainment,55.43,2.0,5.0,False
+1051,Snapchat,Social,59.13,4.0,8.0,False
+1067,Chrome,Utilities,11.92,2.0,2.0,False
+1007,Google Maps,Utilities,83.22,2.0,8.0,False
+1067,Weather,Utilities,3.14,4.0,2.0,False
+1065,Slack,Productivity,13.27,3.0,5.0,True
+1016,TikTok,Entertainment,79.68,1.0,3.0,False
+1058,Gmail,Utilities,0.67,3.0,3.0,False
+1003,Google Docs,Productivity,30.89,0.0,4.0,True
+1043,Notion,Productivity,24.92,1.0,7.0,True
+1041,YouTube,Entertainment,28.44,1.0,6.0,False
+1009,Slack,Productivity,25.27,2.0,6.0,True
+1051,TikTok,Entertainment,79.49,1.0,6.0,False
+1056,Instagram,Social,29.99,3.0,5.0,False
+1020,WhatsApp,Social,19.74,1.0,2.0,False
+1016,TikTok,Entertainment,4.85,0.0,4.0,False
+1013,Snapchat,Social,22.2,2.0,3.0,False
+1029,Camera,Utilities,15.59,2.0,5.0,False
+1062,Snapchat,Social,91.04,4.0,6.0,False
+1067,Notion,Productivity,2.23,3.0,2.0,True
+1024,Google Maps,Utilities,20.81,2.0,3.0,False
+1076,Twitch,Entertainment,9.17,1.0,3.0,False
+1043,Weather,Utilities,24.43,0.0,5.0,False
+1067,Twitch,Entertainment,17.54,2.0,7.0,False
+1008,Weather,Utilities,26.21,3.0,7.0,False
+1008,YouTube,Entertainment,18.27,2.0,6.0,False
+1075,Google Docs,Productivity,23.08,1.0,3.0,True
+1007,Slack,Productivity,3.11,2.0,8.0,True
+1030,Chrome,Utilities,84.4,2.0,9.0,False
+1027,Facebook,Social,78.08,1.0,5.0,False
+1091,Microsoft Teams,Productivity,42.77,1.0,6.0,True
+1094,Facebook,Social,11.37,1.0,5.0,False
+1006,Chrome,Utilities,20.34,1.0,4.0,False
+1070,Twitter,Social,19.63,1.0,3.0,False
+1014,Weather,Utilities,10.47,4.0,5.0,False
+1096,Facebook,Social,65.48,1.0,3.0,False
+1056,Twitter,Social,31.36,2.0,7.0,False
+1016,Slack,Productivity,10.02,2.0,3.0,True
+1041,Twitter,Social,44.59,2.0,11.0,False
+1011,Gmail,Utilities,8.21,3.0,4.0,False
+1074,Evernote,Productivity,67.1,3.0,7.0,True
+1096,Chrome,Utilities,62.33,0.0,3.0,False
+1080,YouTube,Entertainment,32.07,1.0,7.0,False
+1079,Spotify,Entertainment,25.16,1.0,8.0,False
+1039,Snapchat,Social,8.98,2.0,7.0,False
+1095,Gmail,Utilities,19.34,3.0,4.0,False
+1034,Facebook,Social,1.85,2.0,7.0,False
+1097,Google Docs,Productivity,3.62,1.0,7.0,True
+1025,Weather,Utilities,113.89,1.0,7.0,False
+1057,Google Docs,Productivity,68.26,2.0,10.0,True
+1016,Twitch,Entertainment,26.43,1.0,8.0,False
+1047,Weather,Utilities,22.11,2.0,3.0,False
+1051,Google Maps,Utilities,69.29,0.0,2.0,False
+1036,TikTok,Entertainment,22.78,2.0,2.0,False
+1027,Evernote,Productivity,7.67,0.0,4.0,True
+1043,Facebook,Social,24.91,1.0,5.0,False
+1072,Facebook,Social,55.91,1.0,1.0,False
+1018,Snapchat,Social,44.47,3.0,3.0,False
+1060,Facebook,Social,40.22,6.0,4.0,False
+1009,Google Docs,Productivity,59.53,1.0,8.0,True
+1088,Facebook,Social,49.6,0.0,4.0,False
+1093,Twitch,Entertainment,31.01,1.0,4.0,False
+1063,TikTok,Entertainment,0.77,2.0,7.0,False
+1065,Microsoft Teams,Productivity,15.4,2.0,4.0,True
+1023,Notion,Productivity,14.77,4.0,6.0,True
+1071,Twitter,Social,20.06,0.0,3.0,False
+1054,Microsoft Teams,Productivity,18.06,4.0,5.0,True
+1064,Chrome,Utilities,10.37,3.0,6.0,False
+1040,Netflix,Entertainment,2.71,1.0,4.0,False
+1011,Google Maps,Utilities,15.61,2.0,5.0,False
+1051,Twitch,Entertainment,120.14,4.0,6.0,False
+1015,Google Maps,Utilities,33.26,2.0,7.0,False
+1083,Notion,Productivity,26.78,2.0,6.0,True
+1038,Snapchat,Social,9.2,3.0,4.0,False
+1048,Chrome,Utilities,6.24,1.0,8.0,False
+1095,Evernote,Productivity,14.73,2.0,3.0,True
+1084,Snapchat,Social,13.45,2.0,3.0,False
+1005,Slack,Productivity,9.45,3.0,12.0,True
+1033,Gmail,Utilities,6.27,5.0,7.0,False
+1033,Weather,Utilities,20.2,1.0,7.0,False
+1084,Microsoft Teams,Productivity,16.07,0.0,2.0,True
+1055,Netflix,Entertainment,11.31,1.0,4.0,False
+1063,Snapchat,Social,73.56,1.0,3.0,False
+1085,Instagram,Social,7.15,3.0,4.0,False
+1098,WhatsApp,Social,131.16,0.0,9.0,False
+1072,Facebook,Social,3.97,4.0,3.0,False
+1047,Snapchat,Social,14.74,1.0,2.0,False
+1093,Microsoft Teams,Productivity,40.31,2.0,5.0,True
+1050,Camera,Utilities,61.71,3.0,7.0,False
+1054,Google Maps,Utilities,79.6,2.0,5.0,False
+1085,Netflix,Entertainment,14.65,3.0,6.0,False
+1033,Twitch,Entertainment,46.38,2.0,6.0,False
+1070,Spotify,Entertainment,40.18,1.0,6.0,False
+1088,Snapchat,Social,138.82,1.0,7.0,False
+1002,Microsoft Teams,Productivity,19.58,1.0,4.0,True
+1054,Google Maps,Utilities,4.16,2.0,5.0,False
+1087,Twitch,Entertainment,1.17,3.0,8.0,False
+1085,YouTube,Entertainment,27.65,0.0,3.0,False
+1095,Twitter,Social,5.1,1.0,5.0,False
+1037,Google Docs,Productivity,117.68,1.0,6.0,True
+1099,Twitch,Entertainment,94.94,1.0,4.0,False
+1082,WhatsApp,Social,63.44,2.0,11.0,False
+1073,Evernote,Productivity,9.47,3.0,2.0,True
+1092,Weather,Utilities,8.07,1.0,1.0,False
+1008,Netflix,Entertainment,17.19,2.0,6.0,False
+1063,Twitch,Entertainment,34.33,2.0,4.0,False
+1070,TikTok,Entertainment,63.45,2.0,10.0,False
+1061,Twitch,Entertainment,1.39,0.0,4.0,False
+1010,Slack,Productivity,1.48,4.0,5.0,True
+1022,Camera,Utilities,45.51,0.0,4.0,False
+1021,Spotify,Entertainment,4.95,0.0,6.0,False
+1072,YouTube,Entertainment,3.5,2.0,9.0,False
+1044,Gmail,Utilities,32.23,3.0,6.0,False
+1053,Instagram,Social,1.54,2.0,2.0,False
+1011,Google Maps,Utilities,1.4,2.0,2.0,False
+1048,Spotify,Entertainment,9.59,1.0,7.0,False
+1046,Spotify,Entertainment,27.03,2.0,4.0,False
+1086,Instagram,Social,61.59,5.0,4.0,False
+1024,Google Docs,Productivity,31.14,1.0,1.0,True
+1056,Twitter,Social,45.09,2.0,4.0,False
+1080,Evernote,Productivity,41.12,1.0,5.0,True
+1041,Slack,Productivity,17.97,0.0,4.0,True
+1055,Slack,Productivity,81.36,0.0,5.0,True
+1017,Chrome,Utilities,44.28,7.0,6.0,False
+1005,Snapchat,Social,18.47,3.0,2.0,False
+1093,TikTok,Entertainment,7.88,2.0,2.0,False
+1039,Chrome,Utilities,3.86,3.0,8.0,False
+1098,Weather,Utilities,1.32,1.0,6.0,False
+1079,WhatsApp,Social,4.5,4.0,7.0,False
+1057,Camera,Utilities,78.58,1.0,6.0,False
+1029,Weather,Utilities,42.33,3.0,5.0,False
+1015,Google Maps,Utilities,3.67,4.0,7.0,False
+1020,Slack,Productivity,28.81,2.0,2.0,True
+1054,Snapchat,Social,2.49,1.0,4.0,False
+1006,Twitter,Social,21.9,3.0,7.0,False
+1043,Camera,Utilities,29.98,0.0,6.0,False
+1097,Spotify,Entertainment,4.8,1.0,11.0,False
+1072,Google Maps,Utilities,4.19,4.0,10.0,False
+1055,Snapchat,Social,37.26,4.0,6.0,False
+1000,Facebook,Social,88.87,0.0,4.0,False
+1091,YouTube,Entertainment,10.96,1.0,6.0,False
+1100,Google Docs,Productivity,16.72,0.0,7.0,True
+1024,YouTube,Entertainment,63.64,0.0,4.0,False
+1084,Gmail,Utilities,39.13,4.0,7.0,False
+1024,Spotify,Entertainment,44.14,1.0,2.0,False
+1083,Slack,Productivity,6.05,0.0,7.0,True
+1047,Facebook,Social,1.99,2.0,2.0,False
+1017,Weather,Utilities,23.38,0.0,4.0,False
+1061,Notion,Productivity,16.57,0.0,7.0,True
+1036,Weather,Utilities,15.73,3.0,4.0,False
+1100,YouTube,Entertainment,47.42,2.0,4.0,False
+1002,Instagram,Social,8.54,1.0,5.0,False
+1015,Google Maps,Utilities,16.06,3.0,7.0,False
+1018,Chrome,Utilities,23.86,3.0,4.0,False
+1044,Instagram,Social,46.54,0.0,4.0,False
+1088,Spotify,Entertainment,12.61,4.0,5.0,False
+1048,Gmail,Utilities,49.4,2.0,4.0,False
+1086,Twitter,Social,27.28,1.0,6.0,False
+1038,Spotify,Entertainment,80.02,1.0,2.0,False
+1002,WhatsApp,Social,2.62,1.0,5.0,False
+1073,Google Maps,Utilities,33.39,0.0,5.0,False
+1036,Gmail,Utilities,7.69,1.0,7.0,False
+1001,Weather,Utilities,7.13,0.0,4.0,False
+1075,Twitter,Social,30.62,2.0,4.0,False
+1061,Spotify,Entertainment,3.0,4.0,9.0,False
+1038,Chrome,Utilities,115.36,2.0,2.0,False
+1016,WhatsApp,Social,1.1,7.0,6.0,False
+1034,Chrome,Utilities,21.04,2.0,3.0,False
+1046,Snapchat,Social,52.1,3.0,5.0,False
+1090,Snapchat,Social,7.49,1.0,5.0,False
+1042,Google Docs,Productivity,53.23,1.0,5.0,True
+1082,Netflix,Entertainment,6.95,2.0,1.0,False
+1069,Google Maps,Utilities,39.9,1.0,6.0,False
+1038,Netflix,Entertainment,34.25,2.0,5.0,False
+1010,Weather,Utilities,51.25,3.0,4.0,False
+1045,Evernote,Productivity,18.34,4.0,4.0,True
+1048,YouTube,Entertainment,2.87,1.0,8.0,False
+1055,Instagram,Social,49.79,1.0,3.0,False
+1027,Google Maps,Utilities,43.58,3.0,9.0,False
+1028,Google Docs,Productivity,6.34,0.0,6.0,True
+1093,Evernote,Productivity,22.41,1.0,5.0,True
+1076,YouTube,Entertainment,87.02,1.0,7.0,False
+1014,Google Docs,Productivity,6.89,5.0,3.0,True
+1003,Google Maps,Utilities,19.39,2.0,2.0,False
+1037,TikTok,Entertainment,1.89,2.0,6.0,False
+1037,Twitch,Entertainment,1.26,2.0,3.0,False
+1008,Camera,Utilities,27.94,1.0,2.0,False
+1076,Google Docs,Productivity,15.23,1.0,8.0,True
+1100,Gmail,Utilities,9.68,3.0,6.0,False
+1077,Notion,Productivity,4.66,2.0,4.0,True
+1030,Twitch,Entertainment,48.1,2.0,6.0,False
+1053,Google Docs,Productivity,16.24,1.0,7.0,True
+1002,Camera,Utilities,19.76,6.0,6.0,False
+1052,TikTok,Entertainment,26.94,3.0,5.0,False
+1004,WhatsApp,Social,7.46,3.0,4.0,False
+1042,TikTok,Entertainment,35.01,1.0,9.0,False
+1089,Gmail,Utilities,41.68,4.0,3.0,False
+1058,Slack,Productivity,6.72,3.0,6.0,True
+1007,Slack,Productivity,13.18,3.0,3.0,True
+1013,Chrome,Utilities,10.13,1.0,3.0,False
+1025,WhatsApp,Social,37.27,0.0,8.0,False
+1043,TikTok,Entertainment,22.37,2.0,10.0,False
+1022,Google Maps,Utilities,75.61,1.0,4.0,False
+1066,Twitter,Social,47.99,3.0,7.0,False
+1062,WhatsApp,Social,66.35,1.0,8.0,False
+1078,Google Maps,Utilities,14.08,2.0,4.0,False
+1008,Instagram,Social,83.02,1.0,4.0,False
+1027,Evernote,Productivity,54.71,1.0,3.0,True
+1057,Google Docs,Productivity,4.25,2.0,3.0,True
+1026,Slack,Productivity,32.42,1.0,3.0,True
+1078,Netflix,Entertainment,6.35,1.0,9.0,False
+1011,TikTok,Entertainment,55.42,2.0,5.0,False
+1028,WhatsApp,Social,16.35,0.0,6.0,False
+1049,Google Maps,Utilities,4.77,2.0,7.0,False
+1084,Instagram,Social,54.42,2.0,6.0,False
+1035,Google Docs,Productivity,3.77,0.0,8.0,True
+1058,Snapchat,Social,35.74,0.0,5.0,False
+1060,Evernote,Productivity,13.37,2.0,4.0,True
+1080,Twitch,Entertainment,21.13,1.0,5.0,False
+1096,Google Maps,Utilities,5.65,1.0,4.0,False
+1039,Google Maps,Utilities,23.95,0.0,8.0,False
+1031,Microsoft Teams,Productivity,39.81,3.0,11.0,True
+1062,Snapchat,Social,34.03,4.0,3.0,False
+1006,Google Maps,Utilities,32.91,3.0,7.0,False
+1000,Netflix,Entertainment,7.87,1.0,2.0,False
+1026,Snapchat,Social,0.84,1.0,8.0,False
+1085,YouTube,Entertainment,2.64,0.0,3.0,False
+1035,Chrome,Utilities,11.9,2.0,9.0,False
+1094,Camera,Utilities,7.6,1.0,2.0,False
+1007,YouTube,Entertainment,22.01,3.0,4.0,False
+1096,Spotify,Entertainment,14.19,3.0,6.0,False
+1089,Evernote,Productivity,12.09,3.0,7.0,True
+1099,Spotify,Entertainment,76.86,1.0,4.0,False
+1060,WhatsApp,Social,7.67,1.0,3.0,False
+1091,Microsoft Teams,Productivity,32.7,3.0,6.0,True
+1044,Chrome,Utilities,10.92,2.0,4.0,False
+1067,Notion,Productivity,50.39,3.0,5.0,True
+1044,Camera,Utilities,4.78,2.0,6.0,False
+1007,Spotify,Entertainment,6.17,3.0,2.0,False
+1020,Gmail,Utilities,8.01,3.0,6.0,False
+1024,Twitch,Entertainment,11.31,2.0,4.0,False
+1008,Snapchat,Social,57.56,0.0,1.0,False
+1096,YouTube,Entertainment,5.28,3.0,6.0,False
+1093,TikTok,Entertainment,44.61,0.0,5.0,False
+1077,WhatsApp,Social,106.12,3.0,5.0,False
+1023,TikTok,Entertainment,3.41,2.0,6.0,False
+1080,Google Maps,Utilities,93.79,2.0,5.0,False
+1071,Snapchat,Social,26.91,1.0,5.0,False
+1037,Slack,Productivity,6.6,4.0,9.0,True
+1065,Gmail,Utilities,21.51,1.0,4.0,False
+1082,Google Docs,Productivity,2.2,3.0,1.0,True
+1076,WhatsApp,Social,4.98,4.0,6.0,False
+1015,Snapchat,Social,11.12,5.0,6.0,False
+1099,Netflix,Entertainment,3.75,1.0,6.0,False
+1034,Chrome,Utilities,0.79,2.0,2.0,False
+1097,Twitch,Entertainment,36.54,1.0,6.0,False
+1001,Google Maps,Utilities,3.38,2.0,4.0,False
+1061,Slack,Productivity,4.69,1.0,6.0,True
+1042,Twitter,Social,56.83,0.0,7.0,False
+1044,Instagram,Social,23.65,2.0,3.0,False
+1085,Chrome,Utilities,5.39,1.0,6.0,False
+1006,Spotify,Entertainment,10.33,0.0,3.0,False
+1015,WhatsApp,Social,15.23,1.0,7.0,False
+1011,Slack,Productivity,32.04,3.0,3.0,True
+1093,Twitch,Entertainment,127.93,2.0,4.0,False
+1061,Microsoft Teams,Productivity,11.08,2.0,10.0,True
+1089,Snapchat,Social,124.05,3.0,6.0,False
+1052,Microsoft Teams,Productivity,2.41,1.0,3.0,True
+1065,Snapchat,Social,11.99,1.0,5.0,False
+1070,TikTok,Entertainment,4.16,2.0,4.0,False
+1014,Weather,Utilities,14.53,1.0,2.0,False
+1044,Notion,Productivity,15.87,4.0,8.0,True
+1099,Weather,Utilities,8.08,4.0,6.0,False
+1013,Microsoft Teams,Productivity,19.4,2.0,5.0,True
+1048,Slack,Productivity,46.12,2.0,7.0,True
+1080,Google Docs,Productivity,1.08,1.0,2.0,True
+1084,Twitch,Entertainment,103.87,0.0,2.0,False
+1074,Twitter,Social,1.92,0.0,2.0,False
+1068,Camera,Utilities,24.71,1.0,6.0,False
+1072,YouTube,Entertainment,8.44,3.0,5.0,False
+1084,Microsoft Teams,Productivity,46.19,1.0,4.0,True
+1026,Gmail,Utilities,6.03,2.0,4.0,False
+1038,Spotify,Entertainment,13.42,0.0,6.0,False
+1017,Facebook,Social,20.38,1.0,2.0,False
+1014,Google Maps,Utilities,89.55,1.0,5.0,False
+1019,Camera,Utilities,89.53,0.0,4.0,False
+1086,Camera,Utilities,69.77,2.0,3.0,False
+1083,Slack,Productivity,214.45,1.0,7.0,True
+1023,Camera,Utilities,78.18,1.0,7.0,False
+1075,Facebook,Social,4.52,4.0,4.0,False
+1013,Slack,Productivity,18.66,1.0,2.0,True
+1033,Microsoft Teams,Productivity,15.31,1.0,1.0,True
+1067,Weather,Utilities,25.72,2.0,6.0,False
+1011,Snapchat,Social,61.32,1.0,5.0,False
+1094,Gmail,Utilities,5.84,0.0,7.0,False
+1044,Chrome,Utilities,50.58,4.0,2.0,False
+1077,Instagram,Social,8.1,2.0,7.0,False
+1080,Spotify,Entertainment,3.95,2.0,8.0,False
+1026,Notion,Productivity,13.16,2.0,4.0,True
+1001,WhatsApp,Social,21.01,0.0,6.0,False
+1098,Camera,Utilities,9.81,3.0,5.0,False
+1053,Spotify,Entertainment,24.17,1.0,5.0,False
+1032,YouTube,Entertainment,4.03,0.0,5.0,False
+1013,Snapchat,Social,22.09,2.0,11.0,False
+1063,Netflix,Entertainment,1.65,1.0,3.0,False
+1096,Spotify,Entertainment,21.56,1.0,8.0,False
+1004,Chrome,Utilities,6.79,2.0,2.0,False
+1072,Google Maps,Utilities,33.52,1.0,4.0,False
+1063,Weather,Utilities,18.11,2.0,6.0,False
+1031,Microsoft Teams,Productivity,107.65,1.0,3.0,True
+1041,Twitter,Social,1.4,1.0,3.0,False
+1033,Slack,Productivity,120.03,5.0,9.0,True
+1015,YouTube,Entertainment,17.97,2.0,4.0,False
+1034,Google Docs,Productivity,106.11,0.0,5.0,True
+1006,Twitch,Entertainment,38.93,2.0,10.0,False
+1045,Netflix,Entertainment,45.33,1.0,4.0,False
+1080,Twitch,Entertainment,73.4,1.0,6.0,False
+1021,Gmail,Utilities,18.36,3.0,2.0,False
+1091,Instagram,Social,7.18,0.0,2.0,False
+1053,YouTube,Entertainment,48.2,1.0,3.0,False
+1097,Spotify,Entertainment,85.37,2.0,4.0,False
+1009,Snapchat,Social,47.44,2.0,3.0,False
+1070,Gmail,Utilities,20.61,3.0,3.0,False
+1063,Slack,Productivity,17.93,6.0,3.0,True
+1100,Google Docs,Productivity,10.78,3.0,5.0,True
+1094,TikTok,Entertainment,41.64,2.0,2.0,False
+1090,Microsoft Teams,Productivity,17.53,4.0,7.0,True
+1097,Google Maps,Utilities,33.58,1.0,4.0,False
+1076,Instagram,Social,20.07,2.0,6.0,False
+1029,Facebook,Social,11.92,5.0,5.0,False
+1060,Google Maps,Utilities,7.3,1.0,4.0,False
+1025,Netflix,Entertainment,4.11,1.0,4.0,False
+1030,Microsoft Teams,Productivity,62.82,1.0,7.0,True
+1029,Facebook,Social,35.31,1.0,6.0,False
+1096,Snapchat,Social,22.42,6.0,5.0,False
+1058,Netflix,Entertainment,5.28,0.0,2.0,False
+1086,Instagram,Social,64.48,1.0,3.0,False
+1037,Notion,Productivity,2.17,1.0,8.0,True
+1007,Google Docs,Productivity,10.22,3.0,7.0,True
+1030,WhatsApp,Social,68.82,0.0,2.0,False
+1049,Spotify,Entertainment,44.16,0.0,1.0,False
+1003,Slack,Productivity,43.05,4.0,7.0,True
+1082,WhatsApp,Social,8.13,1.0,5.0,False
+1096,Microsoft Teams,Productivity,36.09,2.0,9.0,True
+1026,YouTube,Entertainment,26.53,0.0,6.0,False
+1080,Twitter,Social,8.4,4.0,4.0,False
+1057,Spotify,Entertainment,9.38,2.0,8.0,False
+1070,Google Docs,Productivity,8.4,2.0,4.0,True
+1073,YouTube,Entertainment,22.35,6.0,6.0,False
+1095,Slack,Productivity,58.38,1.0,4.0,True
+1087,Google Maps,Utilities,30.36,4.0,2.0,False
+1057,Twitter,Social,5.72,1.0,4.0,False
+1007,Spotify,Entertainment,29.58,2.0,3.0,False
+1055,Weather,Utilities,0.12,3.0,3.0,False
+1029,Notion,Productivity,103.96,4.0,5.0,True
+1076,Twitter,Social,31.0,2.0,7.0,False
+1012,Evernote,Productivity,6.77,4.0,7.0,True
+1061,Google Maps,Utilities,29.72,3.0,6.0,False
+1058,TikTok,Entertainment,18.42,1.0,2.0,False
+1056,Spotify,Entertainment,0.51,4.0,1.0,False
+1085,Microsoft Teams,Productivity,42.7,5.0,7.0,True
+1005,TikTok,Entertainment,33.82,3.0,5.0,False
+1080,Notion,Productivity,17.29,2.0,3.0,True
+1073,Facebook,Social,37.52,1.0,4.0,False
+1002,Snapchat,Social,80.98,7.0,9.0,False
+1009,Instagram,Social,38.32,4.0,4.0,False
+1012,Twitch,Entertainment,11.71,3.0,3.0,False
+1095,Chrome,Utilities,12.22,0.0,10.0,False
+1077,Twitch,Entertainment,9.34,1.0,4.0,False
+1070,Twitter,Social,94.19,0.0,2.0,False
+1099,WhatsApp,Social,18.15,2.0,6.0,False
+1052,Camera,Utilities,17.58,4.0,4.0,False
+1018,Notion,Productivity,52.25,1.0,6.0,True
+1055,TikTok,Entertainment,19.58,1.0,7.0,False
+1028,WhatsApp,Social,21.19,2.0,3.0,False
+1075,Facebook,Social,7.11,2.0,5.0,False
+1026,Google Docs,Productivity,12.76,2.0,4.0,True
+1031,Notion,Productivity,14.42,2.0,6.0,True
+1026,YouTube,Entertainment,140.01,3.0,10.0,False
+1034,Google Docs,Productivity,45.74,2.0,5.0,True
+1036,Spotify,Entertainment,26.66,2.0,5.0,False
+1053,Instagram,Social,2.37,1.0,6.0,False
+1067,Notion,Productivity,2.06,4.0,2.0,True
+1033,Gmail,Utilities,24.22,2.0,2.0,False
+1097,TikTok,Entertainment,48.28,2.0,1.0,False
+1043,Google Docs,Productivity,80.46,0.0,7.0,True
+1042,Facebook,Social,57.78,2.0,6.0,False
+1030,Notion,Productivity,76.11,0.0,8.0,True
+1071,Netflix,Entertainment,4.43,3.0,2.0,False
+1025,Gmail,Utilities,15.76,2.0,4.0,False
+1010,Slack,Productivity,6.29,2.0,4.0,True
+1086,Netflix,Entertainment,17.38,0.0,8.0,False
+1037,Evernote,Productivity,3.87,0.0,4.0,True
+1046,Spotify,Entertainment,11.37,5.0,6.0,False
+1035,Google Maps,Utilities,17.53,4.0,5.0,False
+1053,Twitter,Social,7.32,5.0,7.0,False
+1005,Slack,Productivity,24.74,2.0,4.0,True
+1011,Weather,Utilities,10.33,0.0,4.0,False
+1027,Gmail,Utilities,9.09,3.0,5.0,False
+1006,Facebook,Social,38.73,4.0,3.0,False
+1060,Google Maps,Utilities,52.96,0.0,3.0,False
+1077,Google Maps,Utilities,13.84,3.0,7.0,False
+1091,Twitter,Social,4.79,5.0,6.0,False
+1038,Weather,Utilities,107.5,2.0,4.0,False
+1094,Netflix,Entertainment,16.28,1.0,3.0,False
+1019,Google Docs,Productivity,21.71,3.0,6.0,True
+1098,Google Docs,Productivity,3.49,1.0,9.0,True
+1024,TikTok,Entertainment,17.14,3.0,4.0,False
+1004,TikTok,Entertainment,47.82,2.0,6.0,False
+1094,Netflix,Entertainment,6.16,2.0,5.0,False
+1073,Snapchat,Social,44.32,3.0,6.0,False
+1089,Camera,Utilities,10.06,1.0,4.0,False
+1041,Twitter,Social,74.26,2.0,6.0,False
+1007,Microsoft Teams,Productivity,7.96,2.0,1.0,True
+1011,Google Docs,Productivity,87.42,3.0,4.0,True
+1024,Camera,Utilities,31.95,1.0,5.0,False
+1015,Twitter,Social,11.92,4.0,7.0,False
+1080,Chrome,Utilities,41.88,1.0,5.0,False
+1086,TikTok,Entertainment,0.81,1.0,4.0,False
+1016,Slack,Productivity,1.63,1.0,3.0,True
+1004,Netflix,Entertainment,31.77,0.0,9.0,False
+1064,TikTok,Entertainment,26.81,0.0,6.0,False
+1073,Twitter,Social,77.61,3.0,5.0,False
+1048,Instagram,Social,71.74,3.0,6.0,False
+1053,Slack,Productivity,52.6,1.0,4.0,True
+1084,Chrome,Utilities,16.97,3.0,7.0,False
+1055,Google Maps,Utilities,18.16,4.0,9.0,False
+1091,Microsoft Teams,Productivity,7.56,2.0,3.0,True
+1056,Netflix,Entertainment,28.32,2.0,4.0,False
+1059,Twitch,Entertainment,166.04,3.0,5.0,False
+1071,TikTok,Entertainment,36.07,1.0,8.0,False
+1085,Snapchat,Social,26.38,2.0,8.0,False
+1020,Notion,Productivity,12.25,2.0,4.0,True
+1067,Weather,Utilities,38.81,1.0,4.0,False
+1057,Instagram,Social,0.25,2.0,2.0,False
+1004,Netflix,Entertainment,44.27,3.0,5.0,False
+1044,YouTube,Entertainment,29.99,2.0,5.0,False
+1092,Spotify,Entertainment,11.56,1.0,6.0,False
+1003,Weather,Utilities,117.78,1.0,8.0,False
+1018,Gmail,Utilities,2.93,2.0,3.0,False
+1074,Gmail,Utilities,40.74,1.0,6.0,False
+1018,Weather,Utilities,25.7,2.0,6.0,False
+1065,Google Docs,Productivity,15.39,2.0,3.0,True
+1072,Slack,Productivity,54.2,1.0,2.0,True
+1053,WhatsApp,Social,36.69,2.0,3.0,False
+1071,Spotify,Entertainment,32.07,3.0,5.0,False
+1080,Camera,Utilities,25.82,1.0,3.0,False
+1077,Netflix,Entertainment,30.02,4.0,5.0,False
+1086,Camera,Utilities,9.91,2.0,3.0,False
+1068,Netflix,Entertainment,3.4,4.0,2.0,False
+1081,Microsoft Teams,Productivity,17.18,2.0,6.0,True
+1038,WhatsApp,Social,149.72,3.0,5.0,False
+1089,Gmail,Utilities,18.5,1.0,2.0,False
