@@ -31,8 +31,9 @@ st.markdown("""
         border-radius: 10px;
         padding: 1.5rem;
         margin-bottom: 1rem;
-        background-color: #f8f9fa;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: #5B3B8C; /* purple */
+        color: #ffffff; /* ensure text is visible */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
         transition: transform 0.3s ease;
     }
     .card:hover {
@@ -50,6 +51,26 @@ st.markdown("""
         font-size: 0.8rem;
         color: #6c757d;
     }
+    /* Global overrides for common white sections across sub-apps */
+    .input-section,
+    .result-card,
+    .sudoku-section,
+    .upload-section,
+    .model-info {
+        background-color: #5B3B8C !important;
+        color: #ffffff !important;
+        border-radius: 10px;
+    }
+    .input-section h1, .input-section h2, .input-section h3,
+    .result-card h1, .result-card h2, .result-card h3,
+    .sudoku-section h1, .sudoku-section h2, .sudoku-section h3,
+    .upload-section h1, .upload-section h2, .upload-section h3,
+    .model-info h1, .model-info h2, .model-info h3 {
+        color: #ffffff !important;
+    }
+    .input-section a, .result-card a, .sudoku-section a, .upload-section a, .model-info a {
+        color: #FFD866 !important; /* readable link color on purple */
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -60,123 +81,65 @@ st.markdown('<div class="sub-header">AI/ML Solutions Across Multiple Domains</di
 # Sidebar navigation
 st.sidebar.title("Navigation")
 
-# Define domains and their modules
-domains = {
-    "Agricultural Solutions": [
-        "Air Quality Index",
-        "Crop Recomendation System",
-        "Crop Recommendation System",
-        "Crop-Recomendation-System-Using-Machine-Learning",
-        "Crop Yield Prediction",
-        "Decision tree regressor,ANN",
-        "Fertiliser Recommendation System",
-        "Plant Disease Detection",
-        "Plant Seedlings Classification",
-        "Soil Classifier CNN"
-        "Tomato Disease Detection"
-    ],
-    "Environmental Monitoring": [
-        "AQI Predictor lstm",
-        "AquaGuard AI",
-        "Bird Species Classification Web App",
-        "Fire Detection",
-        "Pollution-spike-alert",
-        "Waste Classification",
-        "Weather Prediction",
-        "rainfall-prediction"
-    ],
-    "Healthcare": [
-        "Disease Detection",
-        "Doctor speciality Recommendation",
-        "Emotion Recognition Based on NLP",
-        "Health Monitoring",
-        "heart failure",
-        "Heart_Predection",
-        "Medical Imaging",
-        "medical-insurance",
-        "misc",
-        "Multilingual_Symptom_Checker"
-    ],
-    "Financial Analysis": [
-        "Business Analytics",
-        "Credit Card Eligibility Checker",
-        "Cryptocurrency",
-        "Market Analysis"
-    ],
-    "Entertainment Industry": [
-        "RestaurantInsight AI",
-        "SongGenreClassifier",
-        "Youtube Comment Analysis",
-        "movie_success_predictor"
-    ],
-    "Social Media": [
-        "AI-trupet-midi-generator"
-        "Hashtag Popularity Predictor",
-        "Screen-Time-Exceedance-Classifier",
-        "SentimentSense AI",
-        "Toxic comment detector",
-        "Tweets Classification",
-        "spam-comment-classifer",
-        "twitter-sentiment-analyser"
-    ],
-    "Machine Learning Techniques": [
-        "Audio Classification",
-        "AudioFlow Pro",
-        "Bidirectional STM",
-        "CBT_Chatbot",
-        "Chatbot Using RASA",
-        "Class Imbalance problem",
-        "COVID_19-DATA-ANALYSIS",
-        "Credit_card_fraud_detection",
-        "Customer Segmentation using Machine Learning",
-        "Email Classifier",
-        "Exploratory-data-analysis",
-        "Federated Learning",
-        "Google Teachable Machine",
-        "House Price Prediction (Linear vs Ridge vs Lasso)",
-        "job_Advertisement_detection",
-        "LanguageDetection",
-        "Malicious Url Detection",
-        "MNIST English Classification",
-        "Nasa-Asteroid-Dataset-Analysis",
-        "OCR Systems",
-        "Random forest test",
-        "Social Media Fake Accounts Detection with Interactive UI",
-        "Spelling Corrector",
-        "Website Classification",
-        "spam-detection-model"
-        "Sudoku Solver using CNN",
-        "Website Forecasting Using ARIMA"
-    ],
-    "Time series and price forecasting": [
-        "Time series Forecasting with Python",
-        "Time-Series LSTM Model",
-        "Titanic-Survival-Prediction"
-    ],
-    "Transportation & Safety": [
-        "Driver Safety",
-        "Traffic Management"
-    ]
-}
+# Safely read text files with encoding fallbacks
+def read_file_text(path: str) -> str:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return f.read()
+    except UnicodeDecodeError:
+        try:
+            with open(path, "r", encoding="latin-1") as f:
+                return f.read()
+        except Exception:
+            with open(path, "r", errors="replace") as f:
+                return f.read()
+
+# Dynamically discover all modules under src/*/* that have an app.py
+def discover_modules(base_dir: str = "src"):
+    domains_map = {}
+    path_map = {}
+    if not os.path.isdir(base_dir):
+        return domains_map, path_map
+    for domain in sorted([d for d in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, d))]):
+        domain_path = os.path.join(base_dir, domain)
+        modules = []
+        for module in sorted([m for m in os.listdir(domain_path) if os.path.isdir(os.path.join(domain_path, m))]):
+            app_path = os.path.join(domain_path, module, "app.py")
+            if os.path.exists(app_path):
+                modules.append(module)
+                path_map[(domain, module)] = app_path
+        if modules:
+            domains_map[domain] = modules
+    return domains_map, path_map
+
+# Build domains and module path mapping
+domains, module_paths = discover_modules()
+if not domains:
+    st.warning("No Streamlit app.py modules found under 'src/'. Please add tools with an app.py.")
 
 # Domain selection
-selected_domain = st.sidebar.selectbox("Select Domain", list(domains.keys()))
+selected_domain = st.sidebar.selectbox("Select Domain", list(domains.keys())) if domains else None
 
 # Module selection based on domain
-selected_module = st.sidebar.selectbox("Select Module", domains[selected_domain])
+selected_module = (
+    st.sidebar.selectbox("Select Module", domains[selected_domain])
+    if selected_domain else None
+)
 
-# About section in sidebar
-with st.sidebar.expander("About"):
-    st.write("""
-    This application integrates various AI/ML solutions developed as part of the Social Summer of Code 2025 & GirlScript Summer of Code 2025 initiatives.
-    
-    The project covers multiple domains including Healthcare, Finance, Agriculture, NLP, Safety, and more.
-    
-    Select a domain and a specific module from the dropdowns above to explore different AI/ML solutions.
-    """)
+# About section in sidebar (always visible)
+st.sidebar.markdown("""
+**About**
+
+This application integrates various AI/ML solutions developed as part of the Social Summer of Code 2025 & GirlScript Summer of Code 2025 initiatives.
+
+The project covers multiple domains including Healthcare, Finance, Agriculture, NLP, Safety, and more.
+
+Select a domain and a specific module from the dropdowns above to explore different AI/ML solutions.
+""")
 
 # Main content area
-st.markdown(f'<div class="domain-title">{selected_domain} » {selected_module}</div>', unsafe_allow_html=True)
+if selected_domain and selected_module:
+    st.markdown(f'<div class="domain-title">{selected_domain} » {selected_module}</div>', unsafe_allow_html=True)
 
 # Function to load and run module
 def load_module(module_path, module_name):
@@ -199,8 +162,12 @@ def load_module(module_path, module_name):
         return False
 
 # Try to load the selected module
-module_path = os.path.join("src", selected_domain, selected_module, "app.py")
-if os.path.exists(module_path):
+if selected_domain and selected_module:
+    module_path = module_paths.get((selected_domain, selected_module))
+else:
+    module_path = None
+
+if module_path and os.path.exists(module_path):
     success = load_module(module_path, selected_module.replace(" ", "_"))
     if not success:
         st.warning(f"The module '{selected_module}' could not be loaded directly.")
@@ -213,18 +180,14 @@ if os.path.exists(module_path):
             # Try to load README for the module
             readme_path = os.path.join("src", selected_domain, selected_module, "README.md")
             if os.path.exists(readme_path):
-                with open(readme_path, "r") as f:
-                    readme_content = f.read()
+                readme_content = read_file_text(readme_path)
                 st.markdown(readme_content)
             else:
                 st.write(f"This module provides AI/ML solutions for {selected_module}.")
                 st.write("Detailed documentation is not available for this module.")
             
-            # Show path to access the module directly
-            st.code(f"cd {os.path.join('src', selected_domain, selected_module)}\nstreamlit run app.py")
-            
             st.markdown('</div>', unsafe_allow_html=True)
-else:
+elif selected_domain and selected_module:
     st.warning(f"The module '{selected_module}' does not have a Streamlit app.py file.")
     
     # Display module description
@@ -234,24 +197,14 @@ else:
         # Try to load README for the module
         readme_path = os.path.join("src", selected_domain, selected_module, "README.md")
         if os.path.exists(readme_path):
-            with open(readme_path, "r") as f:
-                readme_content = f.read()
+            readme_content = read_file_text(readme_path)
             st.markdown(readme_content)
         else:
             st.write(f"This module provides AI/ML solutions for {selected_module}.")
             st.write("Detailed documentation is not available for this module.")
         
-        # List files in the module directory
-        module_dir = os.path.join("src", selected_domain, selected_module)
-        if os.path.exists(module_dir):
-            files = os.listdir(module_dir)
-            if files:
-                st.write("Files in this module:")
-                for file in files:
-                    if file.endswith(".py") or file.endswith(".ipynb"):
-                        st.code(file)
         
         st.markdown('</div>', unsafe_allow_html=True)
 
 # Footer
-st.markdown('<div class="footer">© 2025 DataSentience-AIML | Social Summer of Code 2025 & GirlScript Summer of Code 2025</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer"> 2025 DataSentience-AIML | Social Summer of Code 2025 & GirlScript Summer of Code 2025</div>', unsafe_allow_html=True)

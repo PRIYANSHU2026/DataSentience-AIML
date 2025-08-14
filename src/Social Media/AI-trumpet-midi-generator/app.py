@@ -17,6 +17,15 @@ import pickle
 import os
 import numpy as np
 
+
+# Streamlit UI Configuration
+st.set_page_config(
+    page_title="Trumpet MIDI Generator",
+    page_icon="🎺",
+    layout="wide",  # full-width layout for better visual space
+    initial_sidebar_state="expanded"
+)
+
 # Try to import audio libraries with fallback
 try:
     from midi2audio import FluidSynth
