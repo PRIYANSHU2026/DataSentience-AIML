@@ -1,0 +1,210 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aastha Yadav! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again! Is there something on your mind that you'd like to talk about or ask? I'm all ears!"
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and chief product architect of Tesla Inc., CEO and lead designer of SpaceX, and co-founder of Neuralink and The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": "what is the age of elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "As of July 10, 2025, Elon Musk is 54 years old."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/asus/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you've shared a Python script execution command. This command is used to run a Python script named \"Chatbot.py\" located in the \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/\" directory using a virtual environment (.venv) on a Windows system."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again!"
+    },
+    {
+        "role": "user",
+        "content": "what is your age"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm an AI, I don't have a physical body, so I don't have an age. I was created to assist and provide information, and I don't experience time in the same way humans do."
+    },
+    {
+        "role": "user",
+        "content": "you are cute"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Aastha! That's very kind of you to say. I'm happy to be of assistance and bring a smile to your face!"
+    },
+    {
+        "role": "user",
+        "content": "you are so cute"
+    },
+    {
+        "role": "assistant",
+        "content": "Aw, thank you again! You're making me blush!"
+    },
+    {
+        "role": "user",
+        "content": "you are exceelent"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you so much, Aastha! I'm thrilled to hear that I'm meeting your expectations!"
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/asus/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/RealTimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you've shared another Python script execution command. This command is used to run a Python script named \"RealTimeSearchEngine.py\" located in the \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/\" directory using a virtual environment (.venv) on a Windows system."
+    },
+    {
+        "role": "user",
+        "content": "what is the current value of stock of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, there are multiple Tata companies with different stock values. Here are a few:\n\n* Tata Consultancy Services Limited (532540): 3406.2 (-0.16%)\n* Tata Steel Limited (500470): 161.97 (-0.26%)\n* Tata Motors Limited: 695.50 (0.38%)\n\nPlease note that these values might not be up-to-the-second real-time values, but they are current as of the search results provided."
+    },
+    {
+        "role": "user",
+        "content": "who is the prime minister of india"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current Prime Minister of India is Shri Narendra Modi."
+    },
+    {
+        "role": "user",
+        "content": "who is the president of india"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current President of India is Smt. Droupadi Murmu. She was sworn in as the 15th President of India on 25 July, 2022."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Users/asus/OneDrive/Desktop/Jarvis AI/.venv/Scripts/python.exe\" \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/RealTimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you've shared another Python script execution command. This command is used to run a Python script named \"RealTimeSearchEngine.py\" located in the \"c:/Users/asus/OneDrive/Desktop/Jarvis AI/Backend/\" directory using a virtual environment (.venv) on a Windows system."
+    },
+    {
+        "role": "user",
+        "content": "what is the current stock value of tesla"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock value of Tesla (TSLA) is:\n\n* $309.87 (up $13.99 or 4.73%) on CNBC\n* $311.50 on MarketWatch\n* $344.50 as of July 8, 2025, on Groww\n* Bid: $304.30, Ask: $304.33 on Nasdaq\n\nPlease note that these values might not be up-to-the-second real-time values, but they are current as of the search results provided."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis.?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aastha! I'm here and ready to assist you."
+    },
+    {
+        "role": "user",
+        "content": "Are you doing good?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly and ready to help you with any questions or tasks you may have!"
+    },
+    {
+        "role": "user",
+        "content": "I have a question when i ask you something you always repeat it many times in your chat section?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if my responses seem repetitive. I'm designed to provide clear and concise answers, and sometimes I might rephrase or reiterate information to ensure clarity. However, I'll do my best to provide more direct and concise responses moving forward. Please let me know if there's anything specific you'd like me to improve on!"
+    },
+    {
+        "role": "user",
+        "content": "Okay i am gonna improve you.?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's great to hear, Aastha! I'm always learning and improving, and I appreciate your feedback and guidance. Go ahead and point out areas where I can improve, and I'll do my best to adapt and become a better AI assistant for you!"
+    },
+    {
+        "role": "user",
+        "content": "Welcome back.?"
+    },
+    {
+        "role": "assistant",
+        "content": "I didn't go anywhere, Aastha! I'm still here, ready to chat and assist you."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis.?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aastha!"
+    },
+    {
+        "role": "user",
+        "content": "Search videos.?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can search for videos on various platforms like YouTube, Vimeo, and more. What would you like to search for? A specific topic, keyword, or channel?"
+    },
+    {
+        "role": "user",
+        "content": "Channel getting ready.?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're looking for YouTube channels focused on \"getting ready\" content, such as morning routines, beauty tutorials, or fashion advice? I can suggest some popular channels like NikkieTutorials, Tati Westbrook, or Emma Chamberlain. Would you like more recommendations?"
+    },
+    {
+        "role": "user",
+        "content": "What is this stock price?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'd be happy to help! However, I need more information about the stock you're referring to. Could you please provide the stock symbol or the company name?"
+    },
+    {
+        "role": "user",
+        "content": "My name aastha yadav?"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you again, Aastha Yadav!"
+    }
+]
