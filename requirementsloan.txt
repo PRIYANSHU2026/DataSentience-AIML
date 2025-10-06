@@ -1,0 +1,13 @@
+# Core libraries
+numpy==1.26.0
+pandas==2.1.0
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.12.3
+
+# Optional (if used in your notebook)
+joblib==1.3.2
