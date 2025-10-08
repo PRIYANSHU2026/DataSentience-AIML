@@ -281,8 +281,8 @@ python app.py
 <center>
 <table>
   <tr><td align="center">
-      <a href="https://github.com/PRIYANSHU2026/">
-        <img src="https://avatars.githubusercontent.com/u/153541511?v=4" width="150" /><br/>
+      <a href="https://github.com/Vidya-0202">
+        <img src="https://avatars.githubusercontent.com/u/232846397?v=4" width="150" /><br/>
         <h4>Priyanshu</h4>
       </a>
   </td></tr>
