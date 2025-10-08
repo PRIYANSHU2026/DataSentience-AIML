@@ -293,7 +293,7 @@ python app.py
   <tr><td align="center">
       <a href="https://github.com/Vidya-0202">
         <img src="https://avatars.githubusercontent.com/u/232846397?v=4" width="150" /><br/>
-        <h4>Priyanshu</h4>
+        <h4>vidya</h4>
       </a>
   </td></tr>
 </table>
