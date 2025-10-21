@@ -288,6 +288,16 @@ python app.py
   </td></tr>
 </table>
 </center>
+<center>
+<table>
+  <tr><td align="center">
+      <a href="https://github.com/Vidya-0202">
+        <img src="https://avatars.githubusercontent.com/u/232846397?v=4" width="150" /><br/>
+        <h4>vidya</h4>
+      </a>
+  </td></tr>
+</table>
+</center>
 
 ❤️ **Thanks Contributors!**  
 <a href="https://github.com/PRIYANSHU2026/DataSentience-AIML/graphs/contributors">
